@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+  
+  <title>2020年12月01日 - VMarkII&#39;s Journal</title>
+  <meta name="viewport" content="width=device-width">
+  
+  <meta name="keywords" content=hexo-build,Happy Work>
+  
+  
+    <link rel="shortcut icon" type="image/x-icon" href="/img/icon.png?v=1.02">
+  
+  
+    <link rel="alternate" href="/atom.xml " title="VMarkII&#39;s Journal" type="application/atom+xml">
+  
+  
+<link rel="stylesheet" href="/css/style.css">
+
+<meta name="generator" content="Hexo 5.3.0"></head>
+  <body>
+    <div class="container">
+      <header class="header">
+  <div class="blog-title">
+    <a href="/" class="logo">VMarkII&#39;s Journal</a>
+    <div class="subtitle">A stupid user&#39;s stupid blog site.</div>
+  </div>
+  <nav class="navbar">
+    <ul class="menu">
+      
+        <li class="menu-item">
+          <a href="/archives" class="menu-item-link">All</a>
+        </li>
+      
+        <li class="menu-item">
+          <a href="/tags" class="menu-item-link">Tags</a>
+        </li>
+      
+        <li class="menu-item">
+          <a href="/categories" class="menu-item-link">Categories</a>
+        </li>
+      
+        <li class="menu-item">
+          <a href="/about" class="menu-item-link">About</a>
+        </li>
+      
+      <li class="menu-item">
+        <a class="menu-item-link popup-trigger" title="Search" href="#">
+          Search
+        </a>
+      </li>
+    </ul>
+  </nav>
+</header>
+<div style="padding: 0 20px;">
+
+  <a style="float: right" href="/2020/12/02/20201202/">
+    <span>Next</span>
+  </a>
+
+
+  <a style="float: left" href="/2020/11/30/20201130/">
+    <span>Previous</span>
+  </a>
+
+<br />
+</div>
+<article class="post">
+  <div class="post-title">
+    <h1 class="article-title">2020年12月01日</h1>
+  </div>
+  <div class="post-footer">
+    
+      <ul class="post-category-list"><li class="post-category-list-item"><a class="post-category-list-link" href="/categories/Diary/">Diary</a></li></ul>
+    
+  </div>
+  <div class="post-content">
+    <h2 id="算是接到第二个公司项目"><a href="#算是接到第二个公司项目" class="headerlink" title="算是接到第二个公司项目"></a>算是接到第二个公司项目</h2><p>不知道是开心还是紧张，上次正经写代码还是我毕业设计的时候。需要接触SharePoint的编程了（虽然好像就是ASP .NET）。</p>
+<p>好了，这下Python, C#凑齐了。</p>
+<h2 id="还在研究hexo局部变量的注入问题"><a href="#还在研究hexo局部变量的注入问题" class="headerlink" title="还在研究hexo局部变量的注入问题"></a>还在研究hexo局部变量的注入问题</h2><p>希望能设置一个front-matter开关，控制mathjax代码的注入。</p>
+<p>其实这个如果能够解决，夜间模式可以马上获得解决。</p>
+<p>继续研究hexo的结构了，不再详细写什么了。</p>
+<p>(22:51 更新) </p>
+<p>现在mathjax在front-matter的开关已经可以用了，但是动了theme里面的layout.ejs。最早考虑的是不动theme里的ejs。通过改动hexo-renderer-mathjax内的index.js读每篇md的front-matter，但是查看了hexo对于全局变量和局部变量的内容和API，最后卡在了hexo.locals.pages。（谁能告诉我如何对hexo g进行调试？）</p>
+<p>如果通过动theme来实现的话，昨天我也没必要这么晚睡了<del>（我要上早班的啊啊啊</del>，因为这个的实现方法相当简单，我甚至都不想写这个实现方法的操作步骤。<a target="_blank" rel="noopener" href="https://ethanblog.com/tech/details-for-front-matters-of-hexo.html">传送门</a></p>
+<p>(23:49 再次更新)</p>
+<p>夜间模式已经完成适配。这个可以写一下操作过程（其实就是HTML5的css支持加入）</p>
+<figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">@media</span> (<span class="attribute">prefers-color-scheme:</span> dark) &#123;</span><br><span class="line">  <span class="selector-tag">body</span> &#123;</span><br><span class="line">    <span class="attribute">background</span>: <span class="number">#222</span>;</span><br><span class="line">    <span class="attribute">color</span>: <span class="number">#eee</span>;</span><br><span class="line">  &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<h2 id="美剧24小时iTunes美服降价了"><a href="#美剧24小时iTunes美服降价了" class="headerlink" title="美剧24小时iTunes美服降价了"></a>美剧24小时iTunes美服降价了</h2><p>但是这个价格完全不想买，再等等吧。 ;P</p>
+<hr>
+<p>晚安。</p>
+
+  </div>
+  <div class="post-meta">
+    <span class="post-time">2020-12-01 22:26:54</span>
+  </div>
+  <br />
+  <div class="post-footer">
+    
+      <ul class="post-tag-list" itemprop="keywords"><li class="post-tag-list-item"><a class="post-tag-list-link" href="/tags/Happy-Work/" rel="tag">Happy Work</a></li><li class="post-tag-list-item"><a class="post-tag-list-link" href="/tags/hexo-build/" rel="tag">hexo-build</a></li></ul>
+    
+    <a href="#top" class="top">Back to Top</a>
+  </div>
+</article>
+<footer>
+  <span class="author">
+    VerticalACE Mark II
+  </span>
+</footer>
+
+    </div>
+    <div class="search-pop-overlay">
+      <div class="popup search-popup">
+        <div class="search-header">
+          <span class="search-icon">
+              Search
+              </span>
+              <div class="search-input-container">
+              <input autocomplete="off" autocapitalize="off" spellcheck="false"
+                      type="search" class="search-input" id="search-input">
+              </div>
+              <span class="popup-btn-close">
+              Close
+              </span>
+        </div>
+        <div id="search-result">
+          <div id="no-result">
+            No results
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+  
+<script src="/js/local-search.js"></script>
+
+  
+</html>

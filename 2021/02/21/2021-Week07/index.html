@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+  
+  <title>2021-Week07 - VMarkII&#39;s Journal</title>
+  <meta name="viewport" content="width=device-width">
+  
+  <meta name="keywords" content=Software,Buying>
+  
+  
+    <link rel="shortcut icon" type="image/x-icon" href="/img/icon.png?v=1.02">
+  
+  
+    <link rel="alternate" href="/atom.xml " title="VMarkII&#39;s Journal" type="application/atom+xml">
+  
+  
+<link rel="stylesheet" href="/css/style.css">
+
+<meta name="generator" content="Hexo 5.3.0"></head>
+  <body>
+    <div class="container">
+      <header class="header">
+  <div class="blog-title">
+    <a href="/" class="logo">VMarkII&#39;s Journal</a>
+    <div class="subtitle">A stupid user&#39;s stupid blog site.</div>
+  </div>
+  <nav class="navbar">
+    <ul class="menu">
+      
+        <li class="menu-item">
+          <a href="/archives" class="menu-item-link">All</a>
+        </li>
+      
+        <li class="menu-item">
+          <a href="/tags" class="menu-item-link">Tags</a>
+        </li>
+      
+        <li class="menu-item">
+          <a href="/categories" class="menu-item-link">Categories</a>
+        </li>
+      
+        <li class="menu-item">
+          <a href="/about" class="menu-item-link">About</a>
+        </li>
+      
+      <li class="menu-item">
+        <a class="menu-item-link popup-trigger" title="Search" href="#">
+          Search
+        </a>
+      </li>
+    </ul>
+  </nav>
+</header>
+<div style="padding: 0 20px;">
+
+  <a style="float: right" href="/2021/02/28/2021-Week08/">
+    <span>Next</span>
+  </a>
+
+
+  <a style="float: left" href="/2021/02/14/2021-Week06/">
+    <span>Previous</span>
+  </a>
+
+<br />
+</div>
+<article class="post">
+  <div class="post-title">
+    <h1 class="article-title">2021-Week07</h1>
+  </div>
+  <div class="post-footer">
+    
+      <ul class="post-category-list"><li class="post-category-list-item"><a class="post-category-list-link" href="/categories/Weekly-Diary/">Weekly Diary</a></li></ul>
+    
+  </div>
+  <div class="post-content">
+    <h2 id="Windows-Server-Backup的小问题"><a href="#Windows-Server-Backup的小问题" class="headerlink" title="Windows Server Backup的小问题"></a>Windows Server Backup的小问题</h2><p>Windows Server备份的UI，wbadmin.msc，会出现打不开的情况。</p>
+<p>解决方法：以管理员身份运行以下命令：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">wbadmin delete catalog</span><br></pre></td></tr></table></figure></p>
+<h2 id="购买了Windows-Server-2019-Datacenter和新的机箱"><a href="#购买了Windows-Server-2019-Datacenter和新的机箱" class="headerlink" title="购买了Windows Server 2019 Datacenter和新的机箱"></a>购买了Windows Server 2019 Datacenter和新的机箱</h2><p>准备进行服务器升级。</p>
+<p>基本计划：</p>
+<p>J3455B-ITX主板+一个NAS系统（正在Windows Server 2016，FreeNAS和UnRAID中选），装上现在所有的SAS盘和整列卡，使用旧机箱。</p>
+<p>B365M-ITX主板+一个Hypervisor（Proxmox VE内安装Windows Server 2019或者Windows Server 2019使用Hyper-V），将SAS盘和整列卡移除，使用新机箱。</p>
+<h2 id="嵌套虚拟化"><a href="#嵌套虚拟化" class="headerlink" title="嵌套虚拟化"></a>嵌套虚拟化</h2><p>如果最后选型确定Proxmox VE内安装Windows Server 2019，那么就涉及到一个嵌套虚拟化的事情。</p>
+<p>本身i7-8700和这块主板都是vmx支持，至于是否可以grep到nested这个开关还没有尝试过。</p>
+<h2 id="周六去公司上班"><a href="#周六去公司上班" class="headerlink" title="周六去公司上班"></a>周六去公司上班</h2><p>天气相当好，而且事情并不多，可以继续学习Azure Services，而且是直接上手企业版，真的很快乐。</p>
+<hr>
+<p>EOF.</p>
+
+  </div>
+  <div class="post-meta">
+    <span class="post-time">2021-02-21 16:02:06</span>
+  </div>
+  <br />
+  <div class="post-footer">
+    
+      <ul class="post-tag-list" itemprop="keywords"><li class="post-tag-list-item"><a class="post-tag-list-link" href="/tags/Buying/" rel="tag">Buying</a></li><li class="post-tag-list-item"><a class="post-tag-list-link" href="/tags/Software/" rel="tag">Software</a></li></ul>
+    
+    <a href="#top" class="top">Back to Top</a>
+  </div>
+</article>
+<footer>
+  <span class="author">
+    VerticalACE Mark II
+  </span>
+</footer>
+
+    </div>
+    <div class="search-pop-overlay">
+      <div class="popup search-popup">
+        <div class="search-header">
+          <span class="search-icon">
+              Search
+              </span>
+              <div class="search-input-container">
+              <input autocomplete="off" autocapitalize="off" spellcheck="false"
+                      type="search" class="search-input" id="search-input">
+              </div>
+              <span class="popup-btn-close">
+              Close
+              </span>
+        </div>
+        <div id="search-result">
+          <div id="no-result">
+            No results
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+  
+<script src="/js/local-search.js"></script>
+
+  
+</html>

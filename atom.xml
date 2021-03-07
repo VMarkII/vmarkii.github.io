@@ -1,0 +1,910 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>VMarkII&#39;s Journal</title>
+  
+  <subtitle>A stupid user&#39;s stupid blog site.</subtitle>
+  <link href="https://blog.vmarkii.com/atom.xml" rel="self"/>
+  
+  <link href="https://blog.vmarkii.com/"/>
+  <updated>2021-03-07T15:52:52.593Z</updated>
+  <id>https://blog.vmarkii.com/</id>
+  
+  <author>
+    <name>VerticalACE Mark II</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2021-Week09</title>
+    <link href="https://blog.vmarkii.com/2021/03/07/2021-Week09/"/>
+    <id>https://blog.vmarkii.com/2021/03/07/2021-Week09/</id>
+    <published>2021-03-07T15:31:30.000Z</published>
+    <updated>2021-03-07T15:52:52.593Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="本站域名迁至https-blog-vmarkii-com"><a href="#本站域名迁至https-blog-vmarkii-com" class="headerlink" title="本站域名迁至https://blog.vmarkii.com"></a>本站域名迁至<a href="https://blog.vmarkii.com">https://blog.vmarkii.com</a></h2><h2 id="去年的假还有三天"><a href="#去年的假还有三天" class="headerlink" title="去年的假还有三天"></a>去年的假还有三天</h2><p>放在Week10休掉，一周上班两天，舒服的不谈了。</p><h2 id="忙碌"><a href="#忙碌" class="headerlink" title="忙碌"></a>忙碌</h2><p>星期一（3月1日）正逢公司商标更换的日子，一线IT支持几乎都在接电话，没有停下来休息的时间。</p><p>欧洲时区上班的第一个小时，也就是中国时区下午3点到下午4点，Service Desk一共接了57个电话。</p><p>13个人，包括我在那一个小时同时接电话的场景，在Dashboard上显示出来是相当壮观的。相信这应该是我进入公司最忙的时刻。</p><p>星期一我加班到晚上7点，可能我办公室里的同事加班的更晚（主要是这周我要和美国时区交接所以从星期二到星期五我都要早一个小时到达公司。）</p><p>星期五总算是基本结束了忙碌。</p><h2 id="年会恢复日程"><a href="#年会恢复日程" class="headerlink" title="年会恢复日程"></a>年会恢复日程</h2><p>鉴于上海市内疫情防控得当，Week12周五（3月26日）开年会。</p><p><del>作为年会音视频编排，完全忘记该做啥了。</del></p><h2 id="48小时耐久直播"><a href="#48小时耐久直播" class="headerlink" title="48小时耐久直播"></a>48小时耐久直播</h2><p>16小时是在睡觉的。</p><p><del>10小时是在玩炉石传说的。</del></p><p>计划列表完成结果：</p><p>[✔] 使用Hyper-V搭建两个操作系统，Windows 10和CentOS；<br>[✔] Flask替代IIS完成对网站页面的响应；<br>[✔] Flask使用https证书提高网站安全性；<br>[ ] 使用nginx制作一个自己的直播服务器并且完成推拉流；<br>[✔] 如何一张证书同时使用于Flask和nginx？是否需要Wildcard DV？</p><p>第二和第五个问题是同时解决的。</p><p>Flask完成的脚本，也就是Webapp，在uWSGI运行部署，然后再通过nginx转发。这个操作步骤倒是可以先一篇技术文档。</p><p>Wildcard DV SSL买了又退货了，贫穷限制了我。</p><h2 id="iTunes"><a href="#iTunes" class="headerlink" title="iTunes"></a>iTunes</h2><p>Big Hero 6 - 第一次最低价 - 8美元<br>Zootopia - 第一次最低价 - 8美元</p><hr><p>EOF.</p>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;本站域名迁至https-blog-vmarkii-com&quot;&gt;&lt;a href=&quot;#本站域名迁至https-blog-vmarkii-com&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Weekly-Diary" scheme="https://blog.vmarkii.com/categories/Weekly-Diary/"/>
+    
+    
+    <category term="Happy Work" scheme="https://blog.vmarkii.com/tags/Happy-Work/"/>
+    
+    <category term="iTunes" scheme="https://blog.vmarkii.com/tags/iTunes/"/>
+    
+    <category term="Challenge" scheme="https://blog.vmarkii.com/tags/Challenge/"/>
+    
+    <category term="Dev" scheme="https://blog.vmarkii.com/tags/Dev/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2021年3月6日-3月7日</title>
+    <link href="https://blog.vmarkii.com/2021/03/06/20210306-07/"/>
+    <id>https://blog.vmarkii.com/2021/03/06/20210306-07/</id>
+    <published>2021-03-05T16:37:25.000Z</published>
+    <updated>2021-03-05T16:51:03.366Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="今年第一个假期开始"><a href="#今年第一个假期开始" class="headerlink" title="今年第一个假期开始"></a>今年第一个假期开始</h2><p>48小时耐久直播？行啊。</p><div style="text-align:center"><a href="https://www.douyu.com/vmarkii">https://www.douyu.com/vmarkii</a></div><p><script type="text/javascript">function countTime() {var date = new Date(); var now = date.getTime();var str="2021/03/08 00:00:00";var endDate = new Date(str);var end = endDate.getTime();var leftTime = end-now;var h,m,s;if (leftTime>=0) {h = Math.floor(leftTime/1000/60/60);m = Math.floor(leftTime/1000/60%60);s = Math.floor(leftTime/1000%60);document.getElementById("_h").innerHTML = h+" Hour";document.getElementById("_m").innerHTML = m+" Minute";if (m < 10) document.getElementById("_m").innerHTML = "0" + document.getElementById("_m").innerHTML;document.getElementById("_s").innerHTML = s+" Second";if (s < 10) document.getElementById("_s").innerHTML = "0" + document.getElementById("_s").innerHTML;if (h != 1) document.getElementById("_h").innerHTML += "s"; if (m != 1) document.getElementById("_m").innerHTML += "s"; if (s != 1) document.getElementById("_s").innerHTML += "s"; setTimeout(countTime,1000);}}</script></p><body onload="countTime()" >    <div style="text-align:center">        <span id="_h">0 Hours</span>        <span id="_m">00 Minutes</span>        <span id="_s">00 Seconds</span>    </div></body><p>第九周周记也会在直播中完成。</p><h2 id="定个计划列表？"><a href="#定个计划列表？" class="headerlink" title="定个计划列表？"></a>定个计划列表？</h2><p>[ ] 使用Hyper-V搭建两个操作系统，Windows 10和CentOS；<br>[ ] Flask替代IIS完成对网站页面的响应；<br>[ ] Flask使用https证书提高网站安全性；<br>[ ] 使用nginx制作一个自己的直播服务器并且完成推拉流；<br>[ ] 如何一张证书同时使用于Flask和nginx？是否需要Wildcard DV？</p><h2 id="当然，如果你听见我在放音乐并且屏幕上只有一个倒计时，那我就在睡觉，不用怀疑。"><a href="#当然，如果你听见我在放音乐并且屏幕上只有一个倒计时，那我就在睡觉，不用怀疑。" class="headerlink" title="当然，如果你听见我在放音乐并且屏幕上只有一个倒计时，那我就在睡觉，不用怀疑。"></a>当然，如果你听见我在放音乐并且屏幕上只有一个倒计时，那我就在睡觉，不用怀疑。</h2><h2 id="上周的周记居然忘记写Daft-Punk解散这事了"><a href="#上周的周记居然忘记写Daft-Punk解散这事了" class="headerlink" title="上周的周记居然忘记写Daft Punk解散这事了"></a>上周的周记居然忘记写Daft Punk解散这事了</h2><h1 id="Daft-Punk解散了。"><a href="#Daft-Punk解散了。" class="headerlink" title="Daft Punk解散了。"></a><strong><em>Daft Punk解散了。</em></strong></h1><h1 id="？？？？？？？？"><a href="#？？？？？？？？" class="headerlink" title="？？？？？？？？"></a><strong><em>？？？？？？？？</em></strong></h1><h1 id="真就解散了也不把Alive-2007视频放出来呗？"><a href="#真就解散了也不把Alive-2007视频放出来呗？" class="headerlink" title="真就解散了也不把Alive 2007视频放出来呗？"></a><strong><em>真就解散了也不把Alive 2007视频放出来呗？</em></strong></h1><hr><p>EOF.</p>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;今年第一个假期开始&quot;&gt;&lt;a href=&quot;#今年第一个假期开始&quot; class=&quot;headerlink&quot; title=&quot;今年第一个假期开始&quot;&gt;&lt;/a&gt;今年第一个假期开始&lt;/h2&gt;&lt;p&gt;48小时耐久直播？行啊。&lt;/p&gt;
+&lt;div</summary>
+        
+      
+    
+    
+    
+    <category term="Diary" scheme="https://blog.vmarkii.com/categories/Diary/"/>
+    
+    
+    <category term="Challenge" scheme="https://blog.vmarkii.com/tags/Challenge/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2021-Week08</title>
+    <link href="https://blog.vmarkii.com/2021/02/28/2021-Week08/"/>
+    <id>https://blog.vmarkii.com/2021/02/28/2021-Week08/</id>
+    <published>2021-02-28T13:57:00.000Z</published>
+    <updated>2021-03-05T16:15:45.160Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="家中网络正式升级到了1000Mbps并外加海外精品网"><a href="#家中网络正式升级到了1000Mbps并外加海外精品网" class="headerlink" title="家中网络正式升级到了1000Mbps并外加海外精品网"></a>家中网络正式升级到了1000Mbps并外加海外精品网</h2><p>2990元年费外加50元每月的海外精品网，Github，微软Auth和iTunes下载的速度都有很大提升。</p><h2 id="买了新的6SATA盘位的ITX机箱"><a href="#买了新的6SATA盘位的ITX机箱" class="headerlink" title="买了新的6SATA盘位的ITX机箱"></a>买了新的6SATA盘位的ITX机箱</h2><p>机箱名字叫蜜罐超存，里面配的200W电源换成了我之前ITX机箱内的350W 1U电源。200W根本带不动i7 8700和B365M。<br>之前在写完<a href="https://www.vmarkii.com/2021/02/21/2021-Week07/">上周周记</a>考虑把SAS硬盘全部搬入这个新机箱，然后发现我要是插入了整列卡，机箱就关不上了，就压根没有给我开PCIe机箱外槽，又全部装回去了。</p><h2 id="Windows-Server-2019-Datacenter还在摸索"><a href="#Windows-Server-2019-Datacenter还在摸索" class="headerlink" title="Windows Server 2019 Datacenter还在摸索"></a>Windows Server 2019 Datacenter还在摸索</h2><p>这一周我因为AD DS配置问题，光是重装Windows Server 2019就重装了4次，先暂时不这么做了。</p><p>直到今天，我才知道，原来I211网卡是可以刷成I210网卡从而实现Windows Server免驱动（之前都要禁用驱动数字签名然后安装加过VID的驱动），可见我的知识是多么匮乏了。</p><p>而且现在的链路聚合都不是在设备管理器里加组了，你只要在服务器管理器里设置网络组就可以了，至少有一些进展。（2.0Gbps至少对多个Wi-Fi 6设备同时访问没什么问题了）</p><h2 id="工作中获得Visual-Studio-Professional订阅"><a href="#工作中获得Visual-Studio-Professional订阅" class="headerlink" title="工作中获得Visual Studio Professional订阅"></a>工作中获得Visual Studio Professional订阅</h2><p>这个东西，和Microsoft Azure，Adobe Creative Cloud都有一个共同点：</p><p>如果你不是专业的个人开发者或者内容创造者，你个人可能一年都用不上10次，肯定是不舍得买这个了。能在工作中获得企业正版授权并且学习知识，<strong>这些实际操作都是书上看不到的。</strong></p><p>这样的好机会，怎么能错过呢。</p><h2 id="iTunes"><a href="#iTunes" class="headerlink" title="iTunes"></a>iTunes</h2><p>就说一个吧： Micheal Jackson’s This Is It 3年以来第一次最低价5美元，当时就下手了。</p><h2 id="吴孟达因为肝癌去世"><a href="#吴孟达因为肝癌去世" class="headerlink" title="吴孟达因为肝癌去世"></a>吴孟达因为肝癌去世</h2><h1 id="“你在教我做事啊-”"><a href="#“你在教我做事啊-”" class="headerlink" title="“你在教我做事啊?”"></a><strong><em>“你在教我做事啊?”</em></strong></h1><h1 id="“我才应该拿奥斯卡最佳男主角奖！”"><a href="#“我才应该拿奥斯卡最佳男主角奖！”" class="headerlink" title="“我才应该拿奥斯卡最佳男主角奖！”"></a><strong><em>“我才应该拿奥斯卡最佳男主角奖！”</em></strong></h1><h2 id="上海市轻纺市场-虬江路专区"><a href="#上海市轻纺市场-虬江路专区" class="headerlink" title="上海市轻纺市场 - 虬江路专区"></a>上海市轻纺市场 - 虬江路专区</h2><p>去的路上（不是去之前）看了一眼之前一直光顾的店的微信，今天第一天开业。<del><strong>缘分呐</strong></del></p><p>买了Sony MP-CD1和苹果61W Type-C充电器，价格的确是相当便宜了。</p><p>搬到了曹安路1618号，对于那些一直逛虬江路的上海音像城的老人来说，失去了很多。</p><p>虬江路，七浦路，这样的地方最后都将成为回忆。爱淘旧货，在某些方面抠门的上海人（包括我这个连上海话都说不溜的），以后想找一个有点上海味道的地方都找不到了。</p><h2 id="父亲终于愿意买一部新手机了"><a href="#父亲终于愿意买一部新手机了" class="headerlink" title="父亲终于愿意买一部新手机了"></a>父亲终于愿意买一部新手机了</h2><p>小米10青春版，其实还不错。该有的功能，Wi-Fi 5, NFC, 50倍变焦都有了。</p><h2 id="Week09将会非常繁忙"><a href="#Week09将会非常繁忙" class="headerlink" title="Week09将会非常繁忙"></a>Week09将会非常繁忙</h2><p>由于公司商标改变，全球用户的Microsoft 365域要完全切换，可以预见的，会有各种各样的问题，邮箱地址变了，手机上的Microsoft Intune登录和邮箱重新认证，等等。</p><p>And here, we, go.</p><hr><p>EOF.</p>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;家中网络正式升级到了1000Mbps并外加海外精品网&quot;&gt;&lt;a href=&quot;#家中网络正式升级到了1000Mbps并外加海外精品网&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Weekly Diary" scheme="https://blog.vmarkii.com/categories/Weekly-Diary/"/>
+    
+    
+    <category term="Culture" scheme="https://blog.vmarkii.com/tags/Culture/"/>
+    
+    <category term="iTunes" scheme="https://blog.vmarkii.com/tags/iTunes/"/>
+    
+    <category term="Hardware" scheme="https://blog.vmarkii.com/tags/Hardware/"/>
+    
+    <category term="Buying" scheme="https://blog.vmarkii.com/tags/Buying/"/>
+    
+    <category term="Dev" scheme="https://blog.vmarkii.com/tags/Dev/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2021-Week07</title>
+    <link href="https://blog.vmarkii.com/2021/02/21/2021-Week07/"/>
+    <id>https://blog.vmarkii.com/2021/02/21/2021-Week07/</id>
+    <published>2021-02-21T08:02:06.000Z</published>
+    <updated>2021-02-21T08:17:49.163Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Windows-Server-Backup的小问题"><a href="#Windows-Server-Backup的小问题" class="headerlink" title="Windows Server Backup的小问题"></a>Windows Server Backup的小问题</h2><p>Windows Server备份的UI，wbadmin.msc，会出现打不开的情况。</p><p>解决方法：以管理员身份运行以下命令：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">wbadmin delete catalog</span><br></pre></td></tr></table></figure></p><h2 id="购买了Windows-Server-2019-Datacenter和新的机箱"><a href="#购买了Windows-Server-2019-Datacenter和新的机箱" class="headerlink" title="购买了Windows Server 2019 Datacenter和新的机箱"></a>购买了Windows Server 2019 Datacenter和新的机箱</h2><p>准备进行服务器升级。</p><p>基本计划：</p><p>J3455B-ITX主板+一个NAS系统（正在Windows Server 2016，FreeNAS和UnRAID中选），装上现在所有的SAS盘和整列卡，使用旧机箱。</p><p>B365M-ITX主板+一个Hypervisor（Proxmox VE内安装Windows Server 2019或者Windows Server 2019使用Hyper-V），将SAS盘和整列卡移除，使用新机箱。</p><h2 id="嵌套虚拟化"><a href="#嵌套虚拟化" class="headerlink" title="嵌套虚拟化"></a>嵌套虚拟化</h2><p>如果最后选型确定Proxmox VE内安装Windows Server 2019，那么就涉及到一个嵌套虚拟化的事情。</p><p>本身i7-8700和这块主板都是vmx支持，至于是否可以grep到nested这个开关还没有尝试过。</p><h2 id="周六去公司上班"><a href="#周六去公司上班" class="headerlink" title="周六去公司上班"></a>周六去公司上班</h2><p>天气相当好，而且事情并不多，可以继续学习Azure Services，而且是直接上手企业版，真的很快乐。</p><hr><p>EOF.</p>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Windows-Server-Backup的小问题&quot;&gt;&lt;a href=&quot;#Windows-Server-Backup的小问题&quot; class=&quot;headerlink&quot; title=&quot;Windows Server Backup的小问题&quot;&gt;&lt;/a&gt;Windows</summary>
+        
+      
+    
+    
+    
+    <category term="Weekly Diary" scheme="https://blog.vmarkii.com/categories/Weekly-Diary/"/>
+    
+    
+    <category term="Software" scheme="https://blog.vmarkii.com/tags/Software/"/>
+    
+    <category term="Buying" scheme="https://blog.vmarkii.com/tags/Buying/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2021-Week06</title>
+    <link href="https://blog.vmarkii.com/2021/02/14/2021-Week06/"/>
+    <id>https://blog.vmarkii.com/2021/02/14/2021-Week06/</id>
+    <published>2021-02-14T14:00:17.000Z</published>
+    <updated>2021-02-14T14:35:16.747Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="iTunes美区降价"><a href="#iTunes美区降价" class="headerlink" title="iTunes美区降价"></a>iTunes美区降价</h2><p>Avicii的专辑，包括最后一张专辑，TIM - 5美元</p><p>Zedd的Clarity和True Colors - 5美元</p><p>周星驰的功夫之王 - 5美元</p><p>张艺谋的英雄 - 5美元</p><p>DC一溜电影和电影降价。但是不是最低价。</p><p>13 Assassins - 5美元</p><p>Senna - 5美元</p><p>Deadpool 1 &amp; 2 - 15美元</p><p>The Piano - 5美元</p><p>Ghost(人鬼情未了) - 5美元</p><h2 id="辛丑牛年开始"><a href="#辛丑牛年开始" class="headerlink" title="辛丑牛年开始"></a>辛丑牛年开始</h2><h2 id="Noita真的太好玩了！！！"><a href="#Noita真的太好玩了！！！" class="headerlink" title="Noita真的太好玩了！！！"></a>Noita真的太好玩了！！！</h2><p>让我逝一逝这根新法杖。</p><h2 id="这几天都没有出去"><a href="#这几天都没有出去" class="headerlink" title="这几天都没有出去"></a>这几天都没有出去</h2><p>实在不知道去哪里玩，没有动力。</p><h2 id="整理一下需要学的知识"><a href="#整理一下需要学的知识" class="headerlink" title="整理一下需要学的知识"></a>整理一下需要学的知识</h2><p>Azure Cosmos DB, NoSQL, React, Vanilla JavaScript, RTMP and WebRTC.</p><hr><p>EOF.</p>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;iTunes美区降价&quot;&gt;&lt;a href=&quot;#iTunes美区降价&quot; class=&quot;headerlink&quot; title=&quot;iTunes美区降价&quot;&gt;&lt;/a&gt;iTunes美区降价&lt;/h2&gt;&lt;p&gt;Avicii的专辑，包括最后一张专辑，TIM -</summary>
+        
+      
+    
+    
+    
+    <category term="Weekly Diary" scheme="https://blog.vmarkii.com/categories/Weekly-Diary/"/>
+    
+    
+    <category term="Culture" scheme="https://blog.vmarkii.com/tags/Culture/"/>
+    
+    <category term="iTunes" scheme="https://blog.vmarkii.com/tags/iTunes/"/>
+    
+    <category term="Dev" scheme="https://blog.vmarkii.com/tags/Dev/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2021-Week05</title>
+    <link href="https://blog.vmarkii.com/2021/02/06/2021-Week05/"/>
+    <id>https://blog.vmarkii.com/2021/02/06/2021-Week05/</id>
+    <published>2021-02-06T11:50:08.000Z</published>
+    <updated>2021-02-14T14:01:00.571Z</updated>
+    
+    <content type="html"><![CDATA[<p>这一周发生的事情精彩到不敢相信。</p><h2 id="iTunes美区降价"><a href="#iTunes美区降价" class="headerlink" title="iTunes美区降价"></a>iTunes美区降价</h2><p>Attack on Titan (进击的巨人) 每一季 - 5美元</p><p>Apocalypse Now (Final Cut) - 5美元</p><p>值得说的也就是这两个降价了。</p><p>当然，National Treasure两部我还是买了，实在是我英语的启蒙电影。</p><p>Islands - Essential Einaudi by Ludovico Einaudi也买了。</p><h2 id="Daft-Punk-Alive-2007-真·官方现场视频在YouTube出现"><a href="#Daft-Punk-Alive-2007-真·官方现场视频在YouTube出现" class="headerlink" title="Daft Punk Alive 2007 真·官方现场视频在YouTube出现"></a>Daft Punk Alive 2007 真·官方现场视频在YouTube出现</h2><p><a href="https://www.youtube.com/watch?v=udvYSd2TIkg">原视频链接</a></p><p><a href="https://rickcaylor.websitetoolbox.com/post/lollapalooza-chicago-2877003?highlight=lollapalooza">视频来源</a></p><p>对于知道电子音乐的人，应该都明白这个现场的意义。</p><p><strong>这是不可磨灭的传奇。</strong></p><p><em>我甚至觉得上面这句话都不足以形容。</em></p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">Live mixed video that was displayed on the screens during the show. </span><br><span class="line"></span><br><span class="line">Sourced is Standard Definition (2007 Satellite » Stand-alone DVD capture)</span><br><span class="line">QTGMC (60fps)&#x2F;NeatVideo(Clean)&#x2F;Rendered at 1080p60 for Youtube bitrate</span><br><span class="line">Audio is as it is on the source.</span><br><span class="line"></span><br><span class="line">This source was shared w&#x2F; me by a tape trader friend after they saw the amateur 3-cam video of Daft Punk&#39;s Vegoose 2007 set I made for this channel.  In passing they mentioned they&#39;d recorded a raw Daft Punk &quot;webcast&quot; feed at some point and offered to look for the disc.  The video was captured via satellite during the event in 2007.</span><br></pre></td></tr></table></figure><p>14年以来，网上有无数用自己的相机，手机拍摄的视频合成的演唱会全场。</p><p>但是，在2021年1月23日，这个视频出现了。</p><p>随便摘录几条视频评论？</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">This is the holy grail the missing link of humanity for 14 years the most wanted live and you by uploading it you have earned a place in paradise</span><br></pre></td></tr></table></figure><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">This is truly a historical document. This must be preserved in sealed vaults, after being spread all across the internet.</span><br></pre></td></tr></table></figure><p>我已经在13个不同的地方，包括DVD刻录，保存了。</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">I paid a premium membership for this and I’m not mad.</span><br></pre></td></tr></table></figure><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">I literally just paid for YouTube to avoid these ad&#39;s every few minutes..Daft fucking punk is worth it.</span><br></pre></td></tr></table></figure><p>Youtube Premium中间没有穿插广告。</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">This was at the tail end of the “not a cell phone in sight, just people enjoying the moment” generation and we didn’t even realize it at the time.</span><br></pre></td></tr></table></figure><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">if i could go back to any time in the past 20 years i&#39;d go see this concert</span><br></pre></td></tr></table></figure><p>是的，我也是这么想的。</p><p><strong>我很嫉妒，我也很少嫉妒，但是我很嫉妒那些能在现场亲眼看到这一切的观众。</strong></p><p>根据上传这段视频的人描述，这个视频其实是在现场传输到外场大屏幕的时候被卫星接收器拦截到视频源并转录的，所以镜头的转换不是这个上传者完成的。</p><p>音频在特定的位置出现了回声，因为主控台的音频和现场的音频被同时输出了。</p><p><strong>而这些恰恰说明，这个视频的真实性。</strong></p><p>所有这些视频的近景，<strong>都是真实的。</strong></p><p>多少人挤破头想要得到的，而又几乎不可能得到的东西，终于在尘封了14年，通过互联网传播给了所有爱Daft Punk的人。</p><h2 id="人人影视被查"><a href="#人人影视被查" class="headerlink" title="人人影视被查"></a>人人影视被查</h2><p>当然，人人影视字幕组还在。</p><p>所有新闻都说“人人影视字幕组被上海警方查处”，但是其实被查的是“人人影视”。</p><p>怎么回事？</p><p>这次被抓进去的人本身在字幕组内部就一直在剥削其他人，他们罪有应得。</p><p>他们在人人影视系应用程序内提供下载的片源开头或者结尾放入广告，提供网页贩卖带盗版内容的硬盘，这个错误就没得洗。</p><p>被抓的理由是利用盗版非法牟利，而不是因为翻译了片源内容。</p><p>对于大多数不愿意花时间寻找片源或者依赖人人影视这个平台的人来说，</p><p>这是一个时代的结束。</p><p>而对于那些曾经无偿奉献的，又或者是商业的，字幕工作者来说，</p><p>这是一个时代的开始。</p><hr><p>EOF.</p>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;这一周发生的事情精彩到不敢相信。&lt;/p&gt;
+&lt;h2 id=&quot;iTunes美区降价&quot;&gt;&lt;a href=&quot;#iTunes美区降价&quot; class=&quot;headerlink&quot; title=&quot;iTunes美区降价&quot;&gt;&lt;/a&gt;iTunes美区降价&lt;/h2&gt;&lt;p&gt;Attack on</summary>
+        
+      
+    
+    
+    
+    <category term="Weekly Diary" scheme="https://blog.vmarkii.com/categories/Weekly-Diary/"/>
+    
+    
+    <category term="Culture" scheme="https://blog.vmarkii.com/tags/Culture/"/>
+    
+    <category term="iTunes" scheme="https://blog.vmarkii.com/tags/iTunes/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2021-Week04</title>
+    <link href="https://blog.vmarkii.com/2021/01/31/2021-Week04/"/>
+    <id>https://blog.vmarkii.com/2021/01/31/2021-Week04/</id>
+    <published>2021-01-31T09:05:03.000Z</published>
+    <updated>2021-01-31T11:55:09.733Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="两台显示器，一个双显示器支架，一个USB-KVM分线器"><a href="#两台显示器，一个双显示器支架，一个USB-KVM分线器" class="headerlink" title="两台显示器，一个双显示器支架，一个USB KVM分线器"></a>两台显示器，一个双显示器支架，一个USB KVM分线器</h2><p>Dell S2421HSX * 2。</p><p>1920*1080 75Hz IPS。</p><p>之前有试过一台主机接这两台kvm同时运行Windows和黑苹果，效果不好。<br>现在一台接Clevo P750TM1-G跑Windows，一台接Dell XPS 13 9360跑黑苹果，看起来相当舒服。<br>当然上班的时候可以接公司的电脑三屏也可以。</p><p>鼠标和键盘共用，而普通KVM还分VGA信号，所以买了一个USB KVM分线器。</p><p>购物网站搜索USB切换器应该就可以了。</p><h2 id="70"><a href="#70" class="headerlink" title="70"></a>70</h2><p>这周结束，父亲也70岁了。</p><p>时间，求你过得慢一些。</p><h2 id="Divenire-Ludovico-Einaudi"><a href="#Divenire-Ludovico-Einaudi" class="headerlink" title="Divenire - Ludovico Einaudi"></a>Divenire - Ludovico Einaudi</h2><p>略。</p><h2 id="农历新年开始将上一年的日记归档"><a href="#农历新年开始将上一年的日记归档" class="headerlink" title="农历新年开始将上一年的日记归档"></a>农历新年开始将上一年的日记归档</h2><p>我还在考虑如何完成。将其移出posts做个新的位置怎么样？</p><hr><p>EOF.</p>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;两台显示器，一个双显示器支架，一个USB-KVM分线器&quot;&gt;&lt;a href=&quot;#两台显示器，一个双显示器支架，一个USB-KVM分线器&quot; class=&quot;headerlink&quot; title=&quot;两台显示器，一个双显示器支架，一个USB</summary>
+        
+      
+    
+    
+    
+    <category term="Weekly Diary" scheme="https://blog.vmarkii.com/categories/Weekly-Diary/"/>
+    
+    
+    <category term="hexo-build" scheme="https://blog.vmarkii.com/tags/hexo-build/"/>
+    
+    <category term="Think" scheme="https://blog.vmarkii.com/tags/Think/"/>
+    
+    <category term="Hardware" scheme="https://blog.vmarkii.com/tags/Hardware/"/>
+    
+    <category term="Buying" scheme="https://blog.vmarkii.com/tags/Buying/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2021-Week03</title>
+    <link href="https://blog.vmarkii.com/2021/01/24/2021-Week03/"/>
+    <id>https://blog.vmarkii.com/2021/01/24/2021-Week03/</id>
+    <published>2021-01-24T11:39:12.000Z</published>
+    <updated>2021-01-31T09:07:07.228Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="年会因为新冠疫情延期"><a href="#年会因为新冠疫情延期" class="headerlink" title="年会因为新冠疫情延期"></a>年会因为新冠疫情延期</h2><p>周五的年会在最后一天通知延期，因为上海周四确认出现本土病例。</p><p>现在落笔的时候，上海三个地区已被列入中风险地区。</p><h2 id="又可以在家里上班了"><a href="#又可以在家里上班了" class="headerlink" title="又可以在家里上班了"></a>又可以在家里上班了</h2><p>周五，收到老板通知，下周开始，建议我们办公室里至少一个人来办公室上班，其余人看情况可以居家办公。</p><p>明天就可以在家上班，对于需要1小时通勤时间的我无疑是一件好事。</p><p>实际情况是，如果需要开发且家中连到开发环境如果速度太慢，可能还是要去办公室。</p><h2 id="iPadOS-13-6居然是可以越狱的"><a href="#iPadOS-13-6居然是可以越狱的" class="headerlink" title="iPadOS 13.6居然是可以越狱的"></a>iPadOS 13.6居然是可以越狱的</h2><p>Odyssey 2用iOS App Signer签名用Xcode安装，我下载的iTunes DRM保护文件直接通过Samba流媒体直接在iPad上播放了。</p><h2 id="去了次老房子"><a href="#去了次老房子" class="headerlink" title="去了次老房子"></a>去了次老房子</h2><p>周六中午去老房子找CD。大多数需要的CD都找到了：</p><ul><li>宝莲灯（上海电影艺术制片厂的电影）的电影原声CD，包括现在网上主流音乐App没有版权的<em>天地在我心 - 刘欢</em>。</li><li>Paul Mauriat - Love is Blue (20 Anniversary Collection)</li><li>The Absolute Treasure 1977-1994 of Richard Clayderman’s Music Life</li></ul><p>这下没有遗憾了，我上周的五十元买来的光驱派上了大用处。</p><h2 id="周日是用来睡觉的"><a href="#周日是用来睡觉的" class="headerlink" title="周日是用来睡觉的"></a>周日是用来睡觉的</h2><p>周日我一路睡到下午4点，把之前没睡好的时间全部补了回来。</p><hr><p>EOF.</p>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;年会因为新冠疫情延期&quot;&gt;&lt;a href=&quot;#年会因为新冠疫情延期&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Weekly Diary" scheme="https://blog.vmarkii.com/categories/Weekly-Diary/"/>
+    
+    
+    <category term="Happy Work" scheme="https://blog.vmarkii.com/tags/Happy-Work/"/>
+    
+    <category term="Software" scheme="https://blog.vmarkii.com/tags/Software/"/>
+    
+    <category term="Sleeping" scheme="https://blog.vmarkii.com/tags/Sleeping/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2021年01月19日</title>
+    <link href="https://blog.vmarkii.com/2021/01/19/20210119/"/>
+    <id>https://blog.vmarkii.com/2021/01/19/20210119/</id>
+    <published>2021-01-19T12:57:10.000Z</published>
+    <updated>2021-01-31T09:07:07.228Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="iTunes美区电影降价"><a href="#iTunes美区电影降价" class="headerlink" title="iTunes美区电影降价"></a>iTunes美区电影降价</h2><p>能今天写的降价都肯定是非常超值的了。</p><ul><li><p>Pirates of the Caribbean五部均<strong>第一次</strong>降至5美元最低价。</p></li><li><p>National Treasure两部均<strong>第一次</strong>降至5美元最低价。（评分低但是是我英语启蒙的几部电影之一）</p></li><li><p>TENET第一次降价至13美元。（估计是卖不出去了，和花木兰的降价情况类似）</p></li></ul><p>最终购买：</p><p>Pirates of the Caribbean: The Curse of the Black Pearl<br>Pirates of the Caribbean: Dead Man’s Chest<br>Pirates of the Caribbean: At World’s End</p><hr><p>EOF.</p>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;iTunes美区电影降价&quot;&gt;&lt;a href=&quot;#iTunes美区电影降价&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Diary" scheme="https://blog.vmarkii.com/categories/Diary/"/>
+    
+    
+    <category term="iTunes" scheme="https://blog.vmarkii.com/tags/iTunes/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2021-Week02</title>
+    <link href="https://blog.vmarkii.com/2021/01/17/2021-Week02/"/>
+    <id>https://blog.vmarkii.com/2021/01/17/2021-Week02/</id>
+    <published>2021-01-17T08:35:59.000Z</published>
+    <updated>2021-01-31T09:07:07.228Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="代码的工作开始了"><a href="#代码的工作开始了" class="headerlink" title="代码的工作开始了"></a>代码的工作开始了</h2><p>一下子就忙起来了。这一周的下班时间都延长了差不多一个小时。（即使这样也比以前实习的情况好）</p><p>有个好处，自己想学习但是舍不得买的Azure个人服务，包括Azure VM和Azure DevOps，这下公司权限一开，全部可以直接用企业版的了。这意味着我的学习成本大大降低了。<del>其实你还是为公司工作而已。（但是可以为自己的数据上云铺路啊哈哈哈哈哈<em>反派的笑声</em>)</del></p><p>听了国外高级全栈对我将要发布的任务，看上去如果前端要做的话，React是100%跑不掉了。传统的Javascript和SharePoint内用到的REST API也将在30秒到达战场。</p><p>以后可以再加一个tag，叫<strong>Dev</strong>。</p><h2 id="公司年会"><a href="#公司年会" class="headerlink" title="公司年会"></a>公司年会</h2><p>我被Procurement抓去管音视频了。</p><p>iTunes Store买了需要的音乐。</p><p>就是这样。Week03工作日有两个半天在彩排和现场<del>可以摸鱼</del>。</p><h2 id="Minecraft-RTX永远的神"><a href="#Minecraft-RTX永远的神" class="headerlink" title="Minecraft RTX永远的神"></a>Minecraft RTX永远的神</h2><p>这几天我的时间黑洞都在Minecraft上，Java版生存模式正在挖洞。Microsoft Store基岩版的RTX模板<strong>永 远 的 神</strong>。</p><h2 id="iTunes吸引人的降价这周只有一个"><a href="#iTunes吸引人的降价这周只有一个" class="headerlink" title="iTunes吸引人的降价这周只有一个"></a>iTunes吸引人的降价这周只有一个</h2><p>Amelie - 第一次降至5美元。已购买。</p><h2 id="50元钱从跳蚤市场买了一个USB的DVD-RW的光驱"><a href="#50元钱从跳蚤市场买了一个USB的DVD-RW的光驱" class="headerlink" title="50元钱从跳蚤市场买了一个USB的DVD RW的光驱"></a>50元钱从跳蚤市场买了一个USB的DVD RW的光驱</h2><p>略。</p><h2 id="300元钱买了一个品胜Type-C十合一扩展坞"><a href="#300元钱买了一个品胜Type-C十合一扩展坞" class="headerlink" title="300元钱买了一个品胜Type C十合一扩展坞"></a>300元钱买了一个品胜Type C十合一扩展坞</h2><p>还没到，年会需求。(iPad Pro好像也是可以用的。)</p><hr><p>EOF.</p>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;代码的工作开始了&quot;&gt;&lt;a href=&quot;#代码的工作开始了&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Weekly Diary" scheme="https://blog.vmarkii.com/categories/Weekly-Diary/"/>
+    
+    
+    <category term="Happy Work" scheme="https://blog.vmarkii.com/tags/Happy-Work/"/>
+    
+    <category term="iTunes" scheme="https://blog.vmarkii.com/tags/iTunes/"/>
+    
+    <category term="Gaming" scheme="https://blog.vmarkii.com/tags/Gaming/"/>
+    
+    <category term="Buying" scheme="https://blog.vmarkii.com/tags/Buying/"/>
+    
+    <category term="Dev" scheme="https://blog.vmarkii.com/tags/Dev/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2021-Week01</title>
+    <link href="https://blog.vmarkii.com/2021/01/08/2021-Week01/"/>
+    <id>https://blog.vmarkii.com/2021/01/08/2021-Week01/</id>
+    <published>2021-01-08T12:41:45.000Z</published>
+    <updated>2021-01-31T09:07:07.228Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="网站加入Categories对网页正确分类"><a href="#网站加入Categories对网页正确分类" class="headerlink" title="网站加入Categories对网页正确分类"></a>网站加入Categories对网页正确分类</h2><p>因为这个套用的主题只做了Tags的内容，然后在实际对文章标签和分类时出现了冲突。</p><p>在原有的hexo主题内加入了tags和categories的总页面，让搜索特定文章变得方便。</p><h2 id="创建Git-Server-Gitea"><a href="#创建Git-Server-Gitea" class="headerlink" title="创建Git Server - Gitea"></a>创建Git Server - Gitea</h2><p>hexo后期页面的开发预览仍然离不开电脑，所以准备建立一个Git服务器来同步框架代码和文章的Markdown。</p><p>最早看到一个基于IIS的.NET网页端Git服务器，虽然我现在的核心服务器跑的是Windows Server 2016 Datacenter，但是我IIS就不想托管应用程序的网页，第一是这台服务器暴露公网，怕一个0-Day把你的服务器给搞瘫，第二是自己不能保证一个第三方的Git服务器满足你所有要求。最后无意间看到了Gitea，Go语言，nodejs，多平台，Windows上deploy一个exe文件就可以了，很方便。</p><h2 id="当然你还需要一个SQL-Server-MySQL-Server-8"><a href="#当然你还需要一个SQL-Server-MySQL-Server-8" class="headerlink" title="当然你还需要一个SQL Server - MySQL Server 8"></a>当然你还需要一个SQL Server - MySQL Server 8</h2><p>用于存放用户信息的数据库，未来还能用来干很多事的。</p><h2 id="正式开始在公司写PowerShell和React-js了"><a href="#正式开始在公司写PowerShell和React-js了" class="headerlink" title="正式开始在公司写PowerShell和React.js了"></a>正式开始在公司写PowerShell和React.js了</h2><p>之后可能还会Vue.js，总算是有用武之地了。</p><h2 id="最近在找一首歌"><a href="#最近在找一首歌" class="headerlink" title="最近在找一首歌"></a>最近在找一首歌</h2><p>If You Still Love Me Tomorrow的其中一个版本，相对比较温柔的一版，不是童安格的那首国语版，也不是最出名的那几个原版和翻版，估计只有我把老唱片翻出来才能Rip出来了。</p><p>当然，童安格的<em>明天你是否依然爱我</em>依然很好听。</p><h2 id="这次怎么变周记了？"><a href="#这次怎么变周记了？" class="headerlink" title="这次怎么变周记了？"></a>这次怎么变周记了？</h2><p>因为博客的结构还在调整，现在的下班时间都在琢磨hexo和Git服务器，而且最近的iTunes降价实在没有，就没有写。</p><hr><p>EOF.</p>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;网站加入Categories对网页正确分类&quot;&gt;&lt;a href=&quot;#网站加入Categories对网页正确分类&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Weekly Diary" scheme="https://blog.vmarkii.com/categories/Weekly-Diary/"/>
+    
+    
+    <category term="hexo-build" scheme="https://blog.vmarkii.com/tags/hexo-build/"/>
+    
+    <category term="Culture" scheme="https://blog.vmarkii.com/tags/Culture/"/>
+    
+    <category term="Happy Work" scheme="https://blog.vmarkii.com/tags/Happy-Work/"/>
+    
+    <category term="Software" scheme="https://blog.vmarkii.com/tags/Software/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2021年01月03日</title>
+    <link href="https://blog.vmarkii.com/2021/01/03/20210103/"/>
+    <id>https://blog.vmarkii.com/2021/01/03/20210103/</id>
+    <published>2021-01-03T15:53:33.000Z</published>
+    <updated>2021-01-31T09:07:07.228Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="下午忙到半夜"><a href="#下午忙到半夜" class="headerlink" title="下午忙到半夜"></a>下午忙到半夜</h2><p>Windows Vista的跨盘系统映像在只有一台USB的机器上简直就是灾难，我已经开始考虑用Ghost来写磁盘镜像了。</p><p>还有一个方法是用虚拟光驱骗过Windows生成系统修复镜像，之前恢复分区vhd做U盘不太行，还需要琢磨一下。</p><h2 id="工作台布局稍作改变"><a href="#工作台布局稍作改变" class="headerlink" title="工作台布局稍作改变"></a>工作台布局稍作改变</h2><p>原本想将准系统往楼上搬，然后一根网线连到核心服务器上，也开个远程桌面连接统一管理，结果USB接口是刚需，又搬下来，放在右上角，水冷放在最右侧，中间放iPad Pro和XPS 13。远程桌面用无线+第一层端口映射完成，平时不开这个端口，需要高强度计算的时候可以打开做任务。</p><h2 id="SharePoint考虑自己也做server端玩玩"><a href="#SharePoint考虑自己也做server端玩玩" class="headerlink" title="SharePoint考虑自己也做server端玩玩"></a>SharePoint考虑自己也做server端玩玩</h2><p>我明年的工作目标之一就是SharePoint编程，正好可以试试手。</p><hr><p>EOF.</p>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;下午忙到半夜&quot;&gt;&lt;a href=&quot;#下午忙到半夜&quot; class=&quot;headerlink&quot; title=&quot;下午忙到半夜&quot;&gt;&lt;/a&gt;下午忙到半夜&lt;/h2&gt;&lt;p&gt;Windows</summary>
+        
+      
+    
+    
+    
+    <category term="Diary" scheme="https://blog.vmarkii.com/categories/Diary/"/>
+    
+    
+    <category term="Software" scheme="https://blog.vmarkii.com/tags/Software/"/>
+    
+    <category term="Hardware" scheme="https://blog.vmarkii.com/tags/Hardware/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2021年01月02日</title>
+    <link href="https://blog.vmarkii.com/2021/01/02/20210102/"/>
+    <id>https://blog.vmarkii.com/2021/01/02/20210102/</id>
+    <published>2021-01-02T11:24:05.000Z</published>
+    <updated>2021-01-31T09:07:07.228Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Nightwalk"><a href="#Nightwalk" class="headerlink" title="Nightwalk"></a>Nightwalk</h2><p>买了双新鞋子，走路又走到了南京东路。</p><p>在写下这句话的时候，在Apple Store at 南京东路。</p><h2 id="远程点外卖"><a href="#远程点外卖" class="headerlink" title="远程点外卖"></a>远程点外卖</h2><p>在四川北路买鸡排往自己家送，家里荤的就靠这个了哈哈哈哈。</p><h2 id="平板拍照总感觉颗粒感十足"><a href="#平板拍照总感觉颗粒感十足" class="headerlink" title="平板拍照总感觉颗粒感十足"></a>平板拍照总感觉颗粒感十足</h2><p>难道是iPhone的屏幕小的原因么？在iPad上看相机界面像是油画一样🤨。</p><hr><p>EOF.</p>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Nightwalk&quot;&gt;&lt;a href=&quot;#Nightwalk&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Diary" scheme="https://blog.vmarkii.com/categories/Diary/"/>
+    
+    
+    <category term="Software" scheme="https://blog.vmarkii.com/tags/Software/"/>
+    
+    <category term="Buying" scheme="https://blog.vmarkii.com/tags/Buying/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2021年01月01日</title>
+    <link href="https://blog.vmarkii.com/2021/01/01/20210101/"/>
+    <id>https://blog.vmarkii.com/2021/01/01/20210101/</id>
+    <published>2021-01-01T15:45:35.000Z</published>
+    <updated>2021-01-31T09:07:07.228Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="睡了一天。"><a href="#睡了一天。" class="headerlink" title="睡了一天。"></a>睡了一天。</h2><p>果然是早班累，一能睡就能睡很久。睡起来没个期限。</p><hr><p>EOF.</p>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;睡了一天。&quot;&gt;&lt;a href=&quot;#睡了一天。&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Diary" scheme="https://blog.vmarkii.com/categories/Diary/"/>
+    
+    
+    <category term="Sleeping" scheme="https://blog.vmarkii.com/tags/Sleeping/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2020年12月31日</title>
+    <link href="https://blog.vmarkii.com/2020/12/31/20201231/"/>
+    <id>https://blog.vmarkii.com/2020/12/31/20201231/</id>
+    <published>2020-12-31T15:32:59.000Z</published>
+    <updated>2021-01-31T09:07:07.228Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="再见了，黑胶唱片机。"><a href="#再见了，黑胶唱片机。" class="headerlink" title="再见了，黑胶唱片机。"></a>再见了，黑胶唱片机。</h2><p>回天乏术，终究还是不能让你重新发声。</p><h2 id="平常的一天"><a href="#平常的一天" class="headerlink" title="平常的一天"></a>平常的一天</h2><p>今天早上出门算是感觉到了寒风凛冽。</p><p>中午送走了两位老员工，以后可能真的再也不见了。</p><p>晚上到家收拾了一下带着黑胶唱片机出去试图挽救它，失败了。</p><hr><p>EOF.</p><p>祝屏幕前的你做一个好梦。</p>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;再见了，黑胶唱片机。&quot;&gt;&lt;a href=&quot;#再见了，黑胶唱片机。&quot; class=&quot;headerlink&quot; title=&quot;再见了，黑胶唱片机。&quot;&gt;&lt;/a&gt;再见了，黑胶唱片机。&lt;/h2&gt;&lt;p&gt;回天乏术，终究还是不能让你重新发声。&lt;/p&gt;
+&lt;h2</summary>
+        
+      
+    
+    
+    
+    <category term="Diary" scheme="https://blog.vmarkii.com/categories/Diary/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2020年12月30日</title>
+    <link href="https://blog.vmarkii.com/2020/12/30/20201230/"/>
+    <id>https://blog.vmarkii.com/2020/12/30/20201230/</id>
+    <published>2020-12-30T15:20:47.000Z</published>
+    <updated>2021-01-31T09:07:07.228Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="向两位离职员工写下祝福语"><a href="#向两位离职员工写下祝福语" class="headerlink" title="向两位离职员工写下祝福语"></a>向两位离职员工写下祝福语</h2><p>由于公司结构调整，两位同事将在2021年离开公司。</p><p>祝前程似锦。</p><h2 id="今天居然不是最冷的"><a href="#今天居然不是最冷的" class="headerlink" title="今天居然不是最冷的"></a>今天居然不是最冷的</h2><p>对，明天早上才是最冷的。</p><p>12月31日早上6点出门，零下6度，夏天战高温，明天战低温？</p><h2 id="写日记式博客到底怎么写比较方便？"><a href="#写日记式博客到底怎么写比较方便？" class="headerlink" title="写日记式博客到底怎么写比较方便？"></a>写日记式博客到底怎么写比较方便？</h2><p>今天在iPad上写，发现尺寸是够格了，但是还是不如电脑写起来带劲。<br>昨天在iPhone上写，外面写是方便了，但是……对，如上，而且手机的iSH性能不太能够处理node的modules。</p><h2 id="在bilibili看XX分钟看完数码宝贝"><a href="#在bilibili看XX分钟看完数码宝贝" class="headerlink" title="在bilibili看XX分钟看完数码宝贝"></a>在bilibili看XX分钟看完数码宝贝</h2><p>果然还是熟悉的味道。童年已经是很久远的事情了。</p><hr><p>EOF.</p>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;向两位离职员工写下祝福语&quot;&gt;&lt;a href=&quot;#向两位离职员工写下祝福语&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Diary" scheme="https://blog.vmarkii.com/categories/Diary/"/>
+    
+    
+    <category term="Think" scheme="https://blog.vmarkii.com/tags/Think/"/>
+    
+    <category term="Happy Work" scheme="https://blog.vmarkii.com/tags/Happy-Work/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2020年12月29日</title>
+    <link href="https://blog.vmarkii.com/2020/12/29/20201229/"/>
+    <id>https://blog.vmarkii.com/2020/12/29/20201229/</id>
+    <published>2020-12-29T12:38:55.000Z</published>
+    <updated>2021-01-31T09:07:07.228Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="明天出门的这段时间听说会是最冷的时段"><a href="#明天出门的这段时间听说会是最冷的时段" class="headerlink" title="明天出门的这段时间听说会是最冷的时段"></a>明天出门的这段时间听说会是最冷的时段</h2><p>零下六度到零下四度。</p><p>我肯定是不会乘坐出租车的，因为今天晚上下雨和雪，第二天早上再降个温，道路冰冻起来速度还要慢。</p><h2 id="iTunes美区新Bundle上架并降价"><a href="#iTunes美区新Bundle上架并降价" class="headerlink" title="iTunes美区新Bundle上架并降价"></a>iTunes美区新Bundle上架并降价</h2><p>当然，最值得买的不是那些Bundle，是今天开始降价的华语电影：《卧虎藏龙》，5美元。</p><h2 id="由于iPod-Nano的回归，我又开始听FM了"><a href="#由于iPod-Nano的回归，我又开始听FM了" class="headerlink" title="由于iPod Nano的回归，我又开始听FM了"></a>由于iPod Nano的回归，我又开始听FM了</h2><p>这种在街上边走边听现场直播的感觉很棒，你可以听音乐，听路况，而且FM的广告投放比现在电视好很多。（没有广告轰炸这种，当然FM 还是有装修广告。）</p><h2 id="iSH时区问题"><a href="#iSH时区问题" class="headerlink" title="iSH时区问题"></a>iSH时区问题</h2><p>看上去iSH内的系统时间是GMT的时间，所以这篇文章实际上是在GMT +0800的时刻（中国北京标准时间）建立的。</p><p>我觉得可以不用改，只要说明一下就可以了。</p><hr><p>EOF.</p>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;明天出门的这段时间听说会是最冷的时段&quot;&gt;&lt;a href=&quot;#明天出门的这段时间听说会是最冷的时段&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Diary" scheme="https://blog.vmarkii.com/categories/Diary/"/>
+    
+    
+    <category term="Software" scheme="https://blog.vmarkii.com/tags/Software/"/>
+    
+    <category term="iTunes" scheme="https://blog.vmarkii.com/tags/iTunes/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2020年12月28日</title>
+    <link href="https://blog.vmarkii.com/2020/12/28/20201228/"/>
+    <id>https://blog.vmarkii.com/2020/12/28/20201228/</id>
+    <published>2020-12-28T13:42:29.000Z</published>
+    <updated>2021-01-31T09:07:07.228Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="正在优化本博客编辑的工作流"><a href="#正在优化本博客编辑的工作流" class="headerlink" title="正在优化本博客编辑的工作流"></a>正在优化本博客编辑的工作流</h2><p>用iPhone写Markdown，然后AirDrop到iPad生成并上传。</p><h2 id="iPod-nano-6还是很好用的"><a href="#iPod-nano-6还是很好用的" class="headerlink" title="iPod nano 6还是很好用的"></a>iPod nano 6还是很好用的</h2><p>尤其是分段的m4a处理的很好（至于什么是分段的m4a，以后我可以介绍一下。</p><h2 id="12月30日和12月31日的寒潮"><a href="#12月30日和12月31日的寒潮" class="headerlink" title="12月30日和12月31日的寒潮"></a>12月30日和12月31日的寒潮</h2><p>我还要6点出门，怕不是冻死在公司门口😨。</p><hr><p>EOF.</p>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;正在优化本博客编辑的工作流&quot;&gt;&lt;a href=&quot;#正在优化本博客编辑的工作流&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Diary" scheme="https://blog.vmarkii.com/categories/Diary/"/>
+    
+    
+    <category term="Software" scheme="https://blog.vmarkii.com/tags/Software/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2020年12月27日</title>
+    <link href="https://blog.vmarkii.com/2020/12/27/20201227/"/>
+    <id>https://blog.vmarkii.com/2020/12/27/20201227/</id>
+    <published>2020-12-27T06:17:11.000Z</published>
+    <updated>2021-01-31T11:51:35.966Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="这是第一篇在移动设备上创建，完成并上传的日记博客，算是Milestone了。"><a href="#这是第一篇在移动设备上创建，完成并上传的日记博客，算是Milestone了。" class="headerlink" title="这是第一篇在移动设备上创建，完成并上传的日记博客，算是Milestone了。"></a>这是第一篇在移动设备上创建，完成并上传的日记博客，算是Milestone了。</h2><p>操作步骤：</p><ul><li>在iPad Pro 11寸一代及以上的iPad安装iSH Shell。(A12X,A12Z和A14的<strong>平板</strong>都应该是可以的)</li><li>依次从apk安装：<br>git<br>openssh<br>node<br>npm</li><li>如果是现有博客移植，直接把hexo博客目录（带node_modules的）直接发到iPad的iSH文件系统内的home目录里。</li><li>git config —global user-name和user-email。</li><li>ssh-keygen然后ssh-add。</li><li>把key拷到Github下的SSH Keys。</li><li>ln -s modules里的hexo-cli hexo博客目录下/hexo</li><li>./hexo g</li><li>./hexo d</li><li>完成！</li></ul><p>P.S. 我在地铁上用iPad Pro写的这段。</p><h2 id="测试一张移动端的图片上传"><a href="#测试一张移动端的图片上传" class="headerlink" title="测试一张移动端的图片上传"></a>测试一张移动端的图片上传</h2><p><img src="https://i.loli.net/2021/01/31/lPMshzf5RgAwHFZ.png" alt="testPic20201227" title="Screenshot of iSH issue of starting server using hexo."></p><hr><p>EOF.</p><p>发完发现搜索功能好像有点问题，回去看看。</p>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;这是第一篇在移动设备上创建，完成并上传的日记博客，算是Milestone了。&quot;&gt;&lt;a href=&quot;#这是第一篇在移动设备上创建，完成并上传的日记博客，算是Milestone了。&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Diary" scheme="https://blog.vmarkii.com/categories/Diary/"/>
+    
+    
+    <category term="hexo-build" scheme="https://blog.vmarkii.com/tags/hexo-build/"/>
+    
+    <category term="Milestone" scheme="https://blog.vmarkii.com/tags/Milestone/"/>
+    
+    <category term="Dev" scheme="https://blog.vmarkii.com/tags/Dev/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2020年12月26日</title>
+    <link href="https://blog.vmarkii.com/2020/12/26/20201226/"/>
+    <id>https://blog.vmarkii.com/2020/12/26/20201226/</id>
+    <published>2020-12-26T15:59:44.000Z</published>
+    <updated>2021-01-05T15:52:20.180Z</updated>
+    
+    <content type="html"><![CDATA[<p>敲下这句话的时候已经是12月27日了哈哈哈哈。</p><h2 id="iPod-Nano-6的电源键被我修好了！"><a href="#iPod-Nano-6的电源键被我修好了！" class="headerlink" title="iPod Nano 6的电源键被我修好了！"></a>iPod Nano 6的电源键被我修好了！</h2><p>终于不会被老爸说拆啥坏啥了。（其实我很早就不会拆啥坏啥了，但是老爸不是很相信。）</p><p>修好以后用了半天，发现又不行了，因为按钮上的触发的一小颗粒状物体漂移了，导致按钮按下去没有反应。这次直接上胶粘上了一块相对很厚的一块物体，按键可以了，但是手感不太好，还需要改进。</p><h2 id="准备迁移Adobe-CS6授权到Windows-10了"><a href="#准备迁移Adobe-CS6授权到Windows-10了" class="headerlink" title="准备迁移Adobe CS6授权到Windows 10了"></a>准备迁移Adobe CS6授权到Windows 10了</h2><p>由于工程已经结束，Windows 7不可作为主力机器一直用。</p><h2 id="先前说的周末目标啥都没做"><a href="#先前说的周末目标啥都没做" class="headerlink" title="先前说的周末目标啥都没做"></a>先前说的周末目标啥都没做</h2><p>不着急。</p><h2 id="博客的搜索功能有时显示不出来"><a href="#博客的搜索功能有时显示不出来" class="headerlink" title="博客的搜索功能有时显示不出来"></a>博客的搜索功能有时显示不出来</h2><p>需要去查一下原因，有可能是css或者js所在的cdn网络存在波动。</p><hr><p>EOF.</p>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;敲下这句话的时候已经是12月27日了哈哈哈哈。&lt;/p&gt;
+&lt;h2 id=&quot;iPod-Nano-6的电源键被我修好了！&quot;&gt;&lt;a href=&quot;#iPod-Nano-6的电源键被我修好了！&quot; class=&quot;headerlink&quot; title=&quot;iPod Nano</summary>
+        
+      
+    
+    
+    
+    <category term="Diary" scheme="https://blog.vmarkii.com/categories/Diary/"/>
+    
+    
+    <category term="hexo-build" scheme="https://blog.vmarkii.com/tags/hexo-build/"/>
+    
+    <category term="Software" scheme="https://blog.vmarkii.com/tags/Software/"/>
+    
+    <category term="Hardware" scheme="https://blog.vmarkii.com/tags/Hardware/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2020年12月24日-2020年12月25日</title>
+    <link href="https://blog.vmarkii.com/2020/12/25/20201224-25/"/>
+    <id>https://blog.vmarkii.com/2020/12/25/20201224-25/</id>
+    <published>2020-12-25T14:56:31.000Z</published>
+    <updated>2021-01-05T15:54:51.299Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="圣诞节快乐！"><a href="#圣诞节快乐！" class="headerlink" title="圣诞节快乐！"></a>圣诞节快乐！</h2><h2 id="虬江路的音像城和旁边的滩头要关闭了"><a href="#虬江路的音像城和旁边的滩头要关闭了" class="headerlink" title="虬江路的音像城和旁边的滩头要关闭了"></a>虬江路的音像城和旁边的滩头要关闭了</h2><p>12月25日下午去了一次。</p><p>升级了我的黑胶唱片机。<br>这个黑胶唱片机带回家真的太吃力了。</p><p>买了一个二手成色极好的iPod nano 6 Red 16G，<br>电源键已经不能用了，但是我觉得我可以找地方修一下。</p><h2 id="Project-夏恋花火全部渲染完毕"><a href="#Project-夏恋花火全部渲染完毕" class="headerlink" title="Project 夏恋花火全部渲染完毕"></a>Project 夏恋花火全部渲染完毕</h2><p>等到视频工程交接完就真的结束了。感觉轻松了。</p><p><strong>以后这样的活我绝对不会急着接了，接完做不完会成为负担的。</strong></p><h2 id="这个周末的目标"><a href="#这个周末的目标" class="headerlink" title="这个周末的目标"></a>这个周末的目标</h2><ul><li>完成之前说的博客搜索从最新博客开始搜索的功能。</li><li>将我的hexo从这个MacBook Pro移到服务器上，或者iPad Pro上管理。</li></ul><hr><p>EOF.</p>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;圣诞节快乐！&quot;&gt;&lt;a href=&quot;#圣诞节快乐！&quot; class=&quot;headerlink&quot; title=&quot;圣诞节快乐！&quot;&gt;&lt;/a&gt;圣诞节快乐！&lt;/h2&gt;&lt;h2 id=&quot;虬江路的音像城和旁边的滩头要关闭了&quot;&gt;&lt;a href=&quot;#虬江路的音像城和旁边的滩头要关闭了&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Diary" scheme="https://blog.vmarkii.com/categories/Diary/"/>
+    
+    
+    <category term="hexo-build" scheme="https://blog.vmarkii.com/tags/hexo-build/"/>
+    
+    <category term="Buying" scheme="https://blog.vmarkii.com/tags/Buying/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2020年12月23日</title>
+    <link href="https://blog.vmarkii.com/2020/12/23/20201223/"/>
+    <id>https://blog.vmarkii.com/2020/12/23/20201223/</id>
+    <published>2020-12-23T15:45:25.000Z</published>
+    <updated>2021-01-05T15:51:15.838Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Monster-Hunter-Stories-iOS美区大幅降价"><a href="#Monster-Hunter-Stories-iOS美区大幅降价" class="headerlink" title="Monster Hunter Stories iOS美区大幅降价"></a>Monster Hunter Stories iOS美区大幅降价</h2><p>20美元降到5美元。<del>这不是相当于赚了15美元？</del></p><h2 id="Square-Enix旗下iOS移植游戏半价"><a href="#Square-Enix旗下iOS移植游戏半价" class="headerlink" title="Square Enix旗下iOS移植游戏半价"></a>Square Enix旗下iOS移植游戏半价</h2><p>包括FINAL FANTASY移植游戏，DRAGON QUEST系列移植游戏半价，买FINAL FANTASY VI和VII肯定没错，IX要买也最好现在买。</p><h2 id="买了个Lightning-to-USB-3-Camera-Adapter"><a href="#买了个Lightning-to-USB-3-Camera-Adapter" class="headerlink" title="买了个Lightning to USB 3 Camera Adapter"></a>买了个Lightning to USB 3 Camera Adapter</h2><p>看了一下YouTube的评测，看上去如果是需要大功耗的USB设备连上去没反应，需要一个可以带电源输入的USB Hub完美解决这个问题。</p><h2 id="两天的休假开始了"><a href="#两天的休假开始了" class="headerlink" title="两天的休假开始了"></a>两天的休假开始了</h2><p>和周末一起放算4天可还行。</p><p>今天回家特地看了一眼15号线地铁口，发现在2021年1月20日竣工，那么今年应该是乘不到了 :(</p><hr><p>EOF.</p>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Monster-Hunter-Stories-iOS美区大幅降价&quot;&gt;&lt;a href=&quot;#Monster-Hunter-Stories-iOS美区大幅降价&quot; class=&quot;headerlink&quot; title=&quot;Monster Hunter Stories</summary>
+        
+      
+    
+    
+    
+    <category term="Diary" scheme="https://blog.vmarkii.com/categories/Diary/"/>
+    
+    
+    <category term="Happy Work" scheme="https://blog.vmarkii.com/tags/Happy-Work/"/>
+    
+    <category term="iTunes" scheme="https://blog.vmarkii.com/tags/iTunes/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2020年12月22日</title>
+    <link href="https://blog.vmarkii.com/2020/12/22/20201222/"/>
+    <id>https://blog.vmarkii.com/2020/12/22/20201222/</id>
+    <published>2020-12-22T13:44:03.000Z</published>
+    <updated>2021-01-05T15:51:04.171Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="iTunes电影美区降价今日开始"><a href="#iTunes电影美区降价今日开始" class="headerlink" title="iTunes电影美区降价今日开始"></a>iTunes电影美区降价今日开始</h2><h3 id="以下电影或者电影集首次或者再次降到最低价："><a href="#以下电影或者电影集首次或者再次降到最低价：" class="headerlink" title="以下电影或者电影集首次或者再次降到最低价："></a>以下电影或者电影集首次或者再次降到最低价：</h3><p><strong>5-Film Classics Collection 20美金，包含：</strong></p><ul><li>The Wizard of Oz</li><li>Singin’ In the Rain</li><li>Citizen Kane</li><li>Casablanca</li><li>Gone With the Wind</li></ul><p><del>(这五部电影20美金，一部4美金就离谱)</del></p><p><strong>The Shawshank Redemption / The Green Mile 10美金</strong><br><del>(如果现在你单买这两部电影，价格是30美金，3.33折可还行)</del></p><p>The Hobbit + The Lord of The Rings 6部片子总共40美金；（有待确定，因为我记得我买的时候比这个价格要低，但是刷新过了之前的价格没了）</p><p>Star Trek: The Original Motion Pictures Collection 第一次降至30美金；（有待确定，理由同上）</p><p><strong>所有007电影单部价格降至10美金，一代007电影集30美金，24部007全集100美金；</strong></p><p><strong>Fast &amp; Furious: The Ultimate Ride Collection 第一次降至30美金，共8部电影，相当于每部电影3.75美金；</strong></p><p>Harry Potter Complete Collection 50美金；</p><p>The Matrix Trilogy 15美金；</p><p>Tom Hanks 4-Movie Collection 20美金，包含：</p><ul><li>Forrest Gump</li><li>Catch Me If You Can (2002)</li><li>The Terminal</li><li>Road to Perdition</li></ul><p>Kill Bill Double Feature 第一次降至10美金；（有待确定，理由同上）</p><p>John Wick Chapters 1-3 20美金；</p><p>Sherlock Holmes: A Game of Shadows + Sherlock Holmes 10美金；</p><p>The Purge 4-Movie Collection 20美金；</p><p>Aquaman/Wonder Woman/Justice League 3-film Collection 第一次降至18美金；</p><p><strong>DC 7-Film Collection 第一次降至40美金，包含：</strong></p><ul><li>Man of Steel (2013)</li><li>Batman v Superman: Dawn of Justice</li><li>Suicide Squad (2016)</li><li>Wonder Woman(2017)</li><li>Justice League</li><li>Aquaman (2018) （单部史低8美元）</li><li>Shazam! （单部史低8美元）</li></ul><p><strong>Charlie Chaplin所有电影从单部15美金第一次降至单部10美金：</strong></p><ul><li>The Great Dictator</li><li>Modern Times</li><li>City Lights</li><li>Gold Rush 1925</li><li>Gold Rush 1942</li><li>The Kid</li><li>The Circus</li><li>Monsieur Verdoux</li><li>Limelight</li></ul><p>上面列出的这些电影的出版商是The Criterion Collection，看上去都降到了10美金，里面的电影都是20世纪初至中叶时代的。</p><p><strong>They Shall Not Grow Old 第一次降至5美金；</strong></p><p><strong>Barry Lyndon 第一次降至5美金；</strong></p><p><strong>Lawrence of Arabia (Restored Version) 5美金；</strong></p><p>The Queen 第一次降至5美金；（有待确定，理由同上）</p><p>The King’s Speech 5美金；</p><p>The Imitation Game 5美金；</p><p>Hacksaw Ridge 5美金；</p><p>Terminater: Dark Fate 第一次降至5美金；</p><p>BATMAN: HUSH 第一次降至8美金；</p><p>Justice Leagus Dark: Apokolips War 第一次降至8美金；</p><p>Train to Busan Presents: Peninsula 第一次降至7美金；</p><p>…</p><p>太多了，就这些吧。</p><h3 id="今天最终购买内容"><a href="#今天最终购买内容" class="headerlink" title="今天最终购买内容"></a>今天最终购买内容</h3><p>The Wizard of Oz<br>Singin’ In the Rain<br>Citizen Kane<br>Casablanca<br>Gone With the Wind<br>（以上为一个Bundle）</p><p>The Shawshank Redemption<br>The Green Mile<br>（以上为一个Bundle）</p><p>They Shall Not Grow Old<br>Barry Lyndon<br>Lawrence of Arabia (Restored Version)<br>Modern Times<br>City Lights</p><h2 id="周四周五又放假了"><a href="#周四周五又放假了" class="headerlink" title="周四周五又放假了"></a>周四周五又放假了</h2><p>略。</p><hr><p>EOF.</p>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;iTunes电影美区降价今日开始&quot;&gt;&lt;a href=&quot;#iTunes电影美区降价今日开始&quot; class=&quot;headerlink&quot; title=&quot;iTunes电影美区降价今日开始&quot;&gt;&lt;/a&gt;iTunes电影美区降价今日开始&lt;/h2&gt;&lt;h3</summary>
+        
+      
+    
+    
+    
+    <category term="Diary" scheme="https://blog.vmarkii.com/categories/Diary/"/>
+    
+    
+    <category term="iTunes" scheme="https://blog.vmarkii.com/tags/iTunes/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2020年12月21日</title>
+    <link href="https://blog.vmarkii.com/2020/12/21/20201221/"/>
+    <id>https://blog.vmarkii.com/2020/12/21/20201221/</id>
+    <published>2020-12-21T14:10:01.000Z</published>
+    <updated>2021-01-05T15:15:50.851Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="准备在这一周再找两天时间放个假"><a href="#准备在这一周再找两天时间放个假" class="headerlink" title="准备在这一周再找两天时间放个假"></a>准备在这一周再找两天时间放个假</h2><p>略。</p><h2 id="正在打磨视频"><a href="#正在打磨视频" class="headerlink" title="正在打磨视频"></a>正在打磨视频</h2><p>在我写这篇文章的时候，第三次全片渲染。</p><h2 id="第一次自己出门去了趟银行柜台办理业务"><a href="#第一次自己出门去了趟银行柜台办理业务" class="headerlink" title="第一次自己出门去了趟银行柜台办理业务"></a>第一次自己出门去了趟银行柜台办理业务</h2><p>把大学学费用的卡销户，然后领了预定的纪念币。</p><h2 id="准备写一篇学习笔记，关于Windows-7驱动RTX-2070的"><a href="#准备写一篇学习笔记，关于Windows-7驱动RTX-2070的" class="headerlink" title="准备写一篇学习笔记，关于Windows 7驱动RTX 2070的"></a>准备写一篇学习笔记，关于Windows 7驱动RTX 2070的</h2><p>知识归档。</p><hr><p>EOF.</p>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;准备在这一周再找两天时间放个假&quot;&gt;&lt;a href=&quot;#准备在这一周再找两天时间放个假&quot; class=&quot;headerlink&quot; title=&quot;准备在这一周再找两天时间放个假&quot;&gt;&lt;/a&gt;准备在这一周再找两天时间放个假&lt;/h2&gt;&lt;p&gt;略。&lt;/p&gt;
+&lt;h2</summary>
+        
+      
+    
+    
+    
+    <category term="Diary" scheme="https://blog.vmarkii.com/categories/Diary/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2020年12月20日</title>
+    <link href="https://blog.vmarkii.com/2020/12/20/20201220/"/>
+    <id>https://blog.vmarkii.com/2020/12/20/20201220/</id>
+    <published>2020-12-20T14:33:29.000Z</published>
+    <updated>2021-01-05T15:50:33.268Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="总算是出了一次门"><a href="#总算是出了一次门" class="headerlink" title="总算是出了一次门"></a>总算是出了一次门</h2><p>周末和放假都没有出门过，今天放着视频渲染就出去了。</p><h2 id="视频渲染不能出门"><a href="#视频渲染不能出门" class="headerlink" title="视频渲染不能出门"></a>视频渲染不能出门</h2><p>接上面一段，回来看导出视频，发现缺了音频……</p><p>不说了，在第二次渲染一个半小时以后，突然发现它自己中断了，报了个没见过的错，停在了一个视频资源调用上了，等一会儿用ffmpeg拼一下视频看看。</p><h2 id="未来网站改进计划"><a href="#未来网站改进计划" class="headerlink" title="未来网站改进计划"></a>未来网站改进计划</h2><ul><li>搜索结果从最新到最旧（现在是最旧到最新）</li><li>评论功能，而且是自己做的评论功能。</li></ul><p>这两个能做出来就很有意思了。</p><hr><p>EOF.</p>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;总算是出了一次门&quot;&gt;&lt;a href=&quot;#总算是出了一次门&quot; class=&quot;headerlink&quot; title=&quot;总算是出了一次门&quot;&gt;&lt;/a&gt;总算是出了一次门&lt;/h2&gt;&lt;p&gt;周末和放假都没有出门过，今天放着视频渲染就出去了。&lt;/p&gt;
+&lt;h2</summary>
+        
+      
+    
+    
+    
+    <category term="Diary" scheme="https://blog.vmarkii.com/categories/Diary/"/>
+    
+    
+    <category term="hexo-build" scheme="https://blog.vmarkii.com/tags/hexo-build/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2020年12月19日</title>
+    <link href="https://blog.vmarkii.com/2020/12/19/20201219/"/>
+    <id>https://blog.vmarkii.com/2020/12/19/20201219/</id>
+    <published>2020-12-19T15:51:12.000Z</published>
+    <updated>2021-01-05T15:50:21.381Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="周末就是用来睡觉的"><a href="#周末就是用来睡觉的" class="headerlink" title="周末就是用来睡觉的"></a>周末就是用来睡觉的</h2><p>略。</p><h2 id="Project-夏恋花火收尾"><a href="#Project-夏恋花火收尾" class="headerlink" title="Project 夏恋花火收尾"></a>Project 夏恋花火收尾</h2><p>把中间间奏和最后的STAFF表做完应该没问题吧。</p><h2 id="穷到吃土"><a href="#穷到吃土" class="headerlink" title="穷到吃土"></a>穷到吃土</h2><p>昨天买了220美元的iTunes资源，也就是说，直到下周五我都要吃土了呜呜呜呜<strong>（一拳打死一个____怪）</strong></p><hr><p>EOF.</p>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;周末就是用来睡觉的&quot;&gt;&lt;a href=&quot;#周末就是用来睡觉的&quot; class=&quot;headerlink&quot; title=&quot;周末就是用来睡觉的&quot;&gt;&lt;/a&gt;周末就是用来睡觉的&lt;/h2&gt;&lt;p&gt;略。&lt;/p&gt;
+&lt;h2 id=&quot;Project-夏恋花火收尾&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="Diary" scheme="https://blog.vmarkii.com/categories/Diary/"/>
+    
+    
+    <category term="Sleeping" scheme="https://blog.vmarkii.com/tags/Sleeping/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2020年12月18日</title>
+    <link href="https://blog.vmarkii.com/2020/12/18/20201218/"/>
+    <id>https://blog.vmarkii.com/2020/12/18/20201218/</id>
+    <published>2020-12-18T12:53:39.000Z</published>
+    <updated>2021-02-14T14:00:04.123Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="北京东路的日子"><a href="#北京东路的日子" class="headerlink" title="北京东路的日子"></a>北京东路的日子</h2><p>这首歌居然在昨天出了十周年荣耀版。（对，就是和华为分开的那个荣耀）这些同学成为了最优秀的人才，不出所料。</p><h2 id="iTunes美区降价情况"><a href="#iTunes美区降价情况" class="headerlink" title="iTunes美区降价情况"></a>iTunes美区降价情况</h2><p>今天the Beatles所有专辑都降价了，前天是Eminem，大前天是Taylor Swift，全部的专辑都降价看上去像是圣诞前促销的节奏。</p><p>等一下，我刚刚刷新了一下……</p><p>ER: The Complete Series 180美元降到50美元；</p><p>Major Crimes: The Complete Series 80美元降到30美元（最低到过25美元）；</p><p>Prison Break, The Complete Series 60美元降到30美元（最低到过25美元）；</p><p>Batman Beyond: The Complete Series 50美元降到20美元；</p><p>Elementary: The Complete Series 75美元降到37美元；</p><p>Downton Abbey: The Complete Series 60美元降到30美元；</p><p>Sherlock, Series 1-4 &amp; The Abominable Bride 60美元降到25美元；</p><p>Hannibal, The Complete Collection 25美元降到13美元；</p><p>Marvel Wolverine/X-Men/Iron Man/Blade Anime Series, Season 1 均从20美元降到5美元；</p><p>……</p><p>这还只是电视剧！！！！！！</p><p>卧槽！Rick and Morty, Seasons 1-4 75美元降到50美元！！！但是好像一季一季买更加划算一点……冷静一下，你还要买the Beatles专辑呢……</p><p>这就是圣诞节的力量么……买了！！！</p><p>购入清单：</p><p>ER: The Complete Series<br>Elementary: The Complete Series<br>Downton Abbey: The Complete Series<br>Sherlock, Series 1-4 &amp; The Abominable Bride<br>Rick and Morty, Seasons 1 10美元<br>Rick and Morty, Seasons 4 15美元<br>The Beatles - Revolver<br>The Beatles - 1 (2015 Version)<br>The Beatles - Abbey Road (2019 Mix)<br>The Beatles - The Beatles (The White Album)<br>The Beatles - Sgt. Pepper’s Lonely Hearts Club</p><p>在我写这个清单的时候，降价的信息又更新了，更多的价格降到了历史最低价。<a href="https://www.cheapcharts.info">https://www.cheapcharts.info</a> </p><hr><p>EOF.</p>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;北京东路的日子&quot;&gt;&lt;a href=&quot;#北京东路的日子&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Diary" scheme="https://blog.vmarkii.com/categories/Diary/"/>
+    
+    
+    <category term="Culture" scheme="https://blog.vmarkii.com/tags/Culture/"/>
+    
+    <category term="iTunes" scheme="https://blog.vmarkii.com/tags/iTunes/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2020年12月17日</title>
+    <link href="https://blog.vmarkii.com/2020/12/17/20201217/"/>
+    <id>https://blog.vmarkii.com/2020/12/17/20201217/</id>
+    <published>2020-12-17T14:18:16.000Z</published>
+    <updated>2021-01-05T15:49:52.954Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="平凡的一天"><a href="#平凡的一天" class="headerlink" title="平凡的一天"></a>平凡的一天</h2><p>临近国外圣诞节，活越来越少，天天有充裕的时间学明年要开始做的东西。<del>外加摸鱼（不是</del></p><h2 id="下周五"><a href="#下周五" class="headerlink" title="下周五"></a>下周五</h2><p>圣诞节+工资，这次的工资不太一样，会把过去半年削减的工资全部补齐，所以相当于没有损失。</p><hr><p>EOF.</p>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;平凡的一天&quot;&gt;&lt;a href=&quot;#平凡的一天&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Diary" scheme="https://blog.vmarkii.com/categories/Diary/"/>
+    
+    
+    <category term="Happy Work" scheme="https://blog.vmarkii.com/tags/Happy-Work/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2020年12月16日</title>
+    <link href="https://blog.vmarkii.com/2020/12/16/20201216/"/>
+    <id>https://blog.vmarkii.com/2020/12/16/20201216/</id>
+    <published>2020-12-16T15:18:54.000Z</published>
+    <updated>2021-01-05T15:55:40.525Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="买买买的东西全部到了"><a href="#买买买的东西全部到了" class="headerlink" title="买买买的东西全部到了"></a>买买买的东西全部到了</h2><ul><li><p>帮妈妈的iPhone Xr和我的iPhone 11贴了个膜。</p></li><li><p>洗好的水冷系统重新注入新的冷却液，不出意外，漏液了。还好不多，重新把L形管装了一遍好了。</p></li><li><p>家里的6个空调的遥控器的七号电池可以全部换新了，今天第一天自己的房间开热空调，舒服。</p></li><li><p>那根磁吸线可以到达12W（我用iPhone 6 Plus当功率表测的，它最高支持12W）充电，18W应该没有问题。</p></li></ul><h2 id="听说P站的Visa和MasterCard支付通道被关闭了"><a href="#听说P站的Visa和MasterCard支付通道被关闭了" class="headerlink" title="听说P站的Visa和MasterCard支付通道被关闭了"></a>听说P站的Visa和MasterCard支付通道被关闭了</h2><p>局内人说这件事情波及到了许多lsp网站，至少针对一些特定视频关键词在搜索上做出了屏蔽。</p><p>然而我暂时没这方面需求。我连赛博朋克2077的夜之城都没有逛。（现实是自己还有许多事情要做，没空搞lsp的事情，<del>而且都这把年纪了，你就算冲了个P站Lifetime会员，免费的都能玩死你，你还收费？</del></p><h2 id="笔记本型准系统水冷"><a href="#笔记本型准系统水冷" class="headerlink" title="笔记本型准系统水冷"></a>笔记本型准系统水冷</h2><p>实在看不下去自己水冷管里的水垢，把一体式水冷拆出来，用了白醋冲洗水循环，发现毛用都没有，后来拿了个镊子夹着擦眼镜的那种无纺布夹到水冷管里，虽然擦的不是很彻底，但是至少现在换上水冷液看上去不是怎么恶心了。而且从饮用水换成水冷液，温度的确又下去了几度，是有点效果的。</p><h2 id="顺便再聊聊我现在的主力准系统"><a href="#顺便再聊聊我现在的主力准系统" class="headerlink" title="顺便再聊聊我现在的主力准系统"></a>顺便再聊聊我现在的主力准系统</h2><p>我的准系统是老模具了，Clevo P750TM1-G，Z370平台。没有用到dsanke的固件，自己解锁了一些有用的BIOS设置刷到电脑里，然后为了Adobe CS6的套件在这台原本不支持Windows 7的电脑上安装了Windows 7，除了无线网卡没有Windows 7的驱动，其他都可以自己找到Workaround解决。当然你要是要玩游戏，那肯定需要一个Windows 10，我也装了，双系统。</p><p>CPU: i7 9700KF -80mv 130W 全核上5.0G，FPU和Prime95好像都是4.5，可能是功耗限制的问题；</p><p>内存: Kingston HyperX KHX2666C15S4/8G * 4，一共32GB；</p><p>硬盘和软件：一块从大二用到现在的Micron M600 256G SATA用来装Windows 7专业版，Office PIPC 2013（日本激活Office套件），Project 2016（不是很会用这个东西，考虑之后转化为生产力），Visio 2016 Professional（一次性买断，我买过第二贵的软件），还有Adobe Creative Suite 6 Master Collection（正版Adobe全家桶，最后一个买断制，不用Subscription的版本，我买过最贵的软件）。<br>一块从DELL XPS 13里拆下来的Samsung PM981a 512G NVMe，一半用来装Windows 10家庭版，只装了Chrome和Steam，一半用作Adobe软件的缓存。<br>可见分区也就是3个256GB的分区。</p><h2 id="为什么我在Windows-10-2004下保留Windows-7且依旧作为主系统使用？"><a href="#为什么我在Windows-10-2004下保留Windows-7且依旧作为主系统使用？" class="headerlink" title="为什么我在Windows 10 2004下保留Windows 7且依旧作为主系统使用？"></a>为什么我在Windows 10 2004下保留Windows 7且依旧作为主系统使用？</h2><p>Windows 7为什么还是被需要的？特定场合下，如果需要交付一个Adobe After Effects视频工程，如果你生成的是CS6的工程文件，你至少可以让After Effects CC 2020打开时转换。如果你用CC 2020生成工程文件，要是别人用CC 2018（不要指望别人也是订阅制使用，也就是正版使用。公司内必须是正版软件不用质疑，很大一部分小的工作室或者个人使用的CC都是破解版这个肯定也是不用质疑的。）打开你的出现问题，那就有点麻烦了。最重要的一点，订阅制对于我来说，真的还暂时负担不起，我利用这些工具的产出是远远低于投入的资金的，Office 365家庭版的订阅制用的时间比Adobe Creative Cloud的时间要长得多，而且价格在1000以内（毕竟国内使用Office 365的人口基数放在那里），所以我就一次性买断了CS6的全家桶，永久使用，一个24位的序列号价格直接到了5位数。但是不亏。还有很多很晦涩的问题，比如Windows 7的字库能够匹配Adobe CS6，Windows 10的不太行；又比如全核5.0G的优势在使用CS6的时候，只有Windows 7能正常发挥<del>（其实都是不想下载盗版CC 2020软件的锅）</del></p><hr><p>EOF.</p>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;买买买的东西全部到了&quot;&gt;&lt;a href=&quot;#买买买的东西全部到了&quot; class=&quot;headerlink&quot; title=&quot;买买买的东西全部到了&quot;&gt;&lt;/a&gt;买买买的东西全部到了&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;帮妈妈的iPhone Xr和我的iPhone</summary>
+        
+      
+    
+    
+    
+    <category term="Diary" scheme="https://blog.vmarkii.com/categories/Diary/"/>
+    
+    
+    <category term="Culture" scheme="https://blog.vmarkii.com/tags/Culture/"/>
+    
+    <category term="Software" scheme="https://blog.vmarkii.com/tags/Software/"/>
+    
+    <category term="Hardware" scheme="https://blog.vmarkii.com/tags/Hardware/"/>
+    
+    <category term="Buying" scheme="https://blog.vmarkii.com/tags/Buying/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2020年12月15日</title>
+    <link href="https://blog.vmarkii.com/2020/12/15/20201215/"/>
+    <id>https://blog.vmarkii.com/2020/12/15/20201215/</id>
+    <published>2020-12-15T15:58:06.000Z</published>
+    <updated>2021-01-05T15:49:04.192Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="公司部门聚餐"><a href="#公司部门聚餐" class="headerlink" title="公司部门聚餐"></a>公司部门聚餐</h2><p>吃了顿自助餐，现在已经无法思考了（吃的比较饱，还是吃海鲜吃饱的…）</p><h2 id="Ford-V-Ferrari-第三次iTunes美区最低价"><a href="#Ford-V-Ferrari-第三次iTunes美区最低价" class="headerlink" title="Ford V Ferrari 第三次iTunes美区最低价"></a>Ford V Ferrari 第三次iTunes美区最低价</h2><p>这次入手了，8美元。</p><p>要是降到5美元我也认了。</p><hr><p>EOF.</p>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;公司部门聚餐&quot;&gt;&lt;a href=&quot;#公司部门聚餐&quot; class=&quot;headerlink&quot; title=&quot;公司部门聚餐&quot;&gt;&lt;/a&gt;公司部门聚餐&lt;/h2&gt;&lt;p&gt;吃了顿自助餐，现在已经无法思考了（吃的比较饱，还是吃海鲜吃饱的…）&lt;/p&gt;
+&lt;h2</summary>
+        
+      
+    
+    
+    
+    <category term="Diary" scheme="https://blog.vmarkii.com/categories/Diary/"/>
+    
+    
+    <category term="Happy Work" scheme="https://blog.vmarkii.com/tags/Happy-Work/"/>
+    
+    <category term="iTunes" scheme="https://blog.vmarkii.com/tags/iTunes/"/>
+    
+  </entry>
+  
+</feed>
