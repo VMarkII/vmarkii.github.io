@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html>
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+  
+  <title>How to deploy your flask web app to nginx via uWSGI in CentOS? - VMarkII&#39;s Journal</title>
+  <meta name="viewport" content="width=device-width">
+  
+  <meta name="keywords" content=Dev>
+  
+  
+    <link rel="shortcut icon" type="image/x-icon" href="/img/icon.png?v=1.02">
+  
+  
+    <link rel="alternate" href="/atom.xml " title="VMarkII&#39;s Journal" type="application/atom+xml">
+  
+  
+<link rel="stylesheet" href="/css/style.css">
+
+<meta name="generator" content="Hexo 5.3.0"></head>
+  <body>
+    <div class="container">
+      <header class="header">
+  <div class="blog-title">
+    <a href="/" class="logo">VMarkII&#39;s Journal</a>
+    <div class="subtitle">A stupid user&#39;s stupid blog site.</div>
+  </div>
+  <nav class="navbar">
+    <ul class="menu">
+      
+        <li class="menu-item">
+          <a href="/archives" class="menu-item-link">All</a>
+        </li>
+      
+        <li class="menu-item">
+          <a href="/tags" class="menu-item-link">Tags</a>
+        </li>
+      
+        <li class="menu-item">
+          <a href="/categories" class="menu-item-link">Categories</a>
+        </li>
+      
+        <li class="menu-item">
+          <a href="/about" class="menu-item-link">About</a>
+        </li>
+      
+      <li class="menu-item">
+        <a class="menu-item-link popup-trigger" title="Search" href="#">
+          Search
+        </a>
+      </li>
+    </ul>
+  </nav>
+</header>
+<div style="padding: 0 20px;">
+
+
+  <a style="float: left" href="/2021/03/07/2021-Week09/">
+    <span>Previous</span>
+  </a>
+
+<br />
+</div>
+<article class="post">
+  <div class="post-title">
+    <h1 class="article-title">How to deploy your flask web app to nginx via uWSGI in CentOS?</h1>
+  </div>
+  <div class="post-footer">
+    
+      <ul class="post-category-list"><li class="post-category-list-item"><a class="post-category-list-link" href="/categories/DevQuickGuide/">DevQuickGuide</a></li></ul>
+    
+  </div>
+  <div class="post-content">
+    <p>这是本站第一篇以<strong>DevQuickGuide</strong>分类的文章。</p>
+<p>这一类型的文章将不会解释开发过程中的内部原理，只是提供一个从零开始的操作流程，已达到文章标题的目的。</p>
+<p>This is the first article categorized as <strong>“DevQuickGuide”</strong>.</p>
+<p>This kind of articles will not explain how thing works or theories beneath. Build something from the scratch is what this article will help you.</p>
+<p>Google translate service will work because I will describe them as basic as possible.</p>
+<hr>
+<h1 id="如何在CentOS内安装nginx并通过uWSGI搭载你的flask-web-app？"><a href="#如何在CentOS内安装nginx并通过uWSGI搭载你的flask-web-app？" class="headerlink" title="如何在CentOS内安装nginx并通过uWSGI搭载你的flask web app？"></a>如何在CentOS内安装nginx并通过uWSGI搭载你的flask web app？</h1><h2 id="操作前准备"><a href="#操作前准备" class="headerlink" title="操作前准备"></a>操作前准备</h2><p>*拥有可以安装操作系统的容器，包括但不限于你的个人电脑，服务器，云实例和虚拟机等；</p>
+<p>*操作系统: CentOS Stream 8。</p>
+<p><a target="_blank" rel="noopener" href="https://centos.org/centos-stream/">https://centos.org/centos-stream/</a></p>
+<p>由于笔者使用Intel CPU的主机安装，所以CentOS-Stream-8-x86_64-20210302-dvd1.iso将会被下载用于安装。</p>
+<h2 id="开始"><a href="#开始" class="headerlink" title="开始"></a>开始</h2><h3 id="①安装CentOS-Stream-8"><a href="#①安装CentOS-Stream-8" class="headerlink" title="①安装CentOS Stream 8"></a>①安装CentOS Stream 8</h3><ol>
+<li><p>通过<a href="#操作前准备">操作前准备</a>内下载的操作系统安装盘为第一个启动选项启动容器。</p>
+</li>
+<li><p>屏幕出现安装选项时直接按回车。</p>
+</li>
+<li><p>根据屏幕提供系统安装界面完成系统安装。</p>
+</li>
+</ol>
+<p><strong>非虚拟机或云实例安装请注意：</strong></p>
+<ul>
+<li><p>root不要启用，但是密码请设置并记住。（root密码在这篇教程不会被使用。）</p>
+</li>
+<li><p>对于新手，请务必创建一个管理员账户。在创建账户的时候请勾选“该账户拥有管理员权限”。</p>
+</li>
+<li><p>如果你不太熟悉直接在Console或者SSH操作，请务必使用GUI（安装默认选项），即使这将导致容器计算资源被浪费。</p>
+</li>
+</ul>
+<h3 id="②安装需要的依赖包"><a href="#②安装需要的依赖包" class="headerlink" title="②安装需要的依赖包"></a>②安装需要的依赖包</h3><ol>
+<li><p>使用你的管理员账户登录系统。</p>
+</li>
+<li><p>点击屏幕左上角的CentOS图标，在上方的搜索框输入”Terminal”，点击“终端”并运行。</p>
+</li>
+<li><p>在“终端”输入以下命令：</p>
+</li>
+</ol>
+<blockquote>
+<p>sudo yum -y upgrade</p>
+</blockquote>
+<p>请阅读完“sudo使用约法三章”后输入你的管理员账户密码。（root密码在这篇教程不会被使用。）</p>
+<blockquote>
+<p>sudo yum -y install gcc gcc-c++ automake autoconf libtool make libffi-devel pcre-devel zlib-devel openssl openssl-devel</p>
+</blockquote>
+<p>上面的命令从”gcc”开始至”openssl-devel”都是依赖包的名称。</p>
+<h3 id="③下载并安装Python-3-9-2"><a href="#③下载并安装Python-3-9-2" class="headerlink" title="③下载并安装Python 3.9.2"></a>③下载并安装Python 3.9.2</h3><ol>
+<li>新开“终端”内输入如下命令下载tgz包：</li>
+</ol>
+<blockquote>
+<p>wget <a target="_blank" rel="noopener" href="https://www.python.org/ftp/python/3.9.2/Python-3.9.2.tgz">https://www.python.org/ftp/python/3.9.2/Python-3.9.2.tgz</a></p>
+</blockquote>
+<ol>
+<li>输入如下命令解压tgz包：</li>
+</ol>
+<blockquote>
+<p>tar -zxvf Python-3.9.2.tgz</p>
+</blockquote>
+<ol>
+<li>输入如下命令安装Python-3.9.2，在每一条命令输入并执行完成后输入下一条命令：</li>
+</ol>
+<blockquote>
+<p>sudo mkdir /usr/local/python3.9.2</p>
+<p>cd Python-3.9.2</p>
+<p>./configure —prefix=/usr/local/python3.9.2 —enable-optimizations</p>
+<p>make</p>
+<p>sudo make install</p>
+<p>sudo make clean</p>
+<p>sudo ln -s /usr/local/python3.9.2/bin/python3 /usr/bin/python3.9.2</p>
+</blockquote>
+<p><strong>请注意：</strong></p>
+<ul>
+<li><strong>不要试图删除CentOS内置的python3，也不要在软连接时将原有python3替代，这将导致gnome-terminal在下次登录后无法运行且GUI会崩溃。</strong></li>
+<li>make这一步将会花相当长的时间，如果你只是尝试，第三步内的第三条语句可以改成如下命令：<blockquote>
+<p>./configure —prefix=/usr/local/python3.9.2</p>
+</blockquote>
+</li>
+</ul>
+<h3 id="④下载并安装nginx-1-19-7"><a href="#④下载并安装nginx-1-19-7" class="headerlink" title="④下载并安装nginx 1.19.7"></a>④下载并安装nginx 1.19.7</h3><ol>
+<li>新开“终端”内输入如下命令下载tgz包：</li>
+</ol>
+<blockquote>
+<p>wget <a target="_blank" rel="noopener" href="http://nginx.org/download/nginx-1.19.7.tar.gz">http://nginx.org/download/nginx-1.19.7.tar.gz</a></p>
+</blockquote>
+<ol>
+<li>输入如下命令解压tgz包：</li>
+</ol>
+<blockquote>
+<p>tar -zxvf nginx-1.19.7.tar.gz</p>
+</blockquote>
+
+  </div>
+  <div class="post-meta">
+    <span class="post-time">2021-03-08 21:55:33</span>
+  </div>
+  <br />
+  <div class="post-footer">
+    
+      <ul class="post-tag-list" itemprop="keywords"><li class="post-tag-list-item"><a class="post-tag-list-link" href="/tags/Dev/" rel="tag">Dev</a></li></ul>
+    
+    <a href="#top" class="top">Back to Top</a>
+  </div>
+</article>
+<footer>
+  <span class="author">
+    VerticalACE Mark II
+  </span>
+</footer>
+
+    </div>
+    <div class="search-pop-overlay">
+      <div class="popup search-popup">
+        <div class="search-header">
+          <span class="search-icon">
+              Search
+              </span>
+              <div class="search-input-container">
+              <input autocomplete="off" autocapitalize="off" spellcheck="false"
+                      type="search" class="search-input" id="search-input">
+              </div>
+              <span class="popup-btn-close">
+              Close
+              </span>
+        </div>
+        <div id="search-result">
+          <div id="no-result">
+            No results
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+  
+<script src="/js/local-search.js"></script>
+
+  
+</html>

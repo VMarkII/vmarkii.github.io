@@ -6,7 +6,7 @@
   <link href="https://blog.vmarkii.com/atom.xml" rel="self"/>
   
   <link href="https://blog.vmarkii.com/"/>
-  <updated>2021-03-07T15:52:52.593Z</updated>
+  <updated>2021-03-08T15:05:03.227Z</updated>
   <id>https://blog.vmarkii.com/</id>
   
   <author>
@@ -17,13 +17,42 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>How to deploy your flask web app to nginx via uWSGI in CentOS?</title>
+    <link href="https://blog.vmarkii.com/2021/03/08/how-to-deploy-your-flask-webapp-to-nginx-via-uwsgi/"/>
+    <id>https://blog.vmarkii.com/2021/03/08/how-to-deploy-your-flask-webapp-to-nginx-via-uwsgi/</id>
+    <published>2021-03-08T13:55:33.000Z</published>
+    <updated>2021-03-08T15:05:03.227Z</updated>
+    
+    <content type="html"><![CDATA[<p>这是本站第一篇以<strong>DevQuickGuide</strong>分类的文章。</p><p>这一类型的文章将不会解释开发过程中的内部原理，只是提供一个从零开始的操作流程，已达到文章标题的目的。</p><p>This is the first article categorized as <strong>“DevQuickGuide”</strong>.</p><p>This kind of articles will not explain how thing works or theories beneath. Build something from the scratch is what this article will help you.</p><p>Google translate service will work because I will describe them as basic as possible.</p><hr><h1 id="如何在CentOS内安装nginx并通过uWSGI搭载你的flask-web-app？"><a href="#如何在CentOS内安装nginx并通过uWSGI搭载你的flask-web-app？" class="headerlink" title="如何在CentOS内安装nginx并通过uWSGI搭载你的flask web app？"></a>如何在CentOS内安装nginx并通过uWSGI搭载你的flask web app？</h1><h2 id="操作前准备"><a href="#操作前准备" class="headerlink" title="操作前准备"></a>操作前准备</h2><p>*拥有可以安装操作系统的容器，包括但不限于你的个人电脑，服务器，云实例和虚拟机等；</p><p>*操作系统: CentOS Stream 8。</p><p><a href="https://centos.org/centos-stream/">https://centos.org/centos-stream/</a></p><p>由于笔者使用Intel CPU的主机安装，所以CentOS-Stream-8-x86_64-20210302-dvd1.iso将会被下载用于安装。</p><h2 id="开始"><a href="#开始" class="headerlink" title="开始"></a>开始</h2><h3 id="①安装CentOS-Stream-8"><a href="#①安装CentOS-Stream-8" class="headerlink" title="①安装CentOS Stream 8"></a>①安装CentOS Stream 8</h3><ol><li><p>通过<a href="#操作前准备">操作前准备</a>内下载的操作系统安装盘为第一个启动选项启动容器。</p></li><li><p>屏幕出现安装选项时直接按回车。</p></li><li><p>根据屏幕提供系统安装界面完成系统安装。</p></li></ol><p><strong>非虚拟机或云实例安装请注意：</strong></p><ul><li><p>root不要启用，但是密码请设置并记住。（root密码在这篇教程不会被使用。）</p></li><li><p>对于新手，请务必创建一个管理员账户。在创建账户的时候请勾选“该账户拥有管理员权限”。</p></li><li><p>如果你不太熟悉直接在Console或者SSH操作，请务必使用GUI（安装默认选项），即使这将导致容器计算资源被浪费。</p></li></ul><h3 id="②安装需要的依赖包"><a href="#②安装需要的依赖包" class="headerlink" title="②安装需要的依赖包"></a>②安装需要的依赖包</h3><ol><li><p>使用你的管理员账户登录系统。</p></li><li><p>点击屏幕左上角的CentOS图标，在上方的搜索框输入”Terminal”，点击“终端”并运行。</p></li><li><p>在“终端”输入以下命令：</p></li></ol><blockquote><p>sudo yum -y upgrade</p></blockquote><p>请阅读完“sudo使用约法三章”后输入你的管理员账户密码。（root密码在这篇教程不会被使用。）</p><blockquote><p>sudo yum -y install gcc gcc-c++ automake autoconf libtool make libffi-devel pcre-devel zlib-devel openssl openssl-devel</p></blockquote><p>上面的命令从”gcc”开始至”openssl-devel”都是依赖包的名称。</p><h3 id="③下载并安装Python-3-9-2"><a href="#③下载并安装Python-3-9-2" class="headerlink" title="③下载并安装Python 3.9.2"></a>③下载并安装Python 3.9.2</h3><ol><li>新开“终端”内输入如下命令下载tgz包：</li></ol><blockquote><p>wget <a href="https://www.python.org/ftp/python/3.9.2/Python-3.9.2.tgz">https://www.python.org/ftp/python/3.9.2/Python-3.9.2.tgz</a></p></blockquote><ol><li>输入如下命令解压tgz包：</li></ol><blockquote><p>tar -zxvf Python-3.9.2.tgz</p></blockquote><ol><li>输入如下命令安装Python-3.9.2，在每一条命令输入并执行完成后输入下一条命令：</li></ol><blockquote><p>sudo mkdir /usr/local/python3.9.2</p><p>cd Python-3.9.2</p><p>./configure —prefix=/usr/local/python3.9.2 —enable-optimizations</p><p>make</p><p>sudo make install</p><p>sudo make clean</p><p>sudo ln -s /usr/local/python3.9.2/bin/python3 /usr/bin/python3.9.2</p></blockquote><p><strong>请注意：</strong></p><ul><li><strong>不要试图删除CentOS内置的python3，也不要在软连接时将原有python3替代，这将导致gnome-terminal在下次登录后无法运行且GUI会崩溃。</strong></li><li>make这一步将会花相当长的时间，如果你只是尝试，第三步内的第三条语句可以改成如下命令：<blockquote><p>./configure —prefix=/usr/local/python3.9.2</p></blockquote></li></ul><h3 id="④下载并安装nginx-1-19-7"><a href="#④下载并安装nginx-1-19-7" class="headerlink" title="④下载并安装nginx 1.19.7"></a>④下载并安装nginx 1.19.7</h3><ol><li>新开“终端”内输入如下命令下载tgz包：</li></ol><blockquote><p>wget <a href="http://nginx.org/download/nginx-1.19.7.tar.gz">http://nginx.org/download/nginx-1.19.7.tar.gz</a></p></blockquote><ol><li>输入如下命令解压tgz包：</li></ol><blockquote><p>tar -zxvf nginx-1.19.7.tar.gz</p></blockquote>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;这是本站第一篇以&lt;strong&gt;DevQuickGuide&lt;/strong&gt;分类的文章。&lt;/p&gt;
+&lt;p&gt;这一类型的文章将不会解释开发过程中的内部原理，只是提供一个从零开始的操作流程，已达到文章标题的目的。&lt;/p&gt;
+&lt;p&gt;This is the first article</summary>
+        
+      
+    
+    
+    
+    <category term="DevQuickGuide" scheme="https://blog.vmarkii.com/categories/DevQuickGuide/"/>
+    
+    
+    <category term="Dev" scheme="https://blog.vmarkii.com/tags/Dev/"/>
+    
+  </entry>
+  
+  <entry>
     <title>2021-Week09</title>
     <link href="https://blog.vmarkii.com/2021/03/07/2021-Week09/"/>
     <id>https://blog.vmarkii.com/2021/03/07/2021-Week09/</id>
     <published>2021-03-07T15:31:30.000Z</published>
-    <updated>2021-03-07T15:52:52.593Z</updated>
+    <updated>2021-03-08T13:53:16.849Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="本站域名迁至https-blog-vmarkii-com"><a href="#本站域名迁至https-blog-vmarkii-com" class="headerlink" title="本站域名迁至https://blog.vmarkii.com"></a>本站域名迁至<a href="https://blog.vmarkii.com">https://blog.vmarkii.com</a></h2><h2 id="去年的假还有三天"><a href="#去年的假还有三天" class="headerlink" title="去年的假还有三天"></a>去年的假还有三天</h2><p>放在Week10休掉，一周上班两天，舒服的不谈了。</p><h2 id="忙碌"><a href="#忙碌" class="headerlink" title="忙碌"></a>忙碌</h2><p>星期一（3月1日）正逢公司商标更换的日子，一线IT支持几乎都在接电话，没有停下来休息的时间。</p><p>欧洲时区上班的第一个小时，也就是中国时区下午3点到下午4点，Service Desk一共接了57个电话。</p><p>13个人，包括我在那一个小时同时接电话的场景，在Dashboard上显示出来是相当壮观的。相信这应该是我进入公司最忙的时刻。</p><p>星期一我加班到晚上7点，可能我办公室里的同事加班的更晚（主要是这周我要和美国时区交接所以从星期二到星期五我都要早一个小时到达公司。）</p><p>星期五总算是基本结束了忙碌。</p><h2 id="年会恢复日程"><a href="#年会恢复日程" class="headerlink" title="年会恢复日程"></a>年会恢复日程</h2><p>鉴于上海市内疫情防控得当，Week12周五（3月26日）开年会。</p><p><del>作为年会音视频编排，完全忘记该做啥了。</del></p><h2 id="48小时耐久直播"><a href="#48小时耐久直播" class="headerlink" title="48小时耐久直播"></a>48小时耐久直播</h2><p>16小时是在睡觉的。</p><p><del>10小时是在玩炉石传说的。</del></p><p>计划列表完成结果：</p><p>[✔] 使用Hyper-V搭建两个操作系统，Windows 10和CentOS；<br>[✔] Flask替代IIS完成对网站页面的响应；<br>[✔] Flask使用https证书提高网站安全性；<br>[ ] 使用nginx制作一个自己的直播服务器并且完成推拉流；<br>[✔] 如何一张证书同时使用于Flask和nginx？是否需要Wildcard DV？</p><p>第二和第五个问题是同时解决的。</p><p>Flask完成的脚本，也就是Webapp，在uWSGI运行部署，然后再通过nginx转发。这个操作步骤倒是可以先一篇技术文档。</p><p>Wildcard DV SSL买了又退货了，贫穷限制了我。</p><h2 id="iTunes"><a href="#iTunes" class="headerlink" title="iTunes"></a>iTunes</h2><p>Big Hero 6 - 第一次最低价 - 8美元<br>Zootopia - 第一次最低价 - 8美元</p><hr><p>EOF.</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="本站域名迁至https-blog-vmarkii-com"><a href="#本站域名迁至https-blog-vmarkii-com" class="headerlink" title="本站域名迁至https://blog.vmarkii.com"></a>本站域名迁至<a href="https://blog.vmarkii.com">https://blog.vmarkii.com</a></h2><h2 id="去年的假还有三天"><a href="#去年的假还有三天" class="headerlink" title="去年的假还有三天"></a>去年的假还有三天</h2><p>放在Week10休掉，一周上班两天，舒服的不谈了。</p><h2 id="忙碌"><a href="#忙碌" class="headerlink" title="忙碌"></a>忙碌</h2><p>星期一（3月1日）正逢公司商标更换的日子，一线IT支持几乎都在接电话，没有停下来休息的时间。</p><p>欧洲时区上班的第一个小时，也就是中国时区下午3点到下午4点，Service Desk一共接了57个电话。</p><p>13个人，包括我在那一个小时同时接电话的场景，在Dashboard上显示出来是相当壮观的。相信这应该是我进入公司最忙的时刻。</p><p>星期一我加班到晚上7点，可能我办公室里的同事加班的更晚（主要是这周我要和美国时区交接所以从星期二到星期五我都要早一个小时到达公司。）</p><p>星期五总算是基本结束了忙碌。</p><h2 id="年会恢复日程"><a href="#年会恢复日程" class="headerlink" title="年会恢复日程"></a>年会恢复日程</h2><p>鉴于上海市内疫情防控得当，Week12周五（3月26日）开年会。</p><p><del>作为年会音视频编排，完全忘记该做啥了。</del></p><h2 id="48小时耐久直播"><a href="#48小时耐久直播" class="headerlink" title="48小时耐久直播"></a>48小时耐久直播</h2><p>16小时是在睡觉的。</p><p><del>10小时是在玩炉石传说的。</del></p><p>计划列表完成结果：</p><p>[✔] 使用Hyper-V搭建两个操作系统，Windows 10和CentOS；<br>[✔] Flask替代IIS完成对网站页面的响应；<br>[✔] Flask使用https证书提高网站安全性；<br>[ ] 使用nginx制作一个自己的直播服务器并且完成推拉流；<br>[✔] 如何一张证书同时使用于Flask和nginx？是否需要Wildcard DV？</p><p>第二和第五个问题是同时解决的。</p><p>Flask完成的脚本，也就是Webapp，在uWSGI运行部署，然后再通过nginx转发。这个操作步骤倒是可以先写一篇技术文档。</p><p>Wildcard DV SSL买了又退货了，贫穷限制了我。</p><h2 id="iTunes"><a href="#iTunes" class="headerlink" title="iTunes"></a>iTunes</h2><p>Big Hero 6 - 第一次最低价 - 8美元<br>Zootopia - 第一次最低价 - 8美元</p><hr><p>EOF.</p>]]></content>
     
     
       
@@ -874,36 +903,6 @@
     <category term="Hardware" scheme="https://blog.vmarkii.com/tags/Hardware/"/>
     
     <category term="Buying" scheme="https://blog.vmarkii.com/tags/Buying/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>2020年12月15日</title>
-    <link href="https://blog.vmarkii.com/2020/12/15/20201215/"/>
-    <id>https://blog.vmarkii.com/2020/12/15/20201215/</id>
-    <published>2020-12-15T15:58:06.000Z</published>
-    <updated>2021-01-05T15:49:04.192Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="公司部门聚餐"><a href="#公司部门聚餐" class="headerlink" title="公司部门聚餐"></a>公司部门聚餐</h2><p>吃了顿自助餐，现在已经无法思考了（吃的比较饱，还是吃海鲜吃饱的…）</p><h2 id="Ford-V-Ferrari-第三次iTunes美区最低价"><a href="#Ford-V-Ferrari-第三次iTunes美区最低价" class="headerlink" title="Ford V Ferrari 第三次iTunes美区最低价"></a>Ford V Ferrari 第三次iTunes美区最低价</h2><p>这次入手了，8美元。</p><p>要是降到5美元我也认了。</p><hr><p>EOF.</p>]]></content>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;公司部门聚餐&quot;&gt;&lt;a href=&quot;#公司部门聚餐&quot; class=&quot;headerlink&quot; title=&quot;公司部门聚餐&quot;&gt;&lt;/a&gt;公司部门聚餐&lt;/h2&gt;&lt;p&gt;吃了顿自助餐，现在已经无法思考了（吃的比较饱，还是吃海鲜吃饱的…）&lt;/p&gt;
-&lt;h2</summary>
-        
-      
-    
-    
-    
-    <category term="Diary" scheme="https://blog.vmarkii.com/categories/Diary/"/>
-    
-    
-    <category term="Happy Work" scheme="https://blog.vmarkii.com/tags/Happy-Work/"/>
-    
-    <category term="iTunes" scheme="https://blog.vmarkii.com/tags/iTunes/"/>
     
   </entry>
   
