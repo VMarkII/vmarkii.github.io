@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+  
+  <title>2022年01月20日 - VMarkII&#39;s Journal</title>
+  <meta name="viewport" content="width=device-width">
+  
+  <meta name="keywords" content=Hardware,Milestone,Buying,Coding>
+  
+  
+    <link rel="shortcut icon" type="image/x-icon" href="/img/icon.png?v=1.02">
+  
+  
+    <link rel="alternate" href="/atom.xml " title="VMarkII&#39;s Journal" type="application/atom+xml">
+  
+  
+<link rel="stylesheet" href="/css/style.css">
+
+<meta name="generator" content="Hexo 5.3.0"></head>
+  <body>
+    <div class="container">
+      <header class="header">
+  <div class="blog-title">
+    <a href="/" class="logo">VMarkII&#39;s Journal</a>
+    <div class="subtitle">A stupid user&#39;s stupid blog site.</div>
+  </div>
+  <nav class="navbar">
+    <ul class="menu">
+      
+        <li class="menu-item">
+          <a href="/archives" class="menu-item-link">All</a>
+        </li>
+      
+        <li class="menu-item">
+          <a href="/tags" class="menu-item-link">Tags</a>
+        </li>
+      
+        <li class="menu-item">
+          <a href="/categories" class="menu-item-link">Categories</a>
+        </li>
+      
+        <li class="menu-item">
+          <a href="/about" class="menu-item-link">About</a>
+        </li>
+      
+      <li class="menu-item">
+        <a class="menu-item-link popup-trigger" title="Search" href="#">
+          Search
+        </a>
+      </li>
+    </ul>
+  </nav>
+</header>
+<div style="padding: 0 20px;">
+
+  <a style="float: right" href="/2022/02/06/20220206/">
+    <span>Next</span>
+  </a>
+
+
+  <a style="float: left" href="/2021/11/16/20211116/">
+    <span>Previous</span>
+  </a>
+
+<br />
+</div>
+<article class="post">
+  <div class="post-title">
+    <h1 class="article-title">2022年01月20日</h1>
+  </div>
+  <div class="post-footer">
+    
+      <ul class="post-category-list"><li class="post-category-list-item"><a class="post-category-list-link" href="/categories/Diary/">Diary</a></li></ul>
+    
+  </div>
+  <div class="post-content">
+    <p>两个月过去了。</p>
+<p>觉得给父亲用<strong>i7 8700 + 64GB DDR4</strong>来炒股有亿点奢侈，故把之前间歇开不了机的i5 4590 + 16GB DDR3给修好（原因是CPU扣具过紧导致内存一个通道接触不良无法开机），把硬盘换成850 Pro 512G装系统。总体效果不错。</p>
+<p>i7 8700 + 64GB DDR4重新利用于ITX，将海康威视C2000 Pro 1T nvme固态装上Windows Server 2019 RTM，将原装的NAS 3-SATA的背板装回来把一块Exos 16T接上。</p>
+<p>现在你看到的 <a target="_blank" rel="noopener" href="https://vmarkii.com">https://vmarkii.com</a> 和 <a target="_blank" rel="noopener" href="https://vmarkii.com/live.html">https://vmarkii.com/live.html</a> 都在这台ITX上跑的，www.vmarkii.com和*.vmarkii.com的HTTPS证书通过Vultr的一个实例自动获取，然后nginx反向代理到自己家里的ITX上。</p>
+<p>而且之前250W 1U电源间歇关机的问题我好像也在这次装机时解决了。原因可能是装1U电源的螺丝过长。我使用短螺丝固定，电源部件就不会碰到螺丝了。现在开了1周没有断电。</p>
+<h2 id="2022年第一天去广西喝喜酒"><a href="#2022年第一天去广西喝喜酒" class="headerlink" title="2022年第一天去广西喝喜酒"></a>2022年第一天去广西喝喜酒</h2><p>一个一个月不出小区，三个月不出城区，一百年不出上海市的人，去广西来宾市喝喜酒。</p>
+<p>下飞机由于当时上海有中风险地区要48小时核酸，简直是顶风作案。</p>
+<p>很庆幸自己没有中招。</p>
+<p>小店的螺蛳粉还不错。</p>
+<h2 id="HBO-Max开始订阅"><a href="#HBO-Max开始订阅" class="headerlink" title="HBO Max开始订阅"></a>HBO Max开始订阅</h2><p>Apple TV 4K买来不买Disney+或者HBO Max就是浪费。</p>
+<p>如果说好的电影在iTunes Store上蹲低价买入，那么其他不想买的电影在HBO Max上看完就行了。</p>
+<h2 id="Netgear-R8000P刷OpenWrt"><a href="#Netgear-R8000P刷OpenWrt" class="headerlink" title="Netgear R8000P刷OpenWrt"></a>Netgear R8000P刷OpenWrt</h2><p>第一次拆路由器刷成功，手贱在OpenWrt的环境刷Merlin固件导致CFE和Bootloader刷坏，去闲鱼找人用编程器刷好固件送回来，自己编译固件让OpenWrt可以跑trojan翻墙。</p>
+<p>这个算Milestone。我可以在tag上加一个。</p>
+<p>虽然这个路由器的无线功能没了，但是只要连一根网线从LAN口到Internet，然后四个WAN口直接翻墙。无敌。现在第二根网线连一个TP-Link Wifi 5无线路由器，Apple TV 4K连上Wi-Fi直接看HBO Max和YouTube稳得一逼。</p>
+<h2 id="以前的直播服务器重新开张"><a href="#以前的直播服务器重新开张" class="headerlink" title="以前的直播服务器重新开张"></a>以前的直播服务器重新开张</h2><p><a target="_blank" rel="noopener" href="https://vmarkii.com/live.html">https://vmarkii.com/live.html</a></p>
+<p>以后按心情推流Apple TV的内容或者游戏都可以。</p>
+<p>现在有个问题是直播会不定时断流，这个还要看看。</p>
+<h2 id="脱离Bilibili手机端"><a href="#脱离Bilibili手机端" class="headerlink" title="脱离Bilibili手机端"></a>脱离Bilibili手机端</h2><p>和抖音快手一样，这个东西不能多看。在网页上看看想要的就行。</p>
+<h2 id="微软收购动视暴雪"><a href="#微软收购动视暴雪" class="headerlink" title="微软收购动视暴雪"></a>微软收购动视暴雪</h2><h2 id="黑客帝国4"><a href="#黑客帝国4" class="headerlink" title="黑客帝国4"></a>黑客帝国4</h2><p>作为动作片合格了，电影前半个小时嘲讽Warner Bros.是这部电影最精彩的部分了。<del><strong><em>我嘲讽我自己</em></strong></del></p>
+<hr>
+<p>EOF.</p>
+
+  </div>
+  <div class="post-meta">
+    <span class="post-time">2022-01-20 22:02:49</span>
+  </div>
+  <br />
+  <div class="post-footer">
+    
+      <ul class="post-tag-list" itemprop="keywords"><li class="post-tag-list-item"><a class="post-tag-list-link" href="/tags/Buying/" rel="tag">Buying</a></li><li class="post-tag-list-item"><a class="post-tag-list-link" href="/tags/Coding/" rel="tag">Coding</a></li><li class="post-tag-list-item"><a class="post-tag-list-link" href="/tags/Hardware/" rel="tag">Hardware</a></li><li class="post-tag-list-item"><a class="post-tag-list-link" href="/tags/Milestone/" rel="tag">Milestone</a></li></ul>
+    
+    <a href="#top" class="top">Back to Top</a>
+  </div>
+</article>
+<footer>
+  <span class="author">
+    VerticalACE Mark II
+  </span>
+</footer>
+
+    </div>
+    <div class="search-pop-overlay">
+      <div class="popup search-popup">
+        <div class="search-header">
+          <span class="search-icon">
+              Search
+              </span>
+              <div class="search-input-container">
+              <input autocomplete="off" autocapitalize="off" spellcheck="false"
+                      type="search" class="search-input" id="search-input">
+              </div>
+              <span class="popup-btn-close">
+              Close
+              </span>
+        </div>
+        <div id="search-result">
+          <div id="no-result">
+            No results
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+  
+<script src="/js/local-search.js"></script>
+
+  
+</html>

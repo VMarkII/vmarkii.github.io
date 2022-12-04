@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+  
+  <title>2020年11月22日 - VMarkII&#39;s Journal</title>
+  <meta name="viewport" content="width=device-width">
+  
+  <meta name="keywords" content=Software>
+  
+  
+    <link rel="shortcut icon" type="image/x-icon" href="/img/icon.png?v=1.02">
+  
+  
+    <link rel="alternate" href="/atom.xml " title="VMarkII&#39;s Journal" type="application/atom+xml">
+  
+  
+<link rel="stylesheet" href="/css/style.css">
+
+<meta name="generator" content="Hexo 5.3.0"></head>
+  <body>
+    <div class="container">
+      <header class="header">
+  <div class="blog-title">
+    <a href="/" class="logo">VMarkII&#39;s Journal</a>
+    <div class="subtitle">A stupid user&#39;s stupid blog site.</div>
+  </div>
+  <nav class="navbar">
+    <ul class="menu">
+      
+        <li class="menu-item">
+          <a href="/archives" class="menu-item-link">All</a>
+        </li>
+      
+        <li class="menu-item">
+          <a href="/tags" class="menu-item-link">Tags</a>
+        </li>
+      
+        <li class="menu-item">
+          <a href="/categories" class="menu-item-link">Categories</a>
+        </li>
+      
+        <li class="menu-item">
+          <a href="/about" class="menu-item-link">About</a>
+        </li>
+      
+      <li class="menu-item">
+        <a class="menu-item-link popup-trigger" title="Search" href="#">
+          Search
+        </a>
+      </li>
+    </ul>
+  </nav>
+</header>
+<div style="padding: 0 20px;">
+
+  <a style="float: right" href="/2020/11/23/20201123/">
+    <span>Next</span>
+  </a>
+
+
+  <a style="float: left" href="/2020/11/21/20201121/">
+    <span>Previous</span>
+  </a>
+
+<br />
+</div>
+<article class="post">
+  <div class="post-title">
+    <h1 class="article-title">2020年11月22日</h1>
+  </div>
+  <div class="post-footer">
+    
+      <ul class="post-category-list"><li class="post-category-list-item"><a class="post-category-list-link" href="/categories/Diary/">Diary</a></li></ul>
+    
+  </div>
+  <div class="post-content">
+    <h2 id="有什么想说的？"><a href="#有什么想说的？" class="headerlink" title="有什么想说的？"></a>有什么想说的？</h2><p>以后写日记我就不写“有什么想说的？”，搞得像是坦白从宽一样的。</p>
+<ul>
+<li>OpenVPN服务器端和客户端加上tls-auth：</li>
+</ul>
+<blockquote>
+<p>openvpn —genkey —secret ta.key</p>
+</blockquote>
+<p>节选自<a target="_blank" rel="noopener" href="https://openvpn.net/community-resources/hardening-openvpn-security/">Hardening OpenVPN Security</a>:</p>
+<blockquote>
+<p>The tls-auth directive adds an additional HMAC signature to all SSL/TLS handshake packets for integrity verification. Any UDP packet not bearing the correct HMAC signature can be dropped without further processing. The tls-auth HMAC signature provides an additional level of security above and beyond that provided by SSL/TLS.</p>
+</blockquote>
+<p>服务器端配置文件加上tls-auth ta.key 0，客户端配置文件inline了tls-auth。</p>
+<p>对于我来说主要的优点就是端口扫描的时候不会扫到这个VPN端口而且能防止DoS攻击。</p>
+<ul>
+<li><p>喉咙就这么开始痛起来了。周五晚上Team Building晚上回来叫出租，估计是吹到风了。不过我觉得现在状况等到周二回公司上班基本没问题。</p>
+</li>
+<li><p>Cydia Eraser没有办法在我的iPhone 6 Plus上抹掉数据，只能用SemiRestore抹掉了（Cydia在不在倒是无所谓）。</p>
+</li>
+<li><p>最近在研究iTunes FairPlay DRM。看上去只有集显的情况下要是能在黑苹果中正常播放FairPlay DRM保护的文件只能安装Mac OS X 10.12.2（那个时候不叫macOS）。iOS 8.1.2打开FairPlay DRM的文件还是可以截屏截取到视频的，之后版本的系统对DRM保护的文件截屏截取到的是一块黑屏。</p>
+</li>
+</ul>
+<p><img src="https://i.loli.net/2020/11/22/J8gctwoWObLVl3T.png" alt="Avengers : Endgame" title="Screenshot of movie Avengers : Endgame with iTunes FairPlay DRM"></p>
+<ul>
+<li><a target="_blank" rel="noopener" href="https://sm.ms">https://sm.ms</a> 看上去还不错，上面这张图就是用这个传的。</li>
+</ul>
+<p>晚安。</p>
+
+  </div>
+  <div class="post-meta">
+    <span class="post-time">2020-11-22 21:02:40</span>
+  </div>
+  <br />
+  <div class="post-footer">
+    
+      <ul class="post-tag-list" itemprop="keywords"><li class="post-tag-list-item"><a class="post-tag-list-link" href="/tags/Software/" rel="tag">Software</a></li></ul>
+    
+    <a href="#top" class="top">Back to Top</a>
+  </div>
+</article>
+<footer>
+  <span class="author">
+    VerticalACE Mark II
+  </span>
+</footer>
+
+    </div>
+    <div class="search-pop-overlay">
+      <div class="popup search-popup">
+        <div class="search-header">
+          <span class="search-icon">
+              Search
+              </span>
+              <div class="search-input-container">
+              <input autocomplete="off" autocapitalize="off" spellcheck="false"
+                      type="search" class="search-input" id="search-input">
+              </div>
+              <span class="popup-btn-close">
+              Close
+              </span>
+        </div>
+        <div id="search-result">
+          <div id="no-result">
+            No results
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+  
+<script src="/js/local-search.js"></script>
+
+  
+</html>

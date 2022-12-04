@@ -1,0 +1,2154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>2020年11月16日</title>
+    <url>/2020/11/16/20201116/</url>
+    <content><![CDATA[<h2 id="有什么想说的？"><a href="#有什么想说的？" class="headerlink" title="有什么想说的？"></a>有什么想说的？</h2><ul>
+<li>正在听<em>Fall Out Boy</em>的<em>Alone Together</em>。</li>
+<li>每天晚上四点半下班走5500-5700步，4.6公里，截止今天已经走了两周了。<del>防止自己胖死在公司或者家里。</del></li>
+<li>11月的工资会包含10月的加班工资了，三倍工资Yes！</li>
+<li>9月份还叫嚣着拿下NVIDIA RTX 3090，好了入手了一个2T的固态U盘和iPhone SE 2 256G以后就吃土了。</li>
+<li>iTunes美区的内购不成功给我吓坏了，还以为会封号，结果Apple Senior Support半小时就解决了可还行。（<em>倒是不怎么用App的内购，但是经过这次惊吓以后保证iOS设备有且只有一个关联App Store账号并更换密码。</em>）</li>
+<li>看了一下iTunes Store发的一大堆Receipt，好家伙今年买的电影电视剧专辑已经买了700美元了。</li>
+<li>写这句话的时候距离明天还有7分钟。</li>
+</ul>
+<h2 id="以后这个网站有什么可以改进的地方的么？"><a href="#以后这个网站有什么可以改进的地方的么？" class="headerlink" title="以后这个网站有什么可以改进的地方的么？"></a>以后这个网站有什么可以改进的地方的么？</h2><p>有。</p>
+<p>虽然<a href="/about">About</a>里说网站的结构已经决定并且锁定，但是这个极其简易的主题还是有些排版的问题的，比如Blockquote的显示不够清楚<del>（还在学）</del>，根据Tag分类的网页head不能正确显示（已经修复）</p>
+<p>虽然Github Pages和我的服务器能放静态图片，但是还是考虑注册一个公共图床会相对方便一点。</p>
+<p>浏览器的阅读器模式和Safari的Night Mode适配<del>（在学了在学了）</del></p>
+<p>其他的话我觉得，至少现在开始<a href="/about/index.html#Extra-Content-Consider-this-as-a-free-DLC">写日记了</a>（<del><em>拉到下方开始吟唱</em></del>）。</p>
+<h2 id="都明天了！"><a href="#都明天了！" class="headerlink" title="都明天了！"></a>都明天了！</h2><p>晚安。</p>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>hexo-build</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2020年11月17日</title>
+    <url>/2020/11/17/20201117/</url>
+    <content><![CDATA[<h2 id="有什么想说的？"><a href="#有什么想说的？" class="headerlink" title="有什么想说的？"></a>有什么想说的？</h2><ul>
+<li>youtube-dl又活啦！</li>
+<li>直到今天我才知道UNDERTALE居然还有5周年纪念活动，2020年9月15日当天还在YouTube免费配信了2019年UNDERTALE日本交响音乐会，我还居然是从B站的八国猛男那里今天才知道的！</li>
+<li>这上面两件事结合在一起，<strong><em><del>拍手后两手一摊</del>你说，那是不是巧了？</em></strong></li>
+<li><em>（在今天上面这些事之前）</em>用第三方网盘资源搜索无意间看到VOCALOID除了全息演唱会居然还有交响音乐会？到iTunes日服上一搜一试听把我给听傻了，这都可以交响乐，而且听上去很不一样？</li>
+<li>好了这三件事结合在一起，发现什么华点了么？盲生？</li>
+</ul>
+<h2 id="你到底想说什么？"><a href="#你到底想说什么？" class="headerlink" title="你到底想说什么？"></a>你到底想说什么？</h2><p>初音ミク，中文译名<em>初音未来</em>。日本VOCALOID 2第一代虚拟歌手之一。<br>2010年3月9日的<em>Miku 39’s Giving Day</em>全息演唱会，虽然是第一次，但是这一次依然是我心目中最好最棒的一次虚拟歌手全息演唱会（就是能刻进DNA的那一种）。看看最后STAFF表的应援出演吧，DECO*27，doriko，SAM(samfree)，minato(流星P)，哪一个不是这一行的领头人？再看看这个演唱会的Band，里面随便取出一段听Live，没有任何一次后来的官方办全息演唱会能达到这么好的Live效果。随着第一场全息演唱会的名气打响和之后演唱会的全息质量提高，这个虚拟人物的名气和马里奥一样响。</p>
+<p>UNDERTALE，中文译名<em>传说之下</em>。toby fox出品。<br>攻略很简单，你可以不杀害任何一个怪过关。其实这句话已经剧透了。我第一次玩，小怪能杀的都杀了，OMEGA Flowey卡关了很久…真正的Blind Play，到头来居然还是Sans和Flowey一起教我玩Pacifist Ending的。8-bit + META + 独特的游戏角色 + <strong>针对角色的配乐</strong>。这个游戏能好评如潮，足以体现8-bit没有过时，META只有滥用才会索然无味，出色的游戏故事剧本和配乐<del>（toby居然用倒放和慢速凑原声游戏专辑，奸商</del>有时在RPGMaker上就足够了。</p>
+<p>VOCALOID + 交响乐 = ?<br>UNDERTALE + 交响乐 = ?</p>
+<p>哦对了，有一个组合，名字叫Daft Punk。<br>有一部电影叫做Tron Legacy，中文译名<em>创战纪</em>。<br>Daft Punk和London Studio Orchestra一起为<em>创战纪</em>配的电影配乐。</p>
+<p>Electronica + 交响乐 = ?</p>
+<p>原来<strong>美</strong>的表达形式真的可以很丰富呢。<br>原来是艺术载体的，现在还能是。交响乐是艺术载体的一种。<br>戏剧（京剧，越剧等等），传统曲艺（评话，评书，说书和评弹等等）和诗词歌赋也是。<br><strong>尤其是戏剧，有形和魂之说，作为载体完全是超过交响乐的<em>（上述的交响乐都只是和不同Genre的音乐结合，没有戏剧的形，只有演奏和指挥）</em>。作为国粹，不要为了迎合世俗而降低对传统戏剧艺术的学习和戏剧技艺的要求。</strong><br><strong>? + 戏剧 = ? ，这个需要功力和时间。但是相信会有这么一天，我也能和后辈说或者后辈能和我说，快看！某个好看的国产动漫被编成京剧了！一起去看看！</strong></p>
+<p><strong>不要消失，不要忘记。</strong></p>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>Culture</tag>
+        <tag>Think</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2020年11月18日</title>
+    <url>/2020/11/18/20201118/</url>
+    <content><![CDATA[<h2 id="有什么想说的？"><a href="#有什么想说的？" class="headerlink" title="有什么想说的？"></a>有什么想说的？</h2><ul>
+<li><em>昨天的日记为了写清楚自己所想，Commit了五次，保证我的意思不会被曲解。</em>中国传统艺术，传统艺术技艺是未来创新，与现代结合的基础。没有传统艺术知识和技艺的传承，再怎么融合创新也不会优秀，不会产生<strong>美</strong>。</li>
+</ul>
+<h2 id="今天有什么想说的？"><a href="#今天有什么想说的？" class="headerlink" title="今天有什么想说的？"></a>今天有什么想说的？</h2><ul>
+<li><p><a href="https://www.ithome.com/">IT之家</a>的评论区变成维护中了。之前圈子这个功能我从来没有用过，圈子关闭了，用户都说评论区再这么搞迟早玩完，好了这下可不就奶死了么？这下子连评论区的乐子都找不到了<del>（点开IT新闻不看新闻内容直奔评论区=快乐源泉，<strong><em>非常真实</em></strong></del></p>
+</li>
+<li><p>怎么学习Python？现在看来这事有着落了。准备研究一种<del>过时的</del>算法，运用OpenCV将拍下来的印刷纸张上的人工笔迹去除。<del>听上去很厉害？不。能用OpenCV库解决的都只是在学习怎么用这个库罢了。</del></p>
+</li>
+<li><p>在写这句话的时候距离明天还有1分钟。</p>
+</li>
+<li><p><strong>小时候上的编程班里的同学居然成为了小学数学老师！！！而且我居然可以有幸看到她的公开课！！！</strong>这件事情因为涉及我知识盲区的内容过多，我觉得另起一行写个大标题，不过分吧？</p>
+</li>
+</ul>
+<h2 id="小时候上的编程班里的同学居然成为了小学数学老师！！！而且我居然可以有幸看到她的公开课！！！"><a href="#小时候上的编程班里的同学居然成为了小学数学老师！！！而且我居然可以有幸看到她的公开课！！！" class="headerlink" title="小时候上的编程班里的同学居然成为了小学数学老师！！！而且我居然可以有幸看到她的公开课！！！"></a>小时候上的编程班里的同学居然成为了小学数学老师！！！而且我居然可以有幸看到她的公开课！！！</h2><p><del>标题是不是有点长了一点？</del></p>
+<p>机缘巧合，从QQ空间里看到编程班里的某位人士发了张图，是一张某个班级的教学质量分析表。我知道她是老师，但是我不知道她居然是小学老师！！！我立即回复“好像听一次你的课啊2333”，然后我就收到了来自这位人士的一个网盘链接和密码…</p>
+<p>我的网盘会员只办了一个月，用来上传备份的…<strong><em><del>拍手后两手一摊</del>你说，那是不是巧了？</em></strong></p>
+<p>我把视频看完了，同时和她聊到了晚上11点半。</p>
+<p>因为不想暴露这所学校的名字，我能说的非常有限。</p>
+<p>TL;DR</p>
+<ul>
+<li><p>初级教育的信息化发展虽然局限，但是的确开始了。</p>
+</li>
+<li><p>信息化发展不是你想的在小学上信息科技课进机房穿鞋套。这个已经是很久远的事了。我说的是在现代的教室内，学生和教师的学习互动原来真的可以完全通过电子设备实现了，我从这位人士发来的视频看到的和听到的，包括但不限于使用iPad做为师生互动的工具，使用AirPlay完成授课流程，<strong>课后学习跟进数字化和学生学习成果BI化</strong>。</p>
+</li>
+<li><p><strong>在校内</strong>小学生开始接触编程了，Scratch,Python,Swift Playgrounds开始作为参加初等教育科技大赛的常客了。</p>
+</li>
+<li><p>这所学校是公办学校，又因为有这种教学方式，<strong>许多家长为了孩子不惜成本削尖脑袋往里钻。</strong>当然这种教学方式只是原因之一，和所在地段也有点关系。</p>
+</li>
+</ul>
+<p>以前不是很明白我的同事提及自家孩子读小学被App或者微信群捆绑的生活，现在，我只能说：</p>
+<blockquote>
+<p>New World.</p>
+</blockquote>
+<p>晚安。</p>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>Think</tag>
+        <tag>Happy Work</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2020年11月19日</title>
+    <url>/2020/11/19/20201119/</url>
+    <content><![CDATA[<h2 id="有什么想说的？"><a href="#有什么想说的？" class="headerlink" title="有什么想说的？"></a>有什么想说的？</h2><ul>
+<li><p>没啥想说的。今天过的贼平凡。</p>
+</li>
+<li><p>昨天说的Python计划，基本框架已经出来了。接下来就是算法编写和测试了。好久没有写代码了，重新捡起来还是很兴奋的。</p>
+</li>
+<li><p>真的没啥可说的，洗洗睡吧。</p>
+</li>
+<li><p>一个Github源，nspire-emus/firebird，你可以了解一下。</p>
+</li>
+</ul>
+<p>晚安。</p>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2020年11月20日</title>
+    <url>/2020/11/20/20201120/</url>
+    <content><![CDATA[<p><del>这篇日记写于2020年11月21日</del></p>
+<h2 id="有什么想说的？"><a href="#有什么想说的？" class="headerlink" title="有什么想说的？"></a>有什么想说的？</h2><p>公司部门Team Building<del>（我们居然还有Budget来Team Building）</del>。在轰趴馆打牌打到晚上吃饭，吃完饭以后抽奖（虽然根本不算抽奖），看同事打牌，听八卦到九点半，到家十点五十，专门开了下Mac把Markdown建完睡觉。然后我就断片了。</p>
+<p>我能在现在的公司，相当幸运和荣幸。你能想象到在上海能有早上8点上班，下午4点半下班，一周工作5天，虽然是计算机相关职业，但是不用写代码的岗位么？<strong>没有。</strong></p>
+<p>而且还有充足的时间学习你想要的<del>（不是摸鱼</del>，又有充足的时间建立这个站点写日记，这可能将会是我最快乐的时光了。</p>
+<p>我一睡睡了14个小时，到电脑前，现在已经是第二天晚上六点五十一分了。</p>
+<p>晚安。</p>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>Happy Work</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2020年11月21日</title>
+    <url>/2020/11/21/20201121/</url>
+    <content><![CDATA[<h2 id="有什么想说的？"><a href="#有什么想说的？" class="headerlink" title="有什么想说的？"></a>有什么想说的？</h2><p>既然昨天的日记都是今天写的，那就讲讲我在Team Building拿到的奖品吧。</p>
+<p>小米移动电源3 10000mAh 快充版 + 一盒和这个充电宝同等价格的浓缩咖啡。</p>
+<p>……</p>
+<p>讲道理我是从来没有买过足量10000mAh的充电宝，相信这个是第一个。看看能不能让我的iPhone SE 2充满5次。</p>
+<p>晚上我打算继续做做我的Python小项目。</p>
+<p>晚安。</p>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2020年11月22日</title>
+    <url>/2020/11/22/20201122/</url>
+    <content><![CDATA[<h2 id="有什么想说的？"><a href="#有什么想说的？" class="headerlink" title="有什么想说的？"></a>有什么想说的？</h2><p>以后写日记我就不写“有什么想说的？”，搞得像是坦白从宽一样的。</p>
+<ul>
+<li>OpenVPN服务器端和客户端加上tls-auth：</li>
+</ul>
+<blockquote>
+<p>openvpn —genkey —secret ta.key</p>
+</blockquote>
+<p>节选自<a href="https://openvpn.net/community-resources/hardening-openvpn-security/">Hardening OpenVPN Security</a>:</p>
+<blockquote>
+<p>The tls-auth directive adds an additional HMAC signature to all SSL/TLS handshake packets for integrity verification. Any UDP packet not bearing the correct HMAC signature can be dropped without further processing. The tls-auth HMAC signature provides an additional level of security above and beyond that provided by SSL/TLS.</p>
+</blockquote>
+<p>服务器端配置文件加上tls-auth ta.key 0，客户端配置文件inline了tls-auth。</p>
+<p>对于我来说主要的优点就是端口扫描的时候不会扫到这个VPN端口而且能防止DoS攻击。</p>
+<ul>
+<li><p>喉咙就这么开始痛起来了。周五晚上Team Building晚上回来叫出租，估计是吹到风了。不过我觉得现在状况等到周二回公司上班基本没问题。</p>
+</li>
+<li><p>Cydia Eraser没有办法在我的iPhone 6 Plus上抹掉数据，只能用SemiRestore抹掉了（Cydia在不在倒是无所谓）。</p>
+</li>
+<li><p>最近在研究iTunes FairPlay DRM。看上去只有集显的情况下要是能在黑苹果中正常播放FairPlay DRM保护的文件只能安装Mac OS X 10.12.2（那个时候不叫macOS）。iOS 8.1.2打开FairPlay DRM的文件还是可以截屏截取到视频的，之后版本的系统对DRM保护的文件截屏截取到的是一块黑屏。</p>
+</li>
+</ul>
+<p><img src="https://i.loli.net/2020/11/22/J8gctwoWObLVl3T.png" alt="Avengers : Endgame" title="Screenshot of movie Avengers : Endgame with iTunes FairPlay DRM"></p>
+<ul>
+<li><a href="https://sm.ms">https://sm.ms</a> 看上去还不错，上面这张图就是用这个传的。</li>
+</ul>
+<p>晚安。</p>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>Software</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2020年11月23日</title>
+    <url>/2020/11/23/20201123/</url>
+    <content><![CDATA[<h2 id="djay-Pro-AI"><a href="#djay-Pro-AI" class="headerlink" title="djay Pro AI"></a>djay Pro AI</h2><p>对于之前购买了djay Pro 2的用户，<strong>使用VPN连接到国外</strong>免费升级解锁之前Pro 2拥有的功能。</p>
+<p>如果你<strong>在此步之后退出App然后在</strong>没有使用VPN直接打开这个App，你甚至可以跳过这个App的NEURALMIX的试用直接用。</p>
+<p>NEURALMIX真的很厉害，也是为什么这个软件后面能加上”AI”这个词的理由。</p>
+<p>什么是NEURALMIX？</p>
+<p><strong>人工智能</strong>的人声和伴奏的分离。</p>
+<p>你以为这样就能彻底抛弃Audition的人声分离么？<strong>是的，你可以。</strong><del>快进到人工智能将人类打败</del></p>
+<h2 id="回收昨天给自己的毒奶"><a href="#回收昨天给自己的毒奶" class="headerlink" title="回收昨天给自己的毒奶"></a>回收昨天给自己的毒奶</h2><p>行吧看上去我这感冒周二好不了了。这就给上级说一声。</p>
+<p>晚安。</p>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>Software</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2020年11月24日</title>
+    <url>/2020/11/24/20201124/</url>
+    <content><![CDATA[<h2 id="一些疑惑需要解决🤔"><a href="#一些疑惑需要解决🤔" class="headerlink" title="一些疑惑需要解决🤔"></a>一些疑惑需要解决🤔</h2><ul>
+<li><p>Safari的阅读器视图的工作条件感觉很谜，有时可以，有时就是不太行，（比如2020年11月21日，很短，但是能trigger阅读器，但是11月23日的就不行）我需要去查查资料再做做测试。</p>
+</li>
+<li><p>emoji符号在hexo的支持是否需要再安装一些依赖库？这个也要查查资料。</p>
+</li>
+</ul>
+<h2 id="iTunes美区降价信息"><a href="#iTunes美区降价信息" class="headerlink" title="iTunes美区降价信息"></a>iTunes美区降价信息</h2><p>由于我每个月都有100美元的固定Budget来买买买，而今天不仅有大量降价，而且是我发工资的日子😄。我可以慢慢写。</p>
+<p><strong><em>按照我个人喜欢从上到下排序。</em></strong><br><strong><em>备注：“4.99美元”，“9.99美元”一律写“5美元”，“10美元”。</em></strong></p>
+<ul>
+<li><strong>Rocky / Creed合集发布以来第一次最低价8美元（相当于买Rocky白送一部Creed）</strong>。</li>
+<li>Saving Private Ryan最低价8美元。</li>
+<li>Back to the Future最低价5美元。</li>
+<li>The Matrix Trilogy最低价15美元。</li>
+<li>Harry Potter全集加上Fantastic Beasts全集最低价60美元。</li>
+<li><strong>Catch Me If You Can (2002)发布以来第一次最低价5美元。</strong></li>
+<li>The Truman Show最低价5美元。</li>
+<li>Mad Max最低价5美元。</li>
+<li>Spider-Man: Into the Spider-Verse最低价10美元。</li>
+<li>The Italian Job (1969 &amp; 2003)合集最低价10美元。</li>
+<li>Back to the Future Trilogy最低价15美元。</li>
+<li>John Wick第一到第三章合集最低价20美元。</li>
+<li>Star Trek 3-Movie Collection最低价20美元 <strong>（最低到过15美元）</strong>。</li>
+<li>The Bourne Identity最低价5美元。</li>
+<li>Spider-Man Trilogy 20美元 <strong>（最低到过15美元）</strong>。</li>
+<li><strong>Spider-Man: Far From Home / Spider-Man: Homecoming合集发布以来第一次最低价15美元。</strong></li>
+<li>Twilight全集20美元 <strong>（最低到过15美元）</strong>。</li>
+<li>Ted Double Feature最低价10美元。</li>
+<li>Fifty Shades 3-Movie Bundle最低价15美元。</li>
+<li>The Hunger Games: Complete 4-Film Collection最低价20美元 <strong>（最低到过18美元）</strong>。</li>
+<li><strong>Hobbs &amp; Shaw 5-Movie Bundle合集发布以来第一次最低价30美元。</strong></li>
+</ul>
+<p>就是这样。虽然降价了但是没有出现在这个列表里的对于我来说不值得买。</p>
+<h2 id="今天病假在家"><a href="#今天病假在家" class="headerlink" title="今天病假在家"></a>今天病假在家</h2><p>早点请病假睡觉就是对付重感冒的最好方法。明天就可以去上班了。</p>
+<hr>
+<p>晚安。</p>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>hexo-build</tag>
+        <tag>iTunes</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2020年11月25日</title>
+    <url>/2020/11/25/20201125/</url>
+    <content><![CDATA[<h2 id="云游玩了我拥有的两款小众但是制作精良的独立游戏"><a href="#云游玩了我拥有的两款小众但是制作精良的独立游戏" class="headerlink" title="云游玩了我拥有的两款小众但是制作精良的独立游戏"></a>云游玩了我拥有的两款小众但是制作精良的独立游戏</h2><h3 id="continue-9876543210-by-Jason-Oda"><a href="#continue-9876543210-by-Jason-Oda" class="headerlink" title="continue?9876543210 by Jason Oda"></a>continue?9876543210 by Jason Oda</h3><p>Steam褒贬不一，2014年4月25日在App Store入手，最多玩到过12/16，云通关的视频打到了15/16(ENLIGHTENMENT)。</p>
+<p>一个由于在游戏世界战败即将被内存垃圾回收机制删除的游戏角色，为了在被删除前找到自己女友的去处和内心的归属而战斗到最后一刻。</p>
+<p>回合制+横版关+密室关。这个游戏的音乐…好吧这个游戏的音乐<strong>相当的不错</strong>。我为此甚至用过Unity解包游戏内容获取音乐。</p>
+<p>最后游戏结束，垃圾回收的场景在当时（2014年）真的帅飞我了。</p>
+<p>这个游戏的网址已经域名到期了。</p>
+<h3 id="rymdkapsel-by-grapefrukt-games"><a href="#rymdkapsel-by-grapefrukt-games" class="headerlink" title="rymdkapsel by grapefrukt games"></a>rymdkapsel by grapefrukt games</h3><p>Steam特别好评，2014年8月5日在App Store入手，不记得自己最后玩到多少wave了，云游玩的视频打了59 waves, 30 enemies。</p>
+<p>操纵一个空间站，和上面的子民。利用有限的资源建造，研究，生产，抵御一波又一波的敌人。</p>
+<p>我看到的视频很详细的讲解了建造要领，研究石碑速成和食物的储存，打到wave 45以后基本就是用食物换人，硬是换到了wave 59，相当厉害。</p>
+<hr>
+<p><del>啥时候我发个游戏视频？(你个手残党玩个鸡儿</del></p>
+<h2 id="Safari的阅读器模式"><a href="#Safari的阅读器模式" class="headerlink" title="Safari的阅读器模式"></a>Safari的阅读器模式</h2><p>引用一段大佬的文章【<a href="https://www.client9.com/designing-html-for-safari-reader-mode">传送门</a>】</p>
+<blockquote>
+<p>For whatever reason, Apple doesn’t provide any guidance on how to design for Safari Reader Mode. Maybe they want the right to change it at any time or maybe it’s to prevent abuse and advertising sneaking in. Likewise, it’s near impossible to find any third-party guidance on how to structure your HTML. It’s mostly guessing, checking reader mode, editing HTML, reloading until it works.</p>
+</blockquote>
+<p>:(</p>
+<hr>
+<p>晚安。</p>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2020年11月26日</title>
+    <url>/2020/11/26/20201126/</url>
+    <content><![CDATA[<h2 id="流水账"><a href="#流水账" class="headerlink" title="流水账"></a>流水账</h2><ul>
+<li><p>iTunes美区黑色星期五还有一天。LumaFusion半年首次降价，20美元。</p>
+</li>
+<li><p>continue?9876543210的配乐可能会被我循环到天荒地老。这些配乐全部来源于www.audionetwork.com，区别于iTunes，他们一首曲子就是10美元，而且只能授权用于个人视频和非盈利视频，要是商用的话价格<strong>没有上限</strong>。新账号注册可以免费下10首192kbps的MP3，但这也比我从Unity里抓出来的强。</p>
+</li>
+<li><p>一位同学在微信朋友圈发了一张图，全是iTunes 50美金礼品卡，满100送20，然后这位同学把货架上的<strong>全 买 下 来</strong>了，羡慕到变形。(╯°□°）╯︵ ┻━┻</p>
+</li>
+<li><p>支付宝现在的用途：一张银行卡通过余额宝无手续费快速转账到另一张银行卡；淘宝用银行卡付款；商户扫码用银行卡付款；饿了么用银行卡付款；滴滴出行；健康码。余额，余额宝内的数值是0。学学爸妈买买银行的基金，或者买个国债？<del>反正也跑不赢通货膨胀。</del>现在手里的存款有6位数，什么时候7位数呢？可能要天荒地老了吧。</p>
+</li>
+<li><p>这几天下雨下的我心情不是太好，感冒也老是反复。</p>
+</li>
+</ul>
+<hr>
+<p>晚安。</p>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>iTunes</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2020年11月28日</title>
+    <url>/2020/11/28/20201128/</url>
+    <content><![CDATA[<h2 id="睡觉真香！"><a href="#睡觉真香！" class="headerlink" title="睡觉真香！"></a>睡觉真香！</h2><p>一路睡到今天晚上，感冒的后遗症：咳嗽要很久才能好。</p>
+<h2 id="硬盘分区重组"><a href="#硬盘分区重组" class="headerlink" title="硬盘分区重组"></a>硬盘分区重组</h2><p>昨天说要把RAID 0改成RAID 5，结果发现在Windows Server 2016上这么做过于愚蠢（读写的速度相当的差），所以现在决定把四个4T的SAS硬盘分成12T RAID 0和一个独立的4T，剩下的两个2T的SAS硬盘同步数据。考虑在2022年建立基于SATA的第二代NAS。</p>
+<hr>
+<p><del>（黑色星期五真的什么实体物品都没有买，和双十一一样坑</del></p>
+<p>晚安。</p>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2020年11月27日</title>
+    <url>/2020/11/27/20201127/</url>
+    <content><![CDATA[<h2 id="黑色星期五？"><a href="#黑色星期五？" class="headerlink" title="黑色星期五？"></a>黑色星期五？</h2><p>PocketCAS降价到5美元，第二好的iOS CAS。</p>
+<p>有人会问<del>并没有</del>，第一好的iOS CAS是？</p>
+<p>有两个，并列第一：一个是合法上架的App，仅限iPad，叫TI-Nspire CAS。</p>
+<p><strong>这个App居然在3月和5月限免了两次！！！！！我居然不知道！！！！！</strong></p>
+<p>另一个是一个<strong>模拟器</strong>，需要自签名后安装，可以直接模拟TI-Nspire CAS的固件，名字叫Firebird Emu。</p>
+<p>万万没想到Hybrid Theory (20th Anniversary Edition)居然降价了！50-&gt;45，<del>四舍五入等于没降价</del></p>
+<h2 id="下了4天的雨终于停了。"><a href="#下了4天的雨终于停了。" class="headerlink" title="下了4天的雨终于停了。"></a>下了4天的雨终于停了。</h2><p>今天下班的心情都好了起来。*</p>
+<h2 id="周末准备做什么？"><a href="#周末准备做什么？" class="headerlink" title="周末准备做什么？"></a>周末准备做什么？</h2><ul>
+<li><p>把服务器的硬盘数据备份以后，将RAID 0（不得不说RAID 0用起来真的快，万兆网速可以跑满）改成RAID 5。</p>
+</li>
+<li><p>写写脚本和代码。</p>
+</li>
+<li><p>正在做一个秘密项目。</p>
+</li>
+</ul>
+<hr>
+<p>晚安。</p>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>iTunes</tag>
+        <tag>Hardware</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2020年11月30日</title>
+    <url>/2020/11/30/20201130/</url>
+    <content><![CDATA[<h2 id="Night-Mode"><a href="#Night-Mode" class="headerlink" title="Night Mode"></a>Night Mode</h2><p>既然要在Hexo上实现黑夜模式，那么首先需要一个css样式对应。</p>
+<p>正在研究hexo-front-matter，它是我许多功能实现的关键。</p>
+<hr>
+<p>晚安。</p>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>hexo-build</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2020年11月29日</title>
+    <url>/2020/11/29/20201129/</url>
+    <content><![CDATA[<h2 id="最近正在云游戏的路上越走越远"><a href="#最近正在云游戏的路上越走越远" class="headerlink" title="最近正在云游戏的路上越走越远"></a>最近正在云游戏的路上越走越远</h2><p>具体到正在云的游戏么，PS2的SIREN《死魂曲》。看到这个游戏最早是在网上看到了这个游戏的电视广告，日本的恐怖游戏广告居然能在电视上播放出来也是个奇迹。（然后就因为举报被封杀了哈哈哈哈😂）</p>
+<p>从这个游戏学到了，女人会玩枪，男人死光光。<del>（这句话真的没有别的意思，真的……）</del></p>
+<h2 id="这周准备添加的网站功能"><a href="#这周准备添加的网站功能" class="headerlink" title="这周准备添加的网站功能"></a>这周准备添加的网站功能</h2><ul>
+<li><code>Night Mode</code></li>
+<li><code>RSS源订阅</code></li>
+<li><code>评论模块？（我觉得如果不要Github的话那就要自己码一个了）</code></li>
+<li><code>修复一些符号转义的问题，比如两个减号会被合并的问题(--)</code></li>
+</ul>
+<hr>
+<p>晚安。</p>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>hexo-build</tag>
+        <tag>Gaming</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2020年12月01日</title>
+    <url>/2020/12/01/20201201/</url>
+    <content><![CDATA[<h2 id="算是接到第二个公司项目"><a href="#算是接到第二个公司项目" class="headerlink" title="算是接到第二个公司项目"></a>算是接到第二个公司项目</h2><p>不知道是开心还是紧张，上次正经写代码还是我毕业设计的时候。需要接触SharePoint的编程了（虽然好像就是ASP .NET）。</p>
+<p>好了，这下Python, C#凑齐了。</p>
+<h2 id="还在研究hexo局部变量的注入问题"><a href="#还在研究hexo局部变量的注入问题" class="headerlink" title="还在研究hexo局部变量的注入问题"></a>还在研究hexo局部变量的注入问题</h2><p>希望能设置一个front-matter开关，控制mathjax代码的注入。</p>
+<p>其实这个如果能够解决，夜间模式可以马上获得解决。</p>
+<p>继续研究hexo的结构了，不再详细写什么了。</p>
+<p>(22:51 更新) </p>
+<p>现在mathjax在front-matter的开关已经可以用了，但是动了theme里面的layout.ejs。最早考虑的是不动theme里的ejs。通过改动hexo-renderer-mathjax内的index.js读每篇md的front-matter，但是查看了hexo对于全局变量和局部变量的内容和API，最后卡在了hexo.locals.pages。（谁能告诉我如何对hexo g进行调试？）</p>
+<p>如果通过动theme来实现的话，昨天我也没必要这么晚睡了<del>（我要上早班的啊啊啊</del>，因为这个的实现方法相当简单，我甚至都不想写这个实现方法的操作步骤。<a href="https://ethanblog.com/tech/details-for-front-matters-of-hexo.html">传送门</a></p>
+<p>(23:49 再次更新)</p>
+<p>夜间模式已经完成适配。这个可以写一下操作过程（其实就是HTML5的css支持加入）</p>
+<figure class="highlight css"><table><tr><td class="code"><pre><span class="line"><span class="keyword">@media</span> (<span class="attribute">prefers-color-scheme:</span> dark) &#123;</span><br><span class="line">  <span class="selector-tag">body</span> &#123;</span><br><span class="line">    <span class="attribute">background</span>: <span class="number">#222</span>;</span><br><span class="line">    <span class="attribute">color</span>: <span class="number">#eee</span>;</span><br><span class="line">  &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<h2 id="美剧24小时iTunes美服降价了"><a href="#美剧24小时iTunes美服降价了" class="headerlink" title="美剧24小时iTunes美服降价了"></a>美剧24小时iTunes美服降价了</h2><p>但是这个价格完全不想买，再等等吧。 ;P</p>
+<hr>
+<p>晚安。</p>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>hexo-build</tag>
+        <tag>Happy Work</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2020年12月02日</title>
+    <url>/2020/12/02/20201202/</url>
+    <content><![CDATA[<h1 id="RSS"><a href="#RSS" class="headerlink" title="RSS"></a>RSS</h1><p>Console到自己的博客空间目录下：<br><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">npm install hexo-generator-feed --save</span><br></pre></td></tr></table></figure><br>然后_config.yml中加入<br><figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="attr">feed:</span></span><br><span class="line">  <span class="attr">type:</span> <span class="string">atom</span></span><br><span class="line">  <span class="attr">path:</span> <span class="string">atom.xml</span></span><br><span class="line">  <span class="attr">limit:</span> <span class="literal">false</span></span><br></pre></td></tr></table></figure></p>
+<h1 id="夜间模式还在改进"><a href="#夜间模式还在改进" class="headerlink" title="夜间模式还在改进"></a>夜间模式还在改进</h1><p>已完成对苹果系夜间模式和Windows暗色主题时的浏览器适配。</p>
+<p>最终的目标是front-matter需要设置nightmode开启时强制开启。（我倒是不准备做一个开关灯的开关，没有必要。）</p>
+<h1 id="自己码一个Search-View？"><a href="#自己码一个Search-View？" class="headerlink" title="自己码一个Search View？"></a>自己码一个Search View？</h1><p>有现成的hexo-generator-searchdb，码一个应该不难吧<del>（怎么感觉我变成了甲方？？？</del></p>
+<p><strong>(这个功能于12月2日23:55成功从hexo-theme-next移植出，但是有些小问题，需要明天再排查一下。)</strong></p>
+<hr>
+<p>晚安。</p>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>hexo-build</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2020年12月03日</title>
+    <url>/2020/12/03/20201203/</url>
+    <content><![CDATA[<h2 id="来复盘一下本周目标？"><a href="#来复盘一下本周目标？" class="headerlink" title="来复盘一下本周目标？"></a>来复盘一下本周目标？</h2><ul>
+<li>Night Mode（完成了80%）</li>
+<li>RSS源订阅（已经完成）</li>
+<li>评论模块？（我觉得如果不要Github的话那就要自己码一个了）（正在学习）</li>
+<li>修复一些符号转义的问题，比如两个减号会被合并的问题(—)（好像自己解决了）</li>
+<li>Extra <strong><code>站内搜索功能</code></strong> <strong>（成功从hexo-theme-next中移植并且适配了Night Mode!🎉当然移动端css样式还要修一修。）</strong></li>
+</ul>
+<h2 id="入手Reeder-5-for-macOS"><a href="#入手Reeder-5-for-macOS" class="headerlink" title="入手Reeder 5 for macOS"></a>入手Reeder 5 for macOS</h2><p>简约，苹果系最优质RSS阅读器。macOS上10美元，iOS上5美元，不算贵。<br>现在这个网站也是有RSS订阅的，直接订阅 <a href="https://www.vmarkii.com">https://www.vmarkii.com</a> 这个地址就可以了。<br>如果速度不太行请使用国内节点 <a href="https://vmarkii.com:444">https://vmarkii.com:444</a> 就这个。</p>
+<h2 id="还在琢磨评论模块"><a href="#还在琢磨评论模块" class="headerlink" title="还在琢磨评论模块"></a>还在琢磨评论模块</h2><p>网上的确有现成的，那么有没有无cookie的评论模块呢？好像除了自己做的基本没有。而且如果自己做的话，后端数据库只能连到我的服务器上了。（从来没有买过云服务，也不是很愿意用）</p>
+<h2 id="怪物猎人世界：冰原和电影《怪物猎人》联动"><a href="#怪物猎人世界：冰原和电影《怪物猎人》联动" class="headerlink" title="怪物猎人世界：冰原和电影《怪物猎人》联动"></a>怪物猎人世界：冰原和电影《怪物猎人》联动</h2><p><del>我联动我自己</del> <del>听说是一部视觉爽片，那和生化危机系列一样了，谁看第二遍谁<strong>傻逼</strong>。</del></p>
+<p>这个活动到2021年11月结束，那也就是人手一个防音珠II了。打了1400小时，珠子也的确不缺这一个防音珠II，继续A了。</p>
+<h2 id="知乎💊"><a href="#知乎💊" class="headerlink" title="知乎💊"></a>知乎💊</h2><p>好了这下网页端强制登录，不能在知乎<del>摸鱼</del>了，v2ex和NGA尚且可以一摸。</p>
+<hr>
+<p>晚安。</p>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>hexo-build</tag>
+        <tag>iTunes</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2020年12月04日</title>
+    <url>/2020/12/04/20201204/</url>
+    <content><![CDATA[<h2 id="一次反编译和注入进程调试经历带来的问题和思考"><a href="#一次反编译和注入进程调试经历带来的问题和思考" class="headerlink" title="一次反编译和注入进程调试经历带来的问题和思考"></a>一次反编译和注入进程调试经历带来的问题和思考</h2><h3 id="前情提要"><a href="#前情提要" class="headerlink" title="前情提要"></a>前情提要</h3><p>接手了一个来自公司外部的support case。我们的公司也卖软件，然后这个公司外部的case就是我们自家的软件在外部用户的机器上的某个功能报错。由于报错的信息提供的非常有限，软件支持部门向我们IT部门求救希望我们能帮忙看一下。简单开个会和软件支持人员通个气，并且让支持人员创建一个给我们试用的软件License让我们先试试看。<br>对，没错。一听说这个程序的框架是C#的，一个曾经的程序员<del>（我</del>明锐的直觉告诉我，当一个基于C#编写的程序不仅没有参数可以打开log排错并且软件功能报错没throw Exception的时候，你就要使用非正常的手段去查问题了，也就是标题中说到的<strong>反编译(Decompile)</strong>和<strong>注入进程调试(Debug via process injection)</strong>。<br>结果，一个在软件支持部门很长时间没有解决的这个case，我通过上述的两种手段只花了两个小时就解决了。<br>当然，需要指出的是，软件功能的报错信息和软件出现错误的问题根源<u><strong>完全没有关系</strong></u>。<br><u><strong>当一个软件功能的报错信息和问题根源没有关系的时候，你对这个问题的思考将会“从一开始就是错的”。</strong></u><br>在向上级回报这个事件的情况的时候，上级了解到我使用的方法暴露了程序内部的结构，提出了一些担忧。<br>这些担忧，在我写代码的时候<del>（这已经是很久远的事情了）</del>就已经出现过。</p>
+<h3 id="其实最简单的担忧：对有专利，需要授权的软件和软件的任一部分进行逆向工程（包括但不限于反编译，调试，篡改功能）是否合规？"><a href="#其实最简单的担忧：对有专利，需要授权的软件和软件的任一部分进行逆向工程（包括但不限于反编译，调试，篡改功能）是否合规？" class="headerlink" title="其实最简单的担忧：对有专利，需要授权的软件和软件的任一部分进行逆向工程（包括但不限于反编译，调试，篡改功能）是否合规？"></a>其实最简单的担忧：对有专利，需要授权的软件和软件的任一部分进行逆向工程（包括但不限于反编译，调试，篡改功能）是否合规？</h3><p><strong>这是一个灰色地带。</strong></p>
+<p>中国刑法规定的关于计算机犯罪的具体罪名中，上述操作可以触发刑法第285条，非法侵入计算机信息系统罪的第二款：</p>
+<blockquote>
+<p>违反国家规定，侵入除国家事务、国防建设、尖端科学技术领域以外的计算机信息系统或者采用其他技术手段，获取该计算机信息系统中存储、处理或者传输的数据，或者对该计算机信息系统实施非法控制，情节严重的，处三年以下有期徒刑或者拘役，并处或者单处罚金；情节特别严重的，处三年以上七年以下有期徒刑，并处罚金。</p>
+</blockquote>
+<p>案件判例：<a href="https://www.chinacourt.org/article/detail/2017/08/id/2948381.shtml">传送门</a></p>
+<blockquote>
+<p>根据我国《计算机软件保护条例》和美国的《美国版权局版权法关于计算机程序登记的实际规范》都明确规定计算机程序包括目标代码和源代码两种表达形式，将源程序编译或者汇编成目标程序，源代码和目标代码一一对应的关系；将目标代码反编译或者反汇编成源程序，无论进行多少次结果都是一样的，虽然反编译或者反汇编形成的源代码和真正的原始源代码还是有很大区别的，但是目标代码和结果源代码也是一一对应的关系。在著作权法上，只有复制行为才可以实现一对一的关系，目标代码反编译或者反汇编成源程序是一种复制行为，那么未经他人允许对他人合法软件进行反向工程研究构成对复制权的侵权行为。</p>
+</blockquote>
+<p>节选自<a href="https://zhuanlan.zhihu.com/p/105079459">知乎</a></p>
+<h3 id="思考🤔"><a href="#思考🤔" class="headerlink" title="思考🤔"></a>思考🤔</h3><p>对于这次的case，之前的担忧变成：</p>
+<p><strong>当公司内部员工为了解决自己所在公司软件的技术问题对软件和软件的任一部分进行逆向工程（包括但不限于反编译，调试，篡改功能）是否合规？</strong></p>
+<p>因为我的逆向工程是通过远程完成的，<u><strong>外部客户是可以看到我进行逆向操作的过程的</strong></u>。所以这个操作<strong>并不合规</strong>。</p>
+<p>但是先前提到了，软件功能的报错信息和软件出现错误的问题根源<u><strong>完全没有关系</strong></u>。也就是说，作为技术支持，如果你不在外部客户的机器上进行调试查出问题根源，这个问题能被解决的概率<strong>无限接近于0</strong>，也就是完全碰运气了。</p>
+<p>这个锅需要程序员背么？要的。尤其是我遇到的这个案例，只有这个问题根源的Exception没有被软件的错误收集（Error Reporting）模块记录，其他的Exception都能够在这个软件的错误收集模块显示。<strong>既然这个软件有错误收集模块，为什么会有错误不被这个模块收集并报出一条和这个错误完全没关系的错误信息？</strong></p>
+<p>其实定罪定罚的标准很简单，<strong><em>你的动机(Motivation)</em></strong>。</p>
+<p>我的上级有担心用户看到这个修复操作，以后把License模块给逆向工程了，我恰恰不担心这一点。原因很简单，要是出现这个情况被发现，这个问题不需要我们的软件支持部门出手，<strong>而是我们的Legal部门出手。</strong>这种以损害软件出售方利益的逆向工程，<strong>动机不纯</strong>。</p>
+<p>我为了解决用户的软件使用问题对这个软件的出现错误的模块给逆向工程了，并且最后提出解决方案解决了问题，保证软件服务质量和SLA，保护了软件出售方和使用方利益的逆向工程，这就非常的安全。</p>
+<h3 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h3><p>你管这个叫日记？😂</p>
+<p>我也没啥好记的了。</p>
+<hr>
+<p>晚安。</p>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>Think</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2020年12月05日</title>
+    <url>/2020/12/05/20201205/</url>
+    <content><![CDATA[<h2 id="流水账？"><a href="#流水账？" class="headerlink" title="流水账？"></a>流水账？</h2><p>时隔3个月，重新打开Monster Hunter: World，果然是完全不会玩了，打个历战激昂金狮子也打不过去了，黑龙更不用说了。只能虐虐历战活动古龙（5分钟散弹突突突能解决的有手就行）了。</p>
+<p>和爸妈晚上出去下馆子<del>（又想起了自己出去吃只知道棒约翰和汉堡王的恐惧，你说你这样子怎么找女朋友</del>，一个小餐馆，羊蝎子火锅，主要是我去吃羊蝎子，结果这火锅汤的味道的确可以，又加了一碗饭吃饱。</p>
+<h2 id="听说怪物猎人电影国内院线下架了？"><a href="#听说怪物猎人电影国内院线下架了？" class="headerlink" title="听说怪物猎人电影国内院线下架了？"></a>听说怪物猎人电影国内院线下架了？</h2><p>你看，我之前就说这种动作爽片谁看第二遍谁傻逼吧，结果还没看第一遍呢就出了岔子，而且电影里这个梗一乳乳了俩国家可还行。你个动作爽片本来台词就不多，好了，还在台词上闹，这不是在开中国人玩笑么？</p>
+<h2 id="信条TENET上线Bilibili。"><a href="#信条TENET上线Bilibili。" class="headerlink" title="信条TENET上线Bilibili。"></a>信条TENET上线Bilibili。</h2><p>也就在同一时间，rarbg出了1080P IMAX资源，40.7GB。看上去这个还不是Bilibili转过去的资源，iTunes出片也要到12月15日，来源未知。</p>
+<h2 id="发现结尾老是写个晚安不太合理。"><a href="#发现结尾老是写个晚安不太合理。" class="headerlink" title="发现结尾老是写个晚安不太合理。"></a>发现结尾老是写个晚安不太合理。</h2><p>因为观看者看这篇文章的时间还不一定是晚安，可能是早安或者午安。那就先暂定写个EOF吧。</p>
+<h2 id="RSS还需要学习。"><a href="#RSS还需要学习。" class="headerlink" title="RSS还需要学习。"></a>RSS还需要学习。</h2><p>RSS好像在Reeder 5上不支持文章划掉的功能（可能RSS压根就不支持这样的版式）。</p>
+<p><del>（比如这段在网页版面上是划掉状，但是RSS上就是这段文字正常显示）</del></p>
+<p>准备等一会儿去翻翻RSS的操作方法，改进RSS生成方式或者改用支持RSS的样式。</p>
+<hr>
+<p>EOF.</p>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>Culture</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2020年12月06日</title>
+    <url>/2020/12/06/20201206/</url>
+    <content><![CDATA[<h2 id="RSS问题更新"><a href="#RSS问题更新" class="headerlink" title="RSS问题更新"></a>RSS问题更新</h2><p>看上去真的只是RSS阅读软件的问题，在手机上下了个别的RSS App，划线的样式正常显示了。</p>
+<h2 id="睡觉还是舒服的呀"><a href="#睡觉还是舒服的呀" class="headerlink" title="睡觉还是舒服的呀"></a>睡觉还是舒服的呀</h2><p>今天又睡了一天，真就靠周末躺尸恢复健康呗…</p>
+<hr>
+<p>EOF.</p>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>Sleeping</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2020年12月07日</title>
+    <url>/2020/12/07/20201207/</url>
+    <content><![CDATA[<h2 id="又是不知道写什么的一天呢。"><a href="#又是不知道写什么的一天呢。" class="headerlink" title="又是不知道写什么的一天呢。"></a>又是不知道写什么的一天呢。</h2><p>明天上班结束休息5天。（真的不知道怎么放假…）</p>
+<p>用这5天完成不让自己后悔的事？试试看吧。（不让自己的Adobe Master Collection CS6白买的时刻到了。）</p>
+<p>最近又开始玩起了数独，玩的不是很好，15到20分钟才能玩通一局困难模式的数独。</p>
+<p>神盾局特工全集最近又在iTunes美服降价了，50美元，你买不了吃亏。<del>（不买力省100%</del></p>
+<p>让花火重新点亮吧！（不是中二，是约定，但是不知是不是太晚了。）</p>
+<p>How Hard Can It Be?</p>
+<hr>
+<p><strong>年终最后企划即将开启。（不对，是即将结束。）</strong></p>
+<p>EOF.</p>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2020年12月08日</title>
+    <url>/2020/12/08/20201208/</url>
+    <content><![CDATA[<h2 id="MARVEL和DC的电视剧和电视动画在iTunes美区降价"><a href="#MARVEL和DC的电视剧和电视动画在iTunes美区降价" class="headerlink" title="MARVEL和DC的电视剧和电视动画在iTunes美区降价"></a>MARVEL和DC的电视剧和电视动画在iTunes美区降价</h2><p>Gotham（哥谭市）第一季到第五季第一次最低价30美元。 <strong>（已购买）</strong></p>
+<p>Titans（泰坦）第一季到第二季第一次最低价19美元。 <strong>（第三季2021年秋季继续，所以暂时观望）</strong></p>
+<p>Agents of S.H.I.E.L.D.（神盾局特工）全集第二次最低价50美元。 <strong>（第一次降价时购买）</strong></p>
+<p>DC系Krypton, Powerless, Batman, Shazam, Batwoman, Doom Patrol, Pennyworth, Stargirl 美剧一季的价格均将至5美元或10美元的最低价。</p>
+<p>MARVEL系Legion, Luke Cage, Runaways, Jessica Jones也降价了，但是基本不可能买，因为除了神盾局特工全集的价格比较合理，其他的价格还只能观望。</p>
+<h2 id="接下来是5天的长假，耐久直播？"><a href="#接下来是5天的长假，耐久直播？" class="headerlink" title="接下来是5天的长假，耐久直播？"></a>接下来是5天的长假，耐久直播？</h2><p>每天12小时做片子外加音乐连播，等于在上班了。</p>
+<p><a href="https://www.douyu.com/vmarkii">https://www.douyu.com/vmarkii</a></p>
+<hr>
+<p><u><strong><em>See you on the other side.</em></strong></u></p>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>iTunes</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2020年12月09日-2020年12月13日</title>
+    <url>/2020/12/09/20201209-13/</url>
+    <content><![CDATA[<div style="text-align:center">
+<a href="https://www.douyu.com/vmarkii">https://www.douyu.com/vmarkii</a>
+</div>
+
+<p><script type="text/javascript">function countTime() {var date = new Date(); var now = date.getTime();var str="2020/12/14 00:00:00";var endDate = new Date(str);var end = endDate.getTime();var leftTime = end-now;var h,m,s;if (leftTime>=0) {h = Math.floor(leftTime/1000/60/60);m = Math.floor(leftTime/1000/60%60);s = Math.floor(leftTime/1000%60);document.getElementById("_h").innerHTML = h+" Hour";document.getElementById("_m").innerHTML = m+" Minute";if (m < 10) document.getElementById("_m").innerHTML = "0" + document.getElementById("_m").innerHTML;document.getElementById("_s").innerHTML = s+" Second";if (s < 10) document.getElementById("_s").innerHTML = "0" + document.getElementById("_s").innerHTML;if (h != 1) document.getElementById("_h").innerHTML += "s"; if (m != 1) document.getElementById("_m").innerHTML += "s"; if (s != 1) document.getElementById("_s").innerHTML += "s"; setTimeout(countTime,1000);}}</script></p>
+<body onload="countTime()" >
+    <div style="text-align:center">
+        <span id="_h">0 Hours</span>
+        <span id="_m">00 Minutes</span>
+        <span id="_s">00 Seconds</span>
+    </div>
+</body>
+
+<hr>
+<p>以下内容写于2020年12月14日，<strong><em>120小时耐久直播事件</em></strong>之后的20小时。</p>
+<p>这120小时，应该是我很久以来，确切来说应该是我从阴影中恢复以后，最忙碌的120小时。</p>
+<p>我完成了一个2014年的约定，虽然迟到了6年。</p>
+<p>如果说今年我干了什么有意义的事情，那么，2020年，这120小时一定是Number 1。</p>
+<p>在这120小时，我将一个PV(Promotion Video)计划，推进到完成。</p>
+<h2 id="Project-夏恋花火"><a href="#Project-夏恋花火" class="headerlink" title="Project 夏恋花火"></a><strong>Project 夏恋花火</strong></h2><p>一个来自2014年的约定。</p>
+<p>我用我这120小时的连续直播（因为网络问题中断了3个小时）证明，</p>
+<p><strong>如果你相信，<u>并且坚信</u>你要做的事情能够做成，那么这件事情将很有可能会完成，而且会一定会以超乎想象的结果完成。</strong></p>
+<p><strong>但是，</strong></p>
+<p><strong>如果你有一点怀疑，<u>甚至是一丝忧虑</u>，那么这件事情就一定不可能完成，至少<u>你不能坚持到最后一刻</u>。</strong></p>
+<p>中间有4年我几乎没有碰过这个项目，倒不是因为这个计划是用爱发电的，就是因为内心对自己的不自信。<strong>我甚至因此就差点将这个工程尘封。</strong></p>
+<p>除了这一次。</p>
+<p><em>我成功了。 I finally made it.</em></p>
+<p>在120小时的最后3小时，这个项目的时间轴真的到达了最后一句歌词：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">ずっと、輝き続ける光</span><br><span class="line">永远地、持续闪耀着光辉</span><br><span class="line"></span><br><span class="line">ふたりだけの花火</span><br><span class="line">只属于我们两人的烟火</span><br></pre></td></tr></table></figure>
+<p>事实证明，原来我可以抠图，修图，写脚本，运镜，后期一起来，原来我真的可以一个人干五个人的活。</p>
+<p><del>按照现在的话，那就是一条龙服务。（听着好像怪怪的</del></p>
+<p>还是这句话：</p>
+<p><strong>如果你相信，<u>并且坚信</u>你要做的事情能够做成，那么这件事情将很有可能会完成，而且会一定会以超乎想象的结果完成。</strong></p>
+<p><strong>但是，</strong></p>
+<p><strong>如果你有一点怀疑，<u>甚至是一丝忧虑</u>，那么这件事情就一定不可能完成，至少<u>你不能坚持到最后一刻</u>。</strong></p>
+<hr>
+<p><strong><em>I am on the other side, I have never been so happy and satisifed before.</em></strong></p>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>Challenge</tag>
+        <tag>Milestone</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2020年12月14日</title>
+    <url>/2020/12/14/20201214/</url>
+    <content><![CDATA[<h2 id="降温"><a href="#降温" class="headerlink" title="降温"></a>降温</h2><p>由于气温突然下降，为了保持体感舒适，带上了SONY WH-1000XM3头戴式耳机来保暖。<del>（至少耳朵不冷了）</del></p>
+<h2 id="突然就轻松了"><a href="#突然就轻松了" class="headerlink" title="突然就轻松了"></a>突然就轻松了</h2><p>由于这120小时的假休的比上班还忙，结果到了公司，反而算是休息了。<del>（不是 做摆手状</del></p>
+<h2 id="听说进击的巨人第四季口碑很好"><a href="#听说进击的巨人第四季口碑很好" class="headerlink" title="听说进击的巨人第四季口碑很好"></a>听说进击的巨人第四季口碑很好</h2><p>略。</p>
+<h2 id="Cyberpunk-2077（赛博朋克2077）"><a href="#Cyberpunk-2077（赛博朋克2077）" class="headerlink" title="Cyberpunk 2077（赛博朋克2077）"></a>Cyberpunk 2077（赛博朋克2077）</h2><p>开玩笑，放假这五天都在忙着做视频，哪有时间碰这个把Steam主页给挤到502 Service Unavailable的游戏？</p>
+<h2 id="买买买"><a href="#买买买" class="headerlink" title="买买买"></a>买买买</h2><ul>
+<li><p>iPhone Xr 和 11的贴膜，两张外带贴膜器五块八包邮；</p>
+</li>
+<li><p>20节7号电池（听老爸说碳性电池远不如碱性电池，好像不该买的）二十八块九；</p>
+</li>
+<li><p>Apple Lightning和USB Type-C磁性接头充电线十九块五；</p>
+</li>
+<li><p>1升电脑透明水冷液七十四块。</p>
+</li>
+</ul>
+<h2 id="给PV计划补一下STAFF表和中间间奏片段"><a href="#给PV计划补一下STAFF表和中间间奏片段" class="headerlink" title="给PV计划补一下STAFF表和中间间奏片段"></a>给PV计划补一下STAFF表和中间间奏片段</h2><p>反正2020年12月24日结束并发布，120小时已经将这个项目无限推进到完成状态了。Happy.</p>
+<hr>
+<p>EOF.</p>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>Happy Work</tag>
+        <tag>Buying</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2020年12月15日</title>
+    <url>/2020/12/15/20201215/</url>
+    <content><![CDATA[<h2 id="公司部门聚餐"><a href="#公司部门聚餐" class="headerlink" title="公司部门聚餐"></a>公司部门聚餐</h2><p>吃了顿自助餐，现在已经无法思考了（吃的比较饱，还是吃海鲜吃饱的…）</p>
+<h2 id="Ford-V-Ferrari-第三次iTunes美区最低价"><a href="#Ford-V-Ferrari-第三次iTunes美区最低价" class="headerlink" title="Ford V Ferrari 第三次iTunes美区最低价"></a>Ford V Ferrari 第三次iTunes美区最低价</h2><p>这次入手了，8美元。</p>
+<p>要是降到5美元我也认了。</p>
+<hr>
+<p>EOF.</p>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>Happy Work</tag>
+        <tag>iTunes</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2020年12月16日</title>
+    <url>/2020/12/16/20201216/</url>
+    <content><![CDATA[<h2 id="买买买的东西全部到了"><a href="#买买买的东西全部到了" class="headerlink" title="买买买的东西全部到了"></a>买买买的东西全部到了</h2><ul>
+<li><p>帮妈妈的iPhone Xr和我的iPhone 11贴了个膜。</p>
+</li>
+<li><p>洗好的水冷系统重新注入新的冷却液，不出意外，漏液了。还好不多，重新把L形管装了一遍好了。</p>
+</li>
+<li><p>家里的6个空调的遥控器的七号电池可以全部换新了，今天第一天自己的房间开热空调，舒服。</p>
+</li>
+<li><p>那根磁吸线可以到达12W（我用iPhone 6 Plus当功率表测的，它最高支持12W）充电，18W应该没有问题。</p>
+</li>
+</ul>
+<h2 id="听说P站的Visa和MasterCard支付通道被关闭了"><a href="#听说P站的Visa和MasterCard支付通道被关闭了" class="headerlink" title="听说P站的Visa和MasterCard支付通道被关闭了"></a>听说P站的Visa和MasterCard支付通道被关闭了</h2><p>局内人说这件事情波及到了许多lsp网站，至少针对一些特定视频关键词在搜索上做出了屏蔽。</p>
+<p>然而我暂时没这方面需求。我连赛博朋克2077的夜之城都没有逛。（现实是自己还有许多事情要做，没空搞lsp的事情，<del>而且都这把年纪了，你就算冲了个P站Lifetime会员，免费的都能玩死你，你还收费？</del></p>
+<h2 id="笔记本型准系统水冷"><a href="#笔记本型准系统水冷" class="headerlink" title="笔记本型准系统水冷"></a>笔记本型准系统水冷</h2><p>实在看不下去自己水冷管里的水垢，把一体式水冷拆出来，用了白醋冲洗水循环，发现毛用都没有，后来拿了个镊子夹着擦眼镜的那种无纺布夹到水冷管里，虽然擦的不是很彻底，但是至少现在换上水冷液看上去不是怎么恶心了。而且从饮用水换成水冷液，温度的确又下去了几度，是有点效果的。</p>
+<h2 id="顺便再聊聊我现在的主力准系统"><a href="#顺便再聊聊我现在的主力准系统" class="headerlink" title="顺便再聊聊我现在的主力准系统"></a>顺便再聊聊我现在的主力准系统</h2><p>我的准系统是老模具了，Clevo P750TM1-G，Z370平台。没有用到dsanke的固件，自己解锁了一些有用的BIOS设置刷到电脑里，然后为了Adobe CS6的套件在这台原本不支持Windows 7的电脑上安装了Windows 7，除了无线网卡没有Windows 7的驱动，其他都可以自己找到Workaround解决。当然你要是要玩游戏，那肯定需要一个Windows 10，我也装了，双系统。</p>
+<p>CPU: i7 9700KF -80mv 130W 全核上5.0G，FPU和Prime95好像都是4.5，可能是功耗限制的问题；</p>
+<p>内存: Kingston HyperX KHX2666C15S4/8G * 4，一共32GB；</p>
+<p>硬盘和软件：一块从大二用到现在的Micron M600 256G SATA用来装Windows 7专业版，Office PIPC 2013（日本激活Office套件），Project 2016（不是很会用这个东西，考虑之后转化为生产力），Visio 2016 Professional（一次性买断，我买过第二贵的软件），还有Adobe Creative Suite 6 Master Collection（正版Adobe全家桶，最后一个买断制，不用Subscription的版本，我买过最贵的软件）。<br>一块从DELL XPS 13里拆下来的Samsung PM981a 512G NVMe，一半用来装Windows 10家庭版，只装了Chrome和Steam，一半用作Adobe软件的缓存。<br>可见分区也就是3个256GB的分区。</p>
+<h2 id="为什么我在Windows-10-2004下保留Windows-7且依旧作为主系统使用？"><a href="#为什么我在Windows-10-2004下保留Windows-7且依旧作为主系统使用？" class="headerlink" title="为什么我在Windows 10 2004下保留Windows 7且依旧作为主系统使用？"></a>为什么我在Windows 10 2004下保留Windows 7且依旧作为主系统使用？</h2><p>Windows 7为什么还是被需要的？特定场合下，如果需要交付一个Adobe After Effects视频工程，如果你生成的是CS6的工程文件，你至少可以让After Effects CC 2020打开时转换。如果你用CC 2020生成工程文件，要是别人用CC 2018（不要指望别人也是订阅制使用，也就是正版使用。公司内必须是正版软件不用质疑，很大一部分小的工作室或者个人使用的CC都是破解版这个肯定也是不用质疑的。）打开你的出现问题，那就有点麻烦了。最重要的一点，订阅制对于我来说，真的还暂时负担不起，我利用这些工具的产出是远远低于投入的资金的，Office 365家庭版的订阅制用的时间比Adobe Creative Cloud的时间要长得多，而且价格在1000以内（毕竟国内使用Office 365的人口基数放在那里），所以我就一次性买断了CS6的全家桶，永久使用，一个24位的序列号价格直接到了5位数。但是不亏。还有很多很晦涩的问题，比如Windows 7的字库能够匹配Adobe CS6，Windows 10的不太行；又比如全核5.0G的优势在使用CS6的时候，只有Windows 7能正常发挥<del>（其实都是不想下载盗版CC 2020软件的锅）</del></p>
+<hr>
+<p>EOF.</p>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>Culture</tag>
+        <tag>Software</tag>
+        <tag>Hardware</tag>
+        <tag>Buying</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2020年12月17日</title>
+    <url>/2020/12/17/20201217/</url>
+    <content><![CDATA[<h2 id="平凡的一天"><a href="#平凡的一天" class="headerlink" title="平凡的一天"></a>平凡的一天</h2><p>临近国外圣诞节，活越来越少，天天有充裕的时间学明年要开始做的东西。<del>外加摸鱼（不是</del></p>
+<h2 id="下周五"><a href="#下周五" class="headerlink" title="下周五"></a>下周五</h2><p>圣诞节+工资，这次的工资不太一样，会把过去半年削减的工资全部补齐，所以相当于没有损失。</p>
+<hr>
+<p>EOF.</p>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>Happy Work</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2020年12月18日</title>
+    <url>/2020/12/18/20201218/</url>
+    <content><![CDATA[<h2 id="北京东路的日子"><a href="#北京东路的日子" class="headerlink" title="北京东路的日子"></a>北京东路的日子</h2><p>这首歌居然在昨天出了十周年荣耀版。（对，就是和华为分开的那个荣耀）这些同学成为了最优秀的人才，不出所料。</p>
+<h2 id="iTunes美区降价情况"><a href="#iTunes美区降价情况" class="headerlink" title="iTunes美区降价情况"></a>iTunes美区降价情况</h2><p>今天the Beatles所有专辑都降价了，前天是Eminem，大前天是Taylor Swift，全部的专辑都降价看上去像是圣诞前促销的节奏。</p>
+<p>等一下，我刚刚刷新了一下……</p>
+<p>ER: The Complete Series 180美元降到50美元；</p>
+<p>Major Crimes: The Complete Series 80美元降到30美元（最低到过25美元）；</p>
+<p>Prison Break, The Complete Series 60美元降到30美元（最低到过25美元）；</p>
+<p>Batman Beyond: The Complete Series 50美元降到20美元；</p>
+<p>Elementary: The Complete Series 75美元降到37美元；</p>
+<p>Downton Abbey: The Complete Series 60美元降到30美元；</p>
+<p>Sherlock, Series 1-4 &amp; The Abominable Bride 60美元降到25美元；</p>
+<p>Hannibal, The Complete Collection 25美元降到13美元；</p>
+<p>Marvel Wolverine/X-Men/Iron Man/Blade Anime Series, Season 1 均从20美元降到5美元；</p>
+<p>……</p>
+<p>这还只是电视剧！！！！！！</p>
+<p>卧槽！Rick and Morty, Seasons 1-4 75美元降到50美元！！！但是好像一季一季买更加划算一点……冷静一下，你还要买the Beatles专辑呢……</p>
+<p>这就是圣诞节的力量么……买了！！！</p>
+<p>购入清单：</p>
+<p>ER: The Complete Series<br>Elementary: The Complete Series<br>Downton Abbey: The Complete Series<br>Sherlock, Series 1-4 &amp; The Abominable Bride<br>Rick and Morty, Seasons 1 10美元<br>Rick and Morty, Seasons 4 15美元<br>The Beatles - Revolver<br>The Beatles - 1 (2015 Version)<br>The Beatles - Abbey Road (2019 Mix)<br>The Beatles - The Beatles (The White Album)<br>The Beatles - Sgt. Pepper’s Lonely Hearts Club</p>
+<p>在我写这个清单的时候，降价的信息又更新了，更多的价格降到了历史最低价。<a href="https://www.cheapcharts.info">https://www.cheapcharts.info</a> </p>
+<hr>
+<p>EOF.</p>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>Culture</tag>
+        <tag>iTunes</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2020年12月19日</title>
+    <url>/2020/12/19/20201219/</url>
+    <content><![CDATA[<h2 id="周末就是用来睡觉的"><a href="#周末就是用来睡觉的" class="headerlink" title="周末就是用来睡觉的"></a>周末就是用来睡觉的</h2><p>略。</p>
+<h2 id="Project-夏恋花火收尾"><a href="#Project-夏恋花火收尾" class="headerlink" title="Project 夏恋花火收尾"></a>Project 夏恋花火收尾</h2><p>把中间间奏和最后的STAFF表做完应该没问题吧。</p>
+<h2 id="穷到吃土"><a href="#穷到吃土" class="headerlink" title="穷到吃土"></a>穷到吃土</h2><p>昨天买了220美元的iTunes资源，也就是说，直到下周五我都要吃土了呜呜呜呜<strong>（一拳打死一个____怪）</strong></p>
+<hr>
+<p>EOF.</p>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>Sleeping</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2020年12月20日</title>
+    <url>/2020/12/20/20201220/</url>
+    <content><![CDATA[<h2 id="总算是出了一次门"><a href="#总算是出了一次门" class="headerlink" title="总算是出了一次门"></a>总算是出了一次门</h2><p>周末和放假都没有出门过，今天放着视频渲染就出去了。</p>
+<h2 id="视频渲染不能出门"><a href="#视频渲染不能出门" class="headerlink" title="视频渲染不能出门"></a>视频渲染不能出门</h2><p>接上面一段，回来看导出视频，发现缺了音频……</p>
+<p>不说了，在第二次渲染一个半小时以后，突然发现它自己中断了，报了个没见过的错，停在了一个视频资源调用上了，等一会儿用ffmpeg拼一下视频看看。</p>
+<h2 id="未来网站改进计划"><a href="#未来网站改进计划" class="headerlink" title="未来网站改进计划"></a>未来网站改进计划</h2><ul>
+<li>搜索结果从最新到最旧（现在是最旧到最新）</li>
+<li>评论功能，而且是自己做的评论功能。</li>
+</ul>
+<p>这两个能做出来就很有意思了。</p>
+<hr>
+<p>EOF.</p>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>hexo-build</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2020年12月21日</title>
+    <url>/2020/12/21/20201221/</url>
+    <content><![CDATA[<h2 id="准备在这一周再找两天时间放个假"><a href="#准备在这一周再找两天时间放个假" class="headerlink" title="准备在这一周再找两天时间放个假"></a>准备在这一周再找两天时间放个假</h2><p>略。</p>
+<h2 id="正在打磨视频"><a href="#正在打磨视频" class="headerlink" title="正在打磨视频"></a>正在打磨视频</h2><p>在我写这篇文章的时候，第三次全片渲染。</p>
+<h2 id="第一次自己出门去了趟银行柜台办理业务"><a href="#第一次自己出门去了趟银行柜台办理业务" class="headerlink" title="第一次自己出门去了趟银行柜台办理业务"></a>第一次自己出门去了趟银行柜台办理业务</h2><p>把大学学费用的卡销户，然后领了预定的纪念币。</p>
+<h2 id="准备写一篇学习笔记，关于Windows-7驱动RTX-2070的"><a href="#准备写一篇学习笔记，关于Windows-7驱动RTX-2070的" class="headerlink" title="准备写一篇学习笔记，关于Windows 7驱动RTX 2070的"></a>准备写一篇学习笔记，关于Windows 7驱动RTX 2070的</h2><p>知识归档。</p>
+<hr>
+<p>EOF.</p>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2020年12月22日</title>
+    <url>/2020/12/22/20201222/</url>
+    <content><![CDATA[<h2 id="iTunes电影美区降价今日开始"><a href="#iTunes电影美区降价今日开始" class="headerlink" title="iTunes电影美区降价今日开始"></a>iTunes电影美区降价今日开始</h2><h3 id="以下电影或者电影集首次或者再次降到最低价："><a href="#以下电影或者电影集首次或者再次降到最低价：" class="headerlink" title="以下电影或者电影集首次或者再次降到最低价："></a>以下电影或者电影集首次或者再次降到最低价：</h3><p><strong>5-Film Classics Collection 20美金，包含：</strong></p>
+<ul>
+<li>The Wizard of Oz</li>
+<li>Singin’ In the Rain</li>
+<li>Citizen Kane</li>
+<li>Casablanca</li>
+<li>Gone With the Wind</li>
+</ul>
+<p><del>(这五部电影20美金，一部4美金就离谱)</del></p>
+<p><strong>The Shawshank Redemption / The Green Mile 10美金</strong><br><del>(如果现在你单买这两部电影，价格是30美金，3.33折可还行)</del></p>
+<p>The Hobbit + The Lord of The Rings 6部片子总共40美金；（有待确定，因为我记得我买的时候比这个价格要低，但是刷新过了之前的价格没了）</p>
+<p>Star Trek: The Original Motion Pictures Collection 第一次降至30美金；（有待确定，理由同上）</p>
+<p><strong>所有007电影单部价格降至10美金，一代007电影集30美金，24部007全集100美金；</strong></p>
+<p><strong>Fast &amp; Furious: The Ultimate Ride Collection 第一次降至30美金，共8部电影，相当于每部电影3.75美金；</strong></p>
+<p>Harry Potter Complete Collection 50美金；</p>
+<p>The Matrix Trilogy 15美金；</p>
+<p>Tom Hanks 4-Movie Collection 20美金，包含：</p>
+<ul>
+<li>Forrest Gump</li>
+<li>Catch Me If You Can (2002)</li>
+<li>The Terminal</li>
+<li>Road to Perdition</li>
+</ul>
+<p>Kill Bill Double Feature 第一次降至10美金；（有待确定，理由同上）</p>
+<p>John Wick Chapters 1-3 20美金；</p>
+<p>Sherlock Holmes: A Game of Shadows + Sherlock Holmes 10美金；</p>
+<p>The Purge 4-Movie Collection 20美金；</p>
+<p>Aquaman/Wonder Woman/Justice League 3-film Collection 第一次降至18美金；</p>
+<p><strong>DC 7-Film Collection 第一次降至40美金，包含：</strong></p>
+<ul>
+<li>Man of Steel (2013)</li>
+<li>Batman v Superman: Dawn of Justice</li>
+<li>Suicide Squad (2016)</li>
+<li>Wonder Woman(2017)</li>
+<li>Justice League</li>
+<li>Aquaman (2018) （单部史低8美元）</li>
+<li>Shazam! （单部史低8美元）</li>
+</ul>
+<p><strong>Charlie Chaplin所有电影从单部15美金第一次降至单部10美金：</strong></p>
+<ul>
+<li>The Great Dictator</li>
+<li>Modern Times</li>
+<li>City Lights</li>
+<li>Gold Rush 1925</li>
+<li>Gold Rush 1942</li>
+<li>The Kid</li>
+<li>The Circus</li>
+<li>Monsieur Verdoux</li>
+<li>Limelight</li>
+</ul>
+<p>上面列出的这些电影的出版商是The Criterion Collection，看上去都降到了10美金，里面的电影都是20世纪初至中叶时代的。</p>
+<p><strong>They Shall Not Grow Old 第一次降至5美金；</strong></p>
+<p><strong>Barry Lyndon 第一次降至5美金；</strong></p>
+<p><strong>Lawrence of Arabia (Restored Version) 5美金；</strong></p>
+<p>The Queen 第一次降至5美金；（有待确定，理由同上）</p>
+<p>The King’s Speech 5美金；</p>
+<p>The Imitation Game 5美金；</p>
+<p>Hacksaw Ridge 5美金；</p>
+<p>Terminater: Dark Fate 第一次降至5美金；</p>
+<p>BATMAN: HUSH 第一次降至8美金；</p>
+<p>Justice Leagus Dark: Apokolips War 第一次降至8美金；</p>
+<p>Train to Busan Presents: Peninsula 第一次降至7美金；</p>
+<p>…</p>
+<p>太多了，就这些吧。</p>
+<h3 id="今天最终购买内容"><a href="#今天最终购买内容" class="headerlink" title="今天最终购买内容"></a>今天最终购买内容</h3><p>The Wizard of Oz<br>Singin’ In the Rain<br>Citizen Kane<br>Casablanca<br>Gone With the Wind<br>（以上为一个Bundle）</p>
+<p>The Shawshank Redemption<br>The Green Mile<br>（以上为一个Bundle）</p>
+<p>They Shall Not Grow Old<br>Barry Lyndon<br>Lawrence of Arabia (Restored Version)<br>Modern Times<br>City Lights</p>
+<h2 id="周四周五又放假了"><a href="#周四周五又放假了" class="headerlink" title="周四周五又放假了"></a>周四周五又放假了</h2><p>略。</p>
+<hr>
+<p>EOF.</p>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>iTunes</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2020年12月23日</title>
+    <url>/2020/12/23/20201223/</url>
+    <content><![CDATA[<h2 id="Monster-Hunter-Stories-iOS美区大幅降价"><a href="#Monster-Hunter-Stories-iOS美区大幅降价" class="headerlink" title="Monster Hunter Stories iOS美区大幅降价"></a>Monster Hunter Stories iOS美区大幅降价</h2><p>20美元降到5美元。<del>这不是相当于赚了15美元？</del></p>
+<h2 id="Square-Enix旗下iOS移植游戏半价"><a href="#Square-Enix旗下iOS移植游戏半价" class="headerlink" title="Square Enix旗下iOS移植游戏半价"></a>Square Enix旗下iOS移植游戏半价</h2><p>包括FINAL FANTASY移植游戏，DRAGON QUEST系列移植游戏半价，买FINAL FANTASY VI和VII肯定没错，IX要买也最好现在买。</p>
+<h2 id="买了个Lightning-to-USB-3-Camera-Adapter"><a href="#买了个Lightning-to-USB-3-Camera-Adapter" class="headerlink" title="买了个Lightning to USB 3 Camera Adapter"></a>买了个Lightning to USB 3 Camera Adapter</h2><p>看了一下YouTube的评测，看上去如果是需要大功耗的USB设备连上去没反应，需要一个可以带电源输入的USB Hub完美解决这个问题。</p>
+<h2 id="两天的休假开始了"><a href="#两天的休假开始了" class="headerlink" title="两天的休假开始了"></a>两天的休假开始了</h2><p>和周末一起放算4天可还行。</p>
+<p>今天回家特地看了一眼15号线地铁口，发现在2021年1月20日竣工，那么今年应该是乘不到了 :(</p>
+<hr>
+<p>EOF.</p>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>Happy Work</tag>
+        <tag>iTunes</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2020年12月24日-2020年12月25日</title>
+    <url>/2020/12/25/20201224-25/</url>
+    <content><![CDATA[<h2 id="圣诞节快乐！"><a href="#圣诞节快乐！" class="headerlink" title="圣诞节快乐！"></a>圣诞节快乐！</h2><h2 id="虬江路的音像城和旁边的滩头要关闭了"><a href="#虬江路的音像城和旁边的滩头要关闭了" class="headerlink" title="虬江路的音像城和旁边的滩头要关闭了"></a>虬江路的音像城和旁边的滩头要关闭了</h2><p>12月25日下午去了一次。</p>
+<p>升级了我的黑胶唱片机。<br>这个黑胶唱片机带回家真的太吃力了。</p>
+<p>买了一个二手成色极好的iPod nano 6 Red 16G，<br>电源键已经不能用了，但是我觉得我可以找地方修一下。</p>
+<h2 id="Project-夏恋花火全部渲染完毕"><a href="#Project-夏恋花火全部渲染完毕" class="headerlink" title="Project 夏恋花火全部渲染完毕"></a>Project 夏恋花火全部渲染完毕</h2><p>等到视频工程交接完就真的结束了。感觉轻松了。</p>
+<p><strong>以后这样的活我绝对不会急着接了，接完做不完会成为负担的。</strong></p>
+<h2 id="这个周末的目标"><a href="#这个周末的目标" class="headerlink" title="这个周末的目标"></a>这个周末的目标</h2><ul>
+<li>完成之前说的博客搜索从最新博客开始搜索的功能。</li>
+<li>将我的hexo从这个MacBook Pro移到服务器上，或者iPad Pro上管理。</li>
+</ul>
+<hr>
+<p>EOF.</p>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>hexo-build</tag>
+        <tag>Buying</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2020年12月26日</title>
+    <url>/2020/12/26/20201226/</url>
+    <content><![CDATA[<p>敲下这句话的时候已经是12月27日了哈哈哈哈。</p>
+<h2 id="iPod-Nano-6的电源键被我修好了！"><a href="#iPod-Nano-6的电源键被我修好了！" class="headerlink" title="iPod Nano 6的电源键被我修好了！"></a>iPod Nano 6的电源键被我修好了！</h2><p>终于不会被老爸说拆啥坏啥了。（其实我很早就不会拆啥坏啥了，但是老爸不是很相信。）</p>
+<p>修好以后用了半天，发现又不行了，因为按钮上的触发的一小颗粒状物体漂移了，导致按钮按下去没有反应。这次直接上胶粘上了一块相对很厚的一块物体，按键可以了，但是手感不太好，还需要改进。</p>
+<h2 id="准备迁移Adobe-CS6授权到Windows-10了"><a href="#准备迁移Adobe-CS6授权到Windows-10了" class="headerlink" title="准备迁移Adobe CS6授权到Windows 10了"></a>准备迁移Adobe CS6授权到Windows 10了</h2><p>由于工程已经结束，Windows 7不可作为主力机器一直用。</p>
+<h2 id="先前说的周末目标啥都没做"><a href="#先前说的周末目标啥都没做" class="headerlink" title="先前说的周末目标啥都没做"></a>先前说的周末目标啥都没做</h2><p>不着急。</p>
+<h2 id="博客的搜索功能有时显示不出来"><a href="#博客的搜索功能有时显示不出来" class="headerlink" title="博客的搜索功能有时显示不出来"></a>博客的搜索功能有时显示不出来</h2><p>需要去查一下原因，有可能是css或者js所在的cdn网络存在波动。</p>
+<hr>
+<p>EOF.</p>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>hexo-build</tag>
+        <tag>Software</tag>
+        <tag>Hardware</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2020年12月27日</title>
+    <url>/2020/12/27/20201227/</url>
+    <content><![CDATA[<h2 id="这是第一篇在移动设备上创建，完成并上传的日记博客，算是Milestone了。"><a href="#这是第一篇在移动设备上创建，完成并上传的日记博客，算是Milestone了。" class="headerlink" title="这是第一篇在移动设备上创建，完成并上传的日记博客，算是Milestone了。"></a>这是第一篇在移动设备上创建，完成并上传的日记博客，算是Milestone了。</h2><p>操作步骤：</p>
+<ul>
+<li>在iPad Pro 11寸一代及以上的iPad安装iSH Shell。(A12X,A12Z和A14的<strong>平板</strong>都应该是可以的)</li>
+<li>依次从apk安装：<br>git<br>openssh<br>node<br>npm</li>
+<li>如果是现有博客移植，直接把hexo博客目录（带node_modules的）直接发到iPad的iSH文件系统内的home目录里。</li>
+<li>git config —global user-name和user-email。</li>
+<li>ssh-keygen然后ssh-add。</li>
+<li>把key拷到Github下的SSH Keys。</li>
+<li>ln -s modules里的hexo-cli hexo博客目录下/hexo</li>
+<li>./hexo g</li>
+<li>./hexo d</li>
+<li>完成！</li>
+</ul>
+<p>P.S. 我在地铁上用iPad Pro写的这段。</p>
+<h2 id="测试一张移动端的图片上传"><a href="#测试一张移动端的图片上传" class="headerlink" title="测试一张移动端的图片上传"></a>测试一张移动端的图片上传</h2><p><img src="https://i.loli.net/2021/01/31/lPMshzf5RgAwHFZ.png" alt="testPic20201227" title="Screenshot of iSH issue of starting server using hexo."></p>
+<hr>
+<p>EOF.</p>
+<p>发完发现搜索功能好像有点问题，回去看看。</p>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>hexo-build</tag>
+        <tag>Milestone</tag>
+        <tag>Dev</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2020年12月28日</title>
+    <url>/2020/12/28/20201228/</url>
+    <content><![CDATA[<h2 id="正在优化本博客编辑的工作流"><a href="#正在优化本博客编辑的工作流" class="headerlink" title="正在优化本博客编辑的工作流"></a>正在优化本博客编辑的工作流</h2><p>用iPhone写Markdown，然后AirDrop到iPad生成并上传。</p>
+<h2 id="iPod-nano-6还是很好用的"><a href="#iPod-nano-6还是很好用的" class="headerlink" title="iPod nano 6还是很好用的"></a>iPod nano 6还是很好用的</h2><p>尤其是分段的m4a处理的很好（至于什么是分段的m4a，以后我可以介绍一下。</p>
+<h2 id="12月30日和12月31日的寒潮"><a href="#12月30日和12月31日的寒潮" class="headerlink" title="12月30日和12月31日的寒潮"></a>12月30日和12月31日的寒潮</h2><p>我还要6点出门，怕不是冻死在公司门口😨。</p>
+<hr>
+<p>EOF.</p>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>Software</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2020年12月29日</title>
+    <url>/2020/12/29/20201229/</url>
+    <content><![CDATA[<h2 id="明天出门的这段时间听说会是最冷的时段"><a href="#明天出门的这段时间听说会是最冷的时段" class="headerlink" title="明天出门的这段时间听说会是最冷的时段"></a>明天出门的这段时间听说会是最冷的时段</h2><p>零下六度到零下四度。</p>
+<p>我肯定是不会乘坐出租车的，因为今天晚上下雨和雪，第二天早上再降个温，道路冰冻起来速度还要慢。</p>
+<h2 id="iTunes美区新Bundle上架并降价"><a href="#iTunes美区新Bundle上架并降价" class="headerlink" title="iTunes美区新Bundle上架并降价"></a>iTunes美区新Bundle上架并降价</h2><p>当然，最值得买的不是那些Bundle，是今天开始降价的华语电影：《卧虎藏龙》，5美元。</p>
+<h2 id="由于iPod-Nano的回归，我又开始听FM了"><a href="#由于iPod-Nano的回归，我又开始听FM了" class="headerlink" title="由于iPod Nano的回归，我又开始听FM了"></a>由于iPod Nano的回归，我又开始听FM了</h2><p>这种在街上边走边听现场直播的感觉很棒，你可以听音乐，听路况，而且FM的广告投放比现在电视好很多。（没有广告轰炸这种，当然FM 还是有装修广告。）</p>
+<h2 id="iSH时区问题"><a href="#iSH时区问题" class="headerlink" title="iSH时区问题"></a>iSH时区问题</h2><p>看上去iSH内的系统时间是GMT的时间，所以这篇文章实际上是在GMT +0800的时刻（中国北京标准时间）建立的。</p>
+<p>我觉得可以不用改，只要说明一下就可以了。</p>
+<hr>
+<p>EOF.</p>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>Software</tag>
+        <tag>iTunes</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2020年12月30日</title>
+    <url>/2020/12/30/20201230/</url>
+    <content><![CDATA[<h2 id="向两位离职员工写下祝福语"><a href="#向两位离职员工写下祝福语" class="headerlink" title="向两位离职员工写下祝福语"></a>向两位离职员工写下祝福语</h2><p>由于公司结构调整，两位同事将在2021年离开公司。</p>
+<p>祝前程似锦。</p>
+<h2 id="今天居然不是最冷的"><a href="#今天居然不是最冷的" class="headerlink" title="今天居然不是最冷的"></a>今天居然不是最冷的</h2><p>对，明天早上才是最冷的。</p>
+<p>12月31日早上6点出门，零下6度，夏天战高温，明天战低温？</p>
+<h2 id="写日记式博客到底怎么写比较方便？"><a href="#写日记式博客到底怎么写比较方便？" class="headerlink" title="写日记式博客到底怎么写比较方便？"></a>写日记式博客到底怎么写比较方便？</h2><p>今天在iPad上写，发现尺寸是够格了，但是还是不如电脑写起来带劲。<br>昨天在iPhone上写，外面写是方便了，但是……对，如上，而且手机的iSH性能不太能够处理node的modules。</p>
+<h2 id="在bilibili看XX分钟看完数码宝贝"><a href="#在bilibili看XX分钟看完数码宝贝" class="headerlink" title="在bilibili看XX分钟看完数码宝贝"></a>在bilibili看XX分钟看完数码宝贝</h2><p>果然还是熟悉的味道。童年已经是很久远的事情了。</p>
+<hr>
+<p>EOF.</p>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>Think</tag>
+        <tag>Happy Work</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2020年12月31日</title>
+    <url>/2020/12/31/20201231/</url>
+    <content><![CDATA[<h2 id="再见了，黑胶唱片机。"><a href="#再见了，黑胶唱片机。" class="headerlink" title="再见了，黑胶唱片机。"></a>再见了，黑胶唱片机。</h2><p>回天乏术，终究还是不能让你重新发声。</p>
+<h2 id="平常的一天"><a href="#平常的一天" class="headerlink" title="平常的一天"></a>平常的一天</h2><p>今天早上出门算是感觉到了寒风凛冽。</p>
+<p>中午送走了两位老员工，以后可能真的再也不见了。</p>
+<p>晚上到家收拾了一下带着黑胶唱片机出去试图挽救它，失败了。</p>
+<hr>
+<p>EOF.</p>
+<p>祝屏幕前的你做一个好梦。</p>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2021-Week01</title>
+    <url>/2021/01/08/2021-Week01/</url>
+    <content><![CDATA[<h2 id="网站加入Categories对网页正确分类"><a href="#网站加入Categories对网页正确分类" class="headerlink" title="网站加入Categories对网页正确分类"></a>网站加入Categories对网页正确分类</h2><p>因为这个套用的主题只做了Tags的内容，然后在实际对文章标签和分类时出现了冲突。</p>
+<p>在原有的hexo主题内加入了tags和categories的总页面，让搜索特定文章变得方便。</p>
+<h2 id="创建Git-Server-Gitea"><a href="#创建Git-Server-Gitea" class="headerlink" title="创建Git Server - Gitea"></a>创建Git Server - Gitea</h2><p>hexo后期页面的开发预览仍然离不开电脑，所以准备建立一个Git服务器来同步框架代码和文章的Markdown。</p>
+<p>最早看到一个基于IIS的.NET网页端Git服务器，虽然我现在的核心服务器跑的是Windows Server 2016 Datacenter，但是我IIS就不想托管应用程序的网页，第一是这台服务器暴露公网，怕一个0-Day把你的服务器给搞瘫，第二是自己不能保证一个第三方的Git服务器满足你所有要求。最后无意间看到了Gitea，Go语言，nodejs，多平台，Windows上deploy一个exe文件就可以了，很方便。</p>
+<h2 id="当然你还需要一个SQL-Server-MySQL-Server-8"><a href="#当然你还需要一个SQL-Server-MySQL-Server-8" class="headerlink" title="当然你还需要一个SQL Server - MySQL Server 8"></a>当然你还需要一个SQL Server - MySQL Server 8</h2><p>用于存放用户信息的数据库，未来还能用来干很多事的。</p>
+<h2 id="正式开始在公司写PowerShell和React-js了"><a href="#正式开始在公司写PowerShell和React-js了" class="headerlink" title="正式开始在公司写PowerShell和React.js了"></a>正式开始在公司写PowerShell和React.js了</h2><p>之后可能还会Vue.js，总算是有用武之地了。</p>
+<h2 id="最近在找一首歌"><a href="#最近在找一首歌" class="headerlink" title="最近在找一首歌"></a>最近在找一首歌</h2><p>If You Still Love Me Tomorrow的其中一个版本，相对比较温柔的一版，不是童安格的那首国语版，也不是最出名的那几个原版和翻版，估计只有我把老唱片翻出来才能Rip出来了。</p>
+<p>当然，童安格的<em>明天你是否依然爱我</em>依然很好听。</p>
+<h2 id="这次怎么变周记了？"><a href="#这次怎么变周记了？" class="headerlink" title="这次怎么变周记了？"></a>这次怎么变周记了？</h2><p>因为博客的结构还在调整，现在的下班时间都在琢磨hexo和Git服务器，而且最近的iTunes降价实在没有，就没有写。</p>
+<hr>
+<p>EOF.</p>
+]]></content>
+      <categories>
+        <category>Weekly Diary</category>
+      </categories>
+      <tags>
+        <tag>hexo-build</tag>
+        <tag>Culture</tag>
+        <tag>Happy Work</tag>
+        <tag>Software</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-Week02</title>
+    <url>/2021/01/17/2021-Week02/</url>
+    <content><![CDATA[<h2 id="代码的工作开始了"><a href="#代码的工作开始了" class="headerlink" title="代码的工作开始了"></a>代码的工作开始了</h2><p>一下子就忙起来了。这一周的下班时间都延长了差不多一个小时。（即使这样也比以前实习的情况好）</p>
+<p>有个好处，自己想学习但是舍不得买的Azure个人服务，包括Azure VM和Azure DevOps，这下公司权限一开，全部可以直接用企业版的了。这意味着我的学习成本大大降低了。<del>其实你还是为公司工作而已。（但是可以为自己的数据上云铺路啊哈哈哈哈哈<em>反派的笑声</em>)</del></p>
+<p>听了国外高级全栈对我将要发布的任务，看上去如果前端要做的话，React是100%跑不掉了。传统的Javascript和SharePoint内用到的REST API也将在30秒到达战场。</p>
+<p>以后可以再加一个tag，叫<strong>Dev</strong>。</p>
+<h2 id="公司年会"><a href="#公司年会" class="headerlink" title="公司年会"></a>公司年会</h2><p>我被Procurement抓去管音视频了。</p>
+<p>iTunes Store买了需要的音乐。</p>
+<p>就是这样。Week03工作日有两个半天在彩排和现场<del>可以摸鱼</del>。</p>
+<h2 id="Minecraft-RTX永远的神"><a href="#Minecraft-RTX永远的神" class="headerlink" title="Minecraft RTX永远的神"></a>Minecraft RTX永远的神</h2><p>这几天我的时间黑洞都在Minecraft上，Java版生存模式正在挖洞。Microsoft Store基岩版的RTX模板<strong>永 远 的 神</strong>。</p>
+<h2 id="iTunes吸引人的降价这周只有一个"><a href="#iTunes吸引人的降价这周只有一个" class="headerlink" title="iTunes吸引人的降价这周只有一个"></a>iTunes吸引人的降价这周只有一个</h2><p>Amelie - 第一次降至5美元。已购买。</p>
+<h2 id="50元钱从跳蚤市场买了一个USB的DVD-RW的光驱"><a href="#50元钱从跳蚤市场买了一个USB的DVD-RW的光驱" class="headerlink" title="50元钱从跳蚤市场买了一个USB的DVD RW的光驱"></a>50元钱从跳蚤市场买了一个USB的DVD RW的光驱</h2><p>略。</p>
+<h2 id="300元钱买了一个品胜Type-C十合一扩展坞"><a href="#300元钱买了一个品胜Type-C十合一扩展坞" class="headerlink" title="300元钱买了一个品胜Type C十合一扩展坞"></a>300元钱买了一个品胜Type C十合一扩展坞</h2><p>还没到，年会需求。(iPad Pro好像也是可以用的。)</p>
+<hr>
+<p>EOF.</p>
+]]></content>
+      <categories>
+        <category>Weekly Diary</category>
+      </categories>
+      <tags>
+        <tag>Happy Work</tag>
+        <tag>iTunes</tag>
+        <tag>Gaming</tag>
+        <tag>Buying</tag>
+        <tag>Dev</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-Week03</title>
+    <url>/2021/01/24/2021-Week03/</url>
+    <content><![CDATA[<h2 id="年会因为新冠疫情延期"><a href="#年会因为新冠疫情延期" class="headerlink" title="年会因为新冠疫情延期"></a>年会因为新冠疫情延期</h2><p>周五的年会在最后一天通知延期，因为上海周四确认出现本土病例。</p>
+<p>现在落笔的时候，上海三个地区已被列入中风险地区。</p>
+<h2 id="又可以在家里上班了"><a href="#又可以在家里上班了" class="headerlink" title="又可以在家里上班了"></a>又可以在家里上班了</h2><p>周五，收到老板通知，下周开始，建议我们办公室里至少一个人来办公室上班，其余人看情况可以居家办公。</p>
+<p>明天就可以在家上班，对于需要1小时通勤时间的我无疑是一件好事。</p>
+<p>实际情况是，如果需要开发且家中连到开发环境如果速度太慢，可能还是要去办公室。</p>
+<h2 id="iPadOS-13-6居然是可以越狱的"><a href="#iPadOS-13-6居然是可以越狱的" class="headerlink" title="iPadOS 13.6居然是可以越狱的"></a>iPadOS 13.6居然是可以越狱的</h2><p>Odyssey 2用iOS App Signer签名用Xcode安装，我下载的iTunes DRM保护文件直接通过Samba流媒体直接在iPad上播放了。</p>
+<h2 id="去了次老房子"><a href="#去了次老房子" class="headerlink" title="去了次老房子"></a>去了次老房子</h2><p>周六中午去老房子找CD。大多数需要的CD都找到了：</p>
+<ul>
+<li>宝莲灯（上海电影艺术制片厂的电影）的电影原声CD，包括现在网上主流音乐App没有版权的<em>天地在我心 - 刘欢</em>。</li>
+<li>Paul Mauriat - Love is Blue (20 Anniversary Collection)</li>
+<li>The Absolute Treasure 1977-1994 of Richard Clayderman’s Music Life</li>
+</ul>
+<p>这下没有遗憾了，我上周的五十元买来的光驱派上了大用处。</p>
+<h2 id="周日是用来睡觉的"><a href="#周日是用来睡觉的" class="headerlink" title="周日是用来睡觉的"></a>周日是用来睡觉的</h2><p>周日我一路睡到下午4点，把之前没睡好的时间全部补了回来。</p>
+<hr>
+<p>EOF.</p>
+]]></content>
+      <categories>
+        <category>Weekly Diary</category>
+      </categories>
+      <tags>
+        <tag>Happy Work</tag>
+        <tag>Software</tag>
+        <tag>Sleeping</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-Week04</title>
+    <url>/2021/01/31/2021-Week04/</url>
+    <content><![CDATA[<h2 id="两台显示器，一个双显示器支架，一个USB-KVM分线器"><a href="#两台显示器，一个双显示器支架，一个USB-KVM分线器" class="headerlink" title="两台显示器，一个双显示器支架，一个USB KVM分线器"></a>两台显示器，一个双显示器支架，一个USB KVM分线器</h2><p>Dell S2421HSX * 2。</p>
+<p>1920*1080 75Hz IPS。</p>
+<p>之前有试过一台主机接这两台kvm同时运行Windows和黑苹果，效果不好。<br>现在一台接Clevo P750TM1-G跑Windows，一台接Dell XPS 13 9360跑黑苹果，看起来相当舒服。<br>当然上班的时候可以接公司的电脑三屏也可以。</p>
+<p>鼠标和键盘共用，而普通KVM还分VGA信号，所以买了一个USB KVM分线器。</p>
+<p>购物网站搜索USB切换器应该就可以了。</p>
+<h2 id="70"><a href="#70" class="headerlink" title="70"></a>70</h2><p>这周结束，父亲也70岁了。</p>
+<p>时间，求你过得慢一些。</p>
+<h2 id="Divenire-Ludovico-Einaudi"><a href="#Divenire-Ludovico-Einaudi" class="headerlink" title="Divenire - Ludovico Einaudi"></a>Divenire - Ludovico Einaudi</h2><p>略。</p>
+<h2 id="农历新年开始将上一年的日记归档"><a href="#农历新年开始将上一年的日记归档" class="headerlink" title="农历新年开始将上一年的日记归档"></a>农历新年开始将上一年的日记归档</h2><p>我还在考虑如何完成。将其移出posts做个新的位置怎么样？</p>
+<hr>
+<p>EOF.</p>
+]]></content>
+      <categories>
+        <category>Weekly Diary</category>
+      </categories>
+      <tags>
+        <tag>hexo-build</tag>
+        <tag>Think</tag>
+        <tag>Hardware</tag>
+        <tag>Buying</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-Week05</title>
+    <url>/2021/02/06/2021-Week05/</url>
+    <content><![CDATA[<p>这一周发生的事情精彩到不敢相信。</p>
+<h2 id="iTunes美区降价"><a href="#iTunes美区降价" class="headerlink" title="iTunes美区降价"></a>iTunes美区降价</h2><p>Attack on Titan (进击的巨人) 每一季 - 5美元</p>
+<p>Apocalypse Now (Final Cut) - 5美元</p>
+<p>值得说的也就是这两个降价了。</p>
+<p>当然，National Treasure两部我还是买了，实在是我英语的启蒙电影。</p>
+<p>Islands - Essential Einaudi by Ludovico Einaudi也买了。</p>
+<h2 id="Daft-Punk-Alive-2007-真·官方现场视频在YouTube出现"><a href="#Daft-Punk-Alive-2007-真·官方现场视频在YouTube出现" class="headerlink" title="Daft Punk Alive 2007 真·官方现场视频在YouTube出现"></a>Daft Punk Alive 2007 真·官方现场视频在YouTube出现</h2><p><a href="https://www.youtube.com/watch?v=udvYSd2TIkg">原视频链接</a></p>
+<p><a href="https://rickcaylor.websitetoolbox.com/post/lollapalooza-chicago-2877003?highlight=lollapalooza">视频来源</a></p>
+<p>对于知道电子音乐的人，应该都明白这个现场的意义。</p>
+<p><strong>这是不可磨灭的传奇。</strong></p>
+<p><em>我甚至觉得上面这句话都不足以形容。</em></p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">Live mixed video that was displayed on the screens during the show. </span><br><span class="line"></span><br><span class="line">Sourced is Standard Definition (2007 Satellite » Stand-alone DVD capture)</span><br><span class="line">QTGMC (60fps)&#x2F;NeatVideo(Clean)&#x2F;Rendered at 1080p60 for Youtube bitrate</span><br><span class="line">Audio is as it is on the source.</span><br><span class="line"></span><br><span class="line">This source was shared w&#x2F; me by a tape trader friend after they saw the amateur 3-cam video of Daft Punk&#39;s Vegoose 2007 set I made for this channel.  In passing they mentioned they&#39;d recorded a raw Daft Punk &quot;webcast&quot; feed at some point and offered to look for the disc.  The video was captured via satellite during the event in 2007.</span><br></pre></td></tr></table></figure>
+<p>14年以来，网上有无数用自己的相机，手机拍摄的视频合成的演唱会全场。</p>
+<p>但是，在2021年1月23日，这个视频出现了。</p>
+<p>随便摘录几条视频评论？</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">This is the holy grail the missing link of humanity for 14 years the most wanted live and you by uploading it you have earned a place in paradise</span><br></pre></td></tr></table></figure>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">This is truly a historical document. This must be preserved in sealed vaults, after being spread all across the internet.</span><br></pre></td></tr></table></figure>
+<p>我已经在13个不同的地方，包括DVD刻录，保存了。</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">I paid a premium membership for this and I’m not mad.</span><br></pre></td></tr></table></figure>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">I literally just paid for YouTube to avoid these ad&#39;s every few minutes..Daft fucking punk is worth it.</span><br></pre></td></tr></table></figure>
+<p>Youtube Premium中间没有穿插广告。</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">This was at the tail end of the “not a cell phone in sight, just people enjoying the moment” generation and we didn’t even realize it at the time.</span><br></pre></td></tr></table></figure>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">if i could go back to any time in the past 20 years i&#39;d go see this concert</span><br></pre></td></tr></table></figure>
+<p>是的，我也是这么想的。</p>
+<p><strong>我很嫉妒，我也很少嫉妒，但是我很嫉妒那些能在现场亲眼看到这一切的观众。</strong></p>
+<p>根据上传这段视频的人描述，这个视频其实是在现场传输到外场大屏幕的时候被卫星接收器拦截到视频源并转录的，所以镜头的转换不是这个上传者完成的。</p>
+<p>音频在特定的位置出现了回声，因为主控台的音频和现场的音频被同时输出了。</p>
+<p><strong>而这些恰恰说明，这个视频的真实性。</strong></p>
+<p>所有这些视频的近景，<strong>都是真实的。</strong></p>
+<p>多少人挤破头想要得到的，而又几乎不可能得到的东西，终于在尘封了14年，通过互联网传播给了所有爱Daft Punk的人。</p>
+<h2 id="人人影视被查"><a href="#人人影视被查" class="headerlink" title="人人影视被查"></a>人人影视被查</h2><p>当然，人人影视字幕组还在。</p>
+<p>所有新闻都说“人人影视字幕组被上海警方查处”，但是其实被查的是“人人影视”。</p>
+<p>怎么回事？</p>
+<p>这次被抓进去的人本身在字幕组内部就一直在剥削其他人，他们罪有应得。</p>
+<p>他们在人人影视系应用程序内提供下载的片源开头或者结尾放入广告，提供网页贩卖带盗版内容的硬盘，这个错误就没得洗。</p>
+<p>被抓的理由是利用盗版非法牟利，而不是因为翻译了片源内容。</p>
+<p>对于大多数不愿意花时间寻找片源或者依赖人人影视这个平台的人来说，</p>
+<p>这是一个时代的结束。</p>
+<p>而对于那些曾经无偿奉献的，又或者是商业的，字幕工作者来说，</p>
+<p>这是一个时代的开始。</p>
+<hr>
+<p>EOF.</p>
+]]></content>
+      <categories>
+        <category>Weekly Diary</category>
+      </categories>
+      <tags>
+        <tag>Culture</tag>
+        <tag>iTunes</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-Week06</title>
+    <url>/2021/02/14/2021-Week06/</url>
+    <content><![CDATA[<h2 id="iTunes美区降价"><a href="#iTunes美区降价" class="headerlink" title="iTunes美区降价"></a>iTunes美区降价</h2><p>Avicii的专辑，包括最后一张专辑，TIM - 5美元</p>
+<p>Zedd的Clarity和True Colors - 5美元</p>
+<p>周星驰的功夫之王 - 5美元</p>
+<p>张艺谋的英雄 - 5美元</p>
+<p>DC一溜电影和电影降价。但是不是最低价。</p>
+<p>13 Assassins - 5美元</p>
+<p>Senna - 5美元</p>
+<p>Deadpool 1 &amp; 2 - 15美元</p>
+<p>The Piano - 5美元</p>
+<p>Ghost(人鬼情未了) - 5美元</p>
+<h2 id="辛丑牛年开始"><a href="#辛丑牛年开始" class="headerlink" title="辛丑牛年开始"></a>辛丑牛年开始</h2><h2 id="Noita真的太好玩了！！！"><a href="#Noita真的太好玩了！！！" class="headerlink" title="Noita真的太好玩了！！！"></a>Noita真的太好玩了！！！</h2><p>让我逝一逝这根新法杖。</p>
+<h2 id="这几天都没有出去"><a href="#这几天都没有出去" class="headerlink" title="这几天都没有出去"></a>这几天都没有出去</h2><p>实在不知道去哪里玩，没有动力。</p>
+<h2 id="整理一下需要学的知识"><a href="#整理一下需要学的知识" class="headerlink" title="整理一下需要学的知识"></a>整理一下需要学的知识</h2><p>Azure Cosmos DB, NoSQL, React, Vanilla JavaScript, RTMP and WebRTC.</p>
+<hr>
+<p>EOF.</p>
+]]></content>
+      <categories>
+        <category>Weekly Diary</category>
+      </categories>
+      <tags>
+        <tag>Culture</tag>
+        <tag>iTunes</tag>
+        <tag>Dev</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-Week07</title>
+    <url>/2021/02/21/2021-Week07/</url>
+    <content><![CDATA[<h2 id="Windows-Server-Backup的小问题"><a href="#Windows-Server-Backup的小问题" class="headerlink" title="Windows Server Backup的小问题"></a>Windows Server Backup的小问题</h2><p>Windows Server备份的UI，wbadmin.msc，会出现打不开的情况。</p>
+<p>解决方法：以管理员身份运行以下命令：<br><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">wbadmin delete catalog</span><br></pre></td></tr></table></figure></p>
+<h2 id="购买了Windows-Server-2019-Datacenter和新的机箱"><a href="#购买了Windows-Server-2019-Datacenter和新的机箱" class="headerlink" title="购买了Windows Server 2019 Datacenter和新的机箱"></a>购买了Windows Server 2019 Datacenter和新的机箱</h2><p>准备进行服务器升级。</p>
+<p>基本计划：</p>
+<p>J3455B-ITX主板+一个NAS系统（正在Windows Server 2016，FreeNAS和UnRAID中选），装上现在所有的SAS盘和整列卡，使用旧机箱。</p>
+<p>B365M-ITX主板+一个Hypervisor（Proxmox VE内安装Windows Server 2019或者Windows Server 2019使用Hyper-V），将SAS盘和整列卡移除，使用新机箱。</p>
+<h2 id="嵌套虚拟化"><a href="#嵌套虚拟化" class="headerlink" title="嵌套虚拟化"></a>嵌套虚拟化</h2><p>如果最后选型确定Proxmox VE内安装Windows Server 2019，那么就涉及到一个嵌套虚拟化的事情。</p>
+<p>本身i7-8700和这块主板都是vmx支持，至于是否可以grep到nested这个开关还没有尝试过。</p>
+<h2 id="周六去公司上班"><a href="#周六去公司上班" class="headerlink" title="周六去公司上班"></a>周六去公司上班</h2><p>天气相当好，而且事情并不多，可以继续学习Azure Services，而且是直接上手企业版，真的很快乐。</p>
+<hr>
+<p>EOF.</p>
+]]></content>
+      <categories>
+        <category>Weekly Diary</category>
+      </categories>
+      <tags>
+        <tag>Software</tag>
+        <tag>Buying</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-Week08</title>
+    <url>/2021/02/28/2021-Week08/</url>
+    <content><![CDATA[<h2 id="家中网络正式升级到了1000Mbps并外加海外精品网"><a href="#家中网络正式升级到了1000Mbps并外加海外精品网" class="headerlink" title="家中网络正式升级到了1000Mbps并外加海外精品网"></a>家中网络正式升级到了1000Mbps并外加海外精品网</h2><p>2990元外加50元每月的海外精品网，Github，微软Auth和iTunes下载的速度都有很大提升。</p>
+<h2 id="买了新的6SATA盘位的ITX机箱"><a href="#买了新的6SATA盘位的ITX机箱" class="headerlink" title="买了新的6SATA盘位的ITX机箱"></a>买了新的6SATA盘位的ITX机箱</h2><p>机箱名字叫蜜罐超存，里面配的200W电源换成了我之前ITX机箱内的350W 1U电源。200W根本带不动i7 8700和B365M。<br>之前在写完<a href="https://www.vmarkii.com/2021/02/21/2021-Week07/">上周周记</a>考虑把SAS硬盘全部搬入这个新机箱，然后发现我要是插入了整列卡，机箱就关不上了，就压根没有给我开PCIe机箱外槽，又全部装回去了。</p>
+<h2 id="Windows-Server-2019-Datacenter还在摸索"><a href="#Windows-Server-2019-Datacenter还在摸索" class="headerlink" title="Windows Server 2019 Datacenter还在摸索"></a>Windows Server 2019 Datacenter还在摸索</h2><p>这一周我因为AD DS配置问题，光是重装Windows Server 2019就重装了4次，先暂时不这么做了。</p>
+<p>直到今天，我才知道，原来I211网卡是可以刷成I210网卡从而实现Windows Server免驱动（之前都要禁用驱动数字签名然后安装加过VID的驱动），可见我的知识是多么匮乏了。</p>
+<p>而且现在的链路聚合都不是在设备管理器里加组了，你只要在服务器管理器里设置网络组就可以了，至少有一些进展。（2.0Gbps至少对多个Wi-Fi 6设备同时访问没什么问题了）</p>
+<h2 id="工作中获得Visual-Studio-Professional订阅"><a href="#工作中获得Visual-Studio-Professional订阅" class="headerlink" title="工作中获得Visual Studio Professional订阅"></a>工作中获得Visual Studio Professional订阅</h2><p>这个东西，和Microsoft Azure，Adobe Creative Cloud都有一个共同点：</p>
+<p>如果你不是专业的个人开发者或者内容创造者，你个人可能一年都用不上10次，肯定是不舍得买这个了。能在工作中获得企业正版授权并且学习知识，<strong>这些实际操作都是书上看不到的。</strong></p>
+<p>这样的好机会，怎么能错过呢。</p>
+<h2 id="iTunes"><a href="#iTunes" class="headerlink" title="iTunes"></a>iTunes</h2><p>就说一个吧： Micheal Jackson’s This Is It 3年以来第一次最低价5美元，当时就下手了。</p>
+<h2 id="吴孟达因为肝癌去世"><a href="#吴孟达因为肝癌去世" class="headerlink" title="吴孟达因为肝癌去世"></a>吴孟达因为肝癌去世</h2><h1 id="“你在教我做事啊-”"><a href="#“你在教我做事啊-”" class="headerlink" title="“你在教我做事啊?”"></a><strong><em>“你在教我做事啊?”</em></strong></h1><h1 id="“我才应该拿奥斯卡最佳男主角奖！”"><a href="#“我才应该拿奥斯卡最佳男主角奖！”" class="headerlink" title="“我才应该拿奥斯卡最佳男主角奖！”"></a><strong><em>“我才应该拿奥斯卡最佳男主角奖！”</em></strong></h1><h2 id="上海市轻纺市场-虬江路专区"><a href="#上海市轻纺市场-虬江路专区" class="headerlink" title="上海市轻纺市场 - 虬江路专区"></a>上海市轻纺市场 - 虬江路专区</h2><p>去的路上（不是去之前）看了一眼之前一直光顾的店的微信，今天第一天开业。<del><strong>缘分呐</strong></del></p>
+<p>买了Sony MP-CD1和苹果61W Type-C充电器，价格的确是相当便宜了。</p>
+<p>搬到了曹安路1618号，对于那些一直逛虬江路的上海音像城的老人来说，失去了很多。</p>
+<p>虬江路，七浦路，这样的地方最后都将成为回忆。爱淘旧货，在某些方面抠门的上海人（包括我这个连上海话都说不溜的），以后想找一个有点上海味道的地方都找不到了。</p>
+<h2 id="父亲终于愿意买一部新手机了"><a href="#父亲终于愿意买一部新手机了" class="headerlink" title="父亲终于愿意买一部新手机了"></a>父亲终于愿意买一部新手机了</h2><p>小米10青春版，其实还不错。该有的功能，Wi-Fi 5, NFC, 50倍变焦都有了。</p>
+<h2 id="Week09将会非常繁忙"><a href="#Week09将会非常繁忙" class="headerlink" title="Week09将会非常繁忙"></a>Week09将会非常繁忙</h2><p>由于公司商标改变，全球用户的Microsoft 365域要完全切换，可以预见的，会有各种各样的问题，邮箱地址变了，手机上的Microsoft Intune登录和邮箱重新认证，等等。</p>
+<p>And here, we, go.</p>
+<hr>
+<p>EOF.</p>
+]]></content>
+      <categories>
+        <category>Weekly Diary</category>
+      </categories>
+      <tags>
+        <tag>Culture</tag>
+        <tag>iTunes</tag>
+        <tag>Hardware</tag>
+        <tag>Buying</tag>
+        <tag>Dev</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-Week09</title>
+    <url>/2021/03/07/2021-Week09/</url>
+    <content><![CDATA[<h2 id="本站域名迁至https-blog-vmarkii-com"><a href="#本站域名迁至https-blog-vmarkii-com" class="headerlink" title="本站域名迁至https://blog.vmarkii.com"></a>本站域名迁至<a href="https://blog.vmarkii.com">https://blog.vmarkii.com</a></h2><h2 id="去年的假还有三天"><a href="#去年的假还有三天" class="headerlink" title="去年的假还有三天"></a>去年的假还有三天</h2><p>放在Week10休掉，一周上班两天，舒服的不谈了。</p>
+<h2 id="忙碌"><a href="#忙碌" class="headerlink" title="忙碌"></a>忙碌</h2><p>星期一（3月1日）正逢公司商标更换的日子，一线IT支持几乎都在接电话，没有停下来休息的时间。</p>
+<p>欧洲时区上班的第一个小时，也就是中国时区下午3点到下午4点，Service Desk一共接了57个电话。</p>
+<p>13个人，包括我在那一个小时同时接电话的场景，在Dashboard上显示出来是相当壮观的。相信这应该是我进入公司最忙的时刻。</p>
+<p>星期一我加班到晚上7点，可能我办公室里的同事加班的更晚（主要是这周我要和美国时区交接所以从星期二到星期五我都要早一个小时到达公司。）</p>
+<p>星期五总算是基本结束了忙碌。</p>
+<h2 id="年会恢复日程"><a href="#年会恢复日程" class="headerlink" title="年会恢复日程"></a>年会恢复日程</h2><p>鉴于上海市内疫情防控得当，Week12周五（3月26日）开年会。</p>
+<p><del>作为年会音视频编排，完全忘记该做啥了。</del></p>
+<h2 id="48小时耐久直播"><a href="#48小时耐久直播" class="headerlink" title="48小时耐久直播"></a>48小时耐久直播</h2><p>16小时是在睡觉的。</p>
+<p><del>10小时是在玩炉石传说的。</del></p>
+<p>计划列表完成结果：</p>
+<p>[✔] 使用Hyper-V搭建两个操作系统，Windows 10和CentOS；<br>[✔] Flask替代IIS完成对网站页面的响应；<br>[✔] Flask使用https证书提高网站安全性；<br>[ ] 使用nginx制作一个自己的直播服务器并且完成推拉流；<br>[✔] 如何一张证书同时使用于Flask和nginx？是否需要Wildcard DV？</p>
+<p>第二和第五个问题是同时解决的。</p>
+<p>Flask完成的脚本，也就是Webapp，在uWSGI运行部署，然后再通过nginx转发。这个操作步骤倒是可以先写一篇技术文档。</p>
+<p>Wildcard DV SSL买了又退货了，贫穷限制了我。</p>
+<h2 id="iTunes"><a href="#iTunes" class="headerlink" title="iTunes"></a>iTunes</h2><p>Big Hero 6 - 第一次最低价 - 8美元<br>Zootopia - 第一次最低价 - 8美元</p>
+<hr>
+<p>EOF.</p>
+]]></content>
+      <categories>
+        <category>Weekly Diary</category>
+      </categories>
+      <tags>
+        <tag>Happy Work</tag>
+        <tag>iTunes</tag>
+        <tag>Challenge</tag>
+        <tag>Dev</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-Week10</title>
+    <url>/2021/03/14/2021-Week10/</url>
+    <content><![CDATA[<p>接下来我就只写标题了…</p>
+<h2 id="vmarkii-com和www-vmarkii-com均通过Vultr云实例反向代理"><a href="#vmarkii-com和www-vmarkii-com均通过Vultr云实例反向代理" class="headerlink" title="vmarkii.com和www.vmarkii.com均通过Vultr云实例反向代理"></a>vmarkii.com和www.vmarkii.com均通过Vultr云实例反向代理</h2><h2 id="重新开始氪金炉石传说"><a href="#重新开始氪金炉石传说" class="headerlink" title="重新开始氪金炉石传说"></a>重新开始氪金炉石传说</h2><h2 id="Notability一年来第一次降价，4美元"><a href="#Notability一年来第一次降价，4美元" class="headerlink" title="Notability一年来第一次降价，4美元"></a>Notability一年来第一次降价，4美元</h2><h2 id="周五和同事出去玩了场VR游戏，吃了一顿烤肉。"><a href="#周五和同事出去玩了场VR游戏，吃了一顿烤肉。" class="headerlink" title="周五和同事出去玩了场VR游戏，吃了一顿烤肉。"></a>周五和同事出去玩了场VR游戏，吃了一顿烤肉。</h2><h2 id="直播服务器已经架设完毕"><a href="#直播服务器已经架设完毕" class="headerlink" title="直播服务器已经架设完毕"></a>直播服务器已经架设完毕</h2><h2 id="这个月居然就要把一年的网费交了，钱包危"><a href="#这个月居然就要把一年的网费交了，钱包危" class="headerlink" title="这个月居然就要把一年的网费交了，钱包危"></a>这个月居然就要把一年的网费交了，钱包危</h2><hr>
+<p>EOF.</p>
+<p>如果你看到了这一篇博客，你可以不定时用你的手机试一下这个链接：</p>
+<p><a href="https://vmarkii.com/live">https://vmarkii.com/live</a></p>
+]]></content>
+      <categories>
+        <category>Weekly Diary</category>
+      </categories>
+      <tags>
+        <tag>Happy Work</tag>
+        <tag>iTunes</tag>
+        <tag>Gaming</tag>
+        <tag>Milestone</tag>
+        <tag>Dev</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-Week12</title>
+    <url>/2021/03/28/2021-Week12/</url>
+    <content><![CDATA[<h2 id="年会终于结束了"><a href="#年会终于结束了" class="headerlink" title="年会终于结束了"></a>年会终于结束了</h2><p>我如果不是音视频编排，这个标题就应该是“晚了两个月的年会终于来了”。</p>
+<p>工作台太热太闷，下午叫同事帮我拿一罐可乐<del>（简直是机智的一批，聪明墨菲特）</del>，没想到这罐可乐真的救了我的狗命。</p>
+<p>我完全不知道年会上有什么好吃的，当然，我也没有中奖。</p>
+<p>算是做过“年会编排”这个工作了吧。</p>
+<h2 id="今年工作的目标居然真的是变成一个程序员"><a href="#今年工作的目标居然真的是变成一个程序员" class="headerlink" title="今年工作的目标居然真的是变成一个程序员"></a>今年工作的目标居然真的是变成一个程序员</h2><p>行吧至少方向是正确的。</p>
+<h2 id="工资发下来一半交了网费"><a href="#工资发下来一半交了网费" class="headerlink" title="工资发下来一半交了网费"></a>工资发下来一半交了网费</h2><p>至少接下来一年都不用付钱了。</p>
+<h2 id="iTunes"><a href="#iTunes" class="headerlink" title="iTunes"></a>iTunes</h2><p>Disney，早期PIXAR许多电影降价了。</p>
+<p>The Lion King 第一次降价至10美元；<br>Toy Story 系列每一部降价至10美元；<br>Beauty and the Beast 降价至10美元；</p>
+<p><strong>Butch Cassidy and the Sundance Kid 两年多第一次降价至5美元。</strong></p>
+<h2 id="最近想要再去MHW打打黑龙"><a href="#最近想要再去MHW打打黑龙" class="headerlink" title="最近想要再去MHW打打黑龙"></a>最近想要再去MHW打打黑龙</h2><p>看着NGA都已经开始玩MH:RISE了，我就先等等吧。</p>
+<h2 id="炉石传说下周三开包"><a href="#炉石传说下周三开包" class="headerlink" title="炉石传说下周三开包"></a>炉石传说下周三开包</h2><p>赶快在这个赛季结束之前赚到2000金币，迷你系列能用金币买是最好的。</p>
+<hr>
+<p>EOF.</p>
+]]></content>
+      <categories>
+        <category>Weekly Diary</category>
+      </categories>
+      <tags>
+        <tag>Happy Work</tag>
+        <tag>iTunes</tag>
+        <tag>Hardware</tag>
+        <tag>Gaming</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-Week11</title>
+    <url>/2021/03/21/2021-Week11/</url>
+    <content><![CDATA[<h2 id="找到了一首我找了10年的音乐"><a href="#找到了一首我找了10年的音乐" class="headerlink" title="找到了一首我找了10年的音乐"></a>找到了一首我找了10年的音乐</h2><p>彭羚(Cass Phang) - Will You Still Love Me Tomorrow</p>
+<p>Will You Still Love Me Tomorrow的版本由于实在太多太杂，想找到自己听的第一个版本实在是大海捞针。</p>
+<p>最后吼一句: B站<strong>永 远 的 神！</strong></p>
+<p>我怎么也不会想到，有人把SVCD里的MTV发到了B站，而且还很巧，这个UP主发了好几个版本的这首歌，结果一次找到。</p>
+<p>点开这个视频，一听到开头的旋律，我居然大半夜哭成傻逼，嚎啕大哭没有<del>（嚎啕大哭不太符合失而复得的那种感觉）</del>，就是眼泪止不住的那种。</p>
+<h2 id="iTunes"><a href="#iTunes" class="headerlink" title="iTunes"></a>iTunes</h2><p>Black Hawk Down 第一次最低价4美元（对，不是5美元）</p>
+<p>开通Apple Music三个月试听。</p>
+<h2 id="开始玩植物大战僵尸Steam年度版"><a href="#开始玩植物大战僵尸Steam年度版" class="headerlink" title="开始玩植物大战僵尸Steam年度版"></a>开始玩植物大战僵尸Steam年度版</h2><p>对，就是太TM闲了。</p>
+<h2 id="Zack-Snyders-Justice-League"><a href="#Zack-Snyders-Justice-League" class="headerlink" title="Zack Snyders Justice League"></a>Zack Snyders Justice League</h2><p>导演剪辑版正义联盟，4个小时，每一秒都在打Warner Bros.的脸，啪啪响的那种。</p>
+<p>在HBO Max，你甚至可以在点开猫和老鼠后提前看到这部片子哦。<strong>（现实往往会比滑稽戏更滑稽。）</strong></p>
+<h2 id="Falcon-and-Winter-Soldier"><a href="#Falcon-and-Winter-Soldier" class="headerlink" title="Falcon and Winter Soldier"></a>Falcon and Winter Soldier</h2><p>WandaVision之后的一部6集迷你剧。</p>
+<p>谨慎观望。</p>
+<hr>
+<p>EOF.</p>
+]]></content>
+      <categories>
+        <category>Weekly Diary</category>
+      </categories>
+      <tags>
+        <tag>Culture</tag>
+        <tag>iTunes</tag>
+        <tag>Gaming</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-Week13</title>
+    <url>/2021/04/04/2021-Week13/</url>
+    <content><![CDATA[<h2 id="最近开始看STN快报和炊事班的故事"><a href="#最近开始看STN快报和炊事班的故事" class="headerlink" title="最近开始看STN快报和炊事班的故事"></a>最近开始看STN快报和炊事班的故事</h2><p>有点上头。</p>
+<h2 id="又要开始在家上班了"><a href="#又要开始在家上班了" class="headerlink" title="又要开始在家上班了"></a>又要开始在家上班了</h2><p>有点爽。<del>（这个话不能乱说啊）</del></p>
+<h2 id="手机屏幕右上角还是摔到了"><a href="#手机屏幕右上角还是摔到了" class="headerlink" title="手机屏幕右上角还是摔到了"></a>手机屏幕右上角还是摔到了</h2><p>等彻底出问题的换个屏幕。</p>
+<hr>
+<p>实在没啥想写的。</p>
+<p>改改博客主题？</p>
+<p>EOF.</p>
+]]></content>
+      <categories>
+        <category>Weekly Diary</category>
+      </categories>
+      <tags>
+        <tag>Happy Work</tag>
+        <tag>Gaming</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-Week14</title>
+    <url>/2021/04/11/2021-Week14/</url>
+    <content><![CDATA[<p>写个标题，最近陪新入坑猛汉王的同学打怪。</p>
+<h2 id="周一清明放假"><a href="#周一清明放假" class="headerlink" title="周一清明放假"></a>周一清明放假</h2><h2 id="PowerShell其实只要会foreach，while和if就够了。"><a href="#PowerShell其实只要会foreach，while和if就够了。" class="headerlink" title="PowerShell其实只要会foreach，while和if就够了。"></a>PowerShell其实只要会foreach，while和if就够了。</h2><h2 id="Fruit-Basket"><a href="#Fruit-Basket" class="headerlink" title="Fruit Basket"></a>Fruit Basket</h2><p>听说过但是没有看过，iTunes上降价至5美元，看见评价还不错，找个时间看看。</p>
+<h2 id="又在淘宝购买了11-3袋康师傅方便面"><a href="#又在淘宝购买了11-3袋康师傅方便面" class="headerlink" title="又在淘宝购买了11+3袋康师傅方便面"></a>又在淘宝购买了11+3袋康师傅方便面</h2><p>豚骨11包+红烧牛肉3包，这个豚骨面的汤吹爆好吧。</p>
+<hr>
+<p>EOF.</p>
+<p>在琢磨怎么让自己的生活更加有趣的无聊道路上越走越远。</p>
+]]></content>
+      <categories>
+        <category>Weekly Diary</category>
+      </categories>
+      <tags>
+        <tag>iTunes</tag>
+        <tag>Gaming</tag>
+        <tag>Buying</tag>
+        <tag>Dev</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-Week15</title>
+    <url>/2021/04/18/2021-Week15/</url>
+    <content><![CDATA[<h2 id="进击的巨人漫画版完结"><a href="#进击的巨人漫画版完结" class="headerlink" title="进击的巨人漫画版完结"></a>进击的巨人漫画版完结</h2><p>真就学习HBO的权力的游戏呗，喂粉丝吃屎。</p>
+<p>当然原著，冰与火之歌，至少还没有这个迹象。</p>
+<p>进击的巨人最后一季的动画版就难说了。</p>
+<h2 id="听说硬盘开始涨价了？"><a href="#听说硬盘开始涨价了？" class="headerlink" title="听说硬盘开始涨价了？"></a><del>听说</del>硬盘开始涨价了<del>？</del></h2><p>继显卡涨价以后，又有一个利用磁盘空间挖矿的准备入市了，北京硬盘之家淘宝店已经看不到1T以上的硬盘就离谱好吧。10T以上的硬盘价格翻了两倍。</p>
+<h2 id="Artifiction-void"><a href="#Artifiction-void" class="headerlink" title="Artifiction - void"></a>Artifiction - void</h2><h2 id="下单了一块iPhone-SE2的外屏总成"><a href="#下单了一块iPhone-SE2的外屏总成" class="headerlink" title="下单了一块iPhone SE2的外屏总成"></a>下单了一块iPhone SE2的外屏总成</h2><p>准备下周把这块裂掉的屏幕换掉。</p>
+<h2 id="真的开始写代码了，就觉得自己真的快好了"><a href="#真的开始写代码了，就觉得自己真的快好了" class="headerlink" title="真的开始写代码了，就觉得自己真的快好了"></a>真的开始写代码了，就觉得自己真的快好了</h2><p>感觉自己的代码能力慢慢恢复了。离我的巅峰时刻就差把身上多余的体重减下来了。</p>
+<p>下个决心？</p>
+<hr>
+<p>EOF.</p>
+<p>明天早上4点45分要开始工作。</p>
+]]></content>
+      <categories>
+        <category>Weekly Diary</category>
+      </categories>
+      <tags>
+        <tag>Culture</tag>
+        <tag>Buying</tag>
+        <tag>Dev</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-Week16</title>
+    <url>/2021/04/26/2021-Week16/</url>
+    <content><![CDATA[<h2 id="连周记都拖更了…"><a href="#连周记都拖更了…" class="headerlink" title="连周记都拖更了…"></a>连周记都拖更了…</h2><p>主要是周日还要上班，然后用Power Apps用上头了导致我周日没写周记。</p>
+<h2 id="买了iPhone-SE-2屏幕总成，然后退货了"><a href="#买了iPhone-SE-2屏幕总成，然后退货了" class="headerlink" title="买了iPhone SE 2屏幕总成，然后退货了"></a>买了iPhone SE 2屏幕总成，然后退货了</h2><p>主要是全部重新装回去封盖以后屏幕右半边会出现白线和误触的情况。</p>
+<h2 id="散装冷冻鳗鱼买来加热拌饭是真的香！"><a href="#散装冷冻鳗鱼买来加热拌饭是真的香！" class="headerlink" title="散装冷冻鳗鱼买来加热拌饭是真的香！"></a>散装冷冻鳗鱼买来加热拌饭是真的香！</h2><h2 id="直播内加入了socket-io做实时评论区"><a href="#直播内加入了socket-io做实时评论区" class="headerlink" title="直播内加入了socket.io做实时评论区"></a>直播内加入了socket.io做实时评论区</h2><h2 id="预购了Apple-TV-6"><a href="#预购了Apple-TV-6" class="headerlink" title="预购了Apple TV 6"></a>预购了Apple TV 6</h2><p>对，就是新出的Apple TV 4K。</p>
+<p>六月初估计就能收到了。</p>
+<h2 id="这周结束又要放假了"><a href="#这周结束又要放假了" class="headerlink" title="这周结束又要放假了"></a>这周结束又要放假了</h2><p>一开始做开发的事情，就不知道怎么放假了。</p>
+<hr>
+<p>EOF.</p>
+]]></content>
+      <categories>
+        <category>Weekly Diary</category>
+      </categories>
+      <tags>
+        <tag>Buying</tag>
+        <tag>Dev</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-Week17</title>
+    <url>/2021/05/02/2021-Week17/</url>
+    <content><![CDATA[<h2 id="升级手机至iPhone-12-Pro"><a href="#升级手机至iPhone-12-Pro" class="headerlink" title="升级手机至iPhone 12 Pro"></a>升级手机至iPhone 12 Pro</h2><p>作为给自己的生日礼物。</p>
+<p>再见了，我的SE 2。</p>
+<p>用来拍视频真的不错。</p>
+<h2 id="我终于可以在Noita传送至东面了。"><a href="#我终于可以在Noita传送至东面了。" class="headerlink" title="我终于可以在Noita传送至东面了。"></a>我终于可以在Noita传送至东面了。</h2><h2 id="好好放假，还有两天。"><a href="#好好放假，还有两天。" class="headerlink" title="好好放假，还有两天。"></a>好好放假，还有两天。</h2><p>—</p>
+<p>EOF.</p>
+]]></content>
+      <categories>
+        <category>Weekly Diary</category>
+      </categories>
+      <tags>
+        <tag>Gaming</tag>
+        <tag>Buying</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-Week18</title>
+    <url>/2021/05/09/2021-Week18/</url>
+    <content><![CDATA[<h2 id="天气热的晚上睡觉不停出汗"><a href="#天气热的晚上睡觉不停出汗" class="headerlink" title="天气热的晚上睡觉不停出汗"></a>天气热的晚上睡觉不停出汗</h2><p>以后不能在自己房间睡了。</p>
+<h2 id="两面包夹芝士"><a href="#两面包夹芝士" class="headerlink" title="两面包夹芝士"></a>两面包夹芝士</h2><p>“这白开水怎么没味啊？”</p>
+<p>连不玩明日方舟的都知道这个梗了。</p>
+<h2 id="周六放假"><a href="#周六放假" class="headerlink" title="周六放假"></a>周六放假</h2><p>对，周六原来是要上班的。</p>
+<h2 id="漫威电影宇宙第一阶段全部电影iTunes降价"><a href="#漫威电影宇宙第一阶段全部电影iTunes降价" class="headerlink" title="漫威电影宇宙第一阶段全部电影iTunes降价"></a>漫威电影宇宙第一阶段全部电影iTunes降价</h2><p>第一次降价至8美元。</p>
+<hr>
+<p>EOF.</p>
+]]></content>
+      <categories>
+        <category>Weekly Diary</category>
+      </categories>
+      <tags>
+        <tag>iTunes</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-Week19</title>
+    <url>/2021/05/16/2021-Week19/</url>
+    <content><![CDATA[<h2 id="天气开始热起来了"><a href="#天气开始热起来了" class="headerlink" title="天气开始热起来了"></a>天气开始热起来了</h2><p>这个时间段，每下一场雨，温度就高一截，然后就夏天了。</p>
+<h2 id="这周在不停的咳嗽中度过。"><a href="#这周在不停的咳嗽中度过。" class="headerlink" title="这周在不停的咳嗽中度过。"></a>这周在不停的咳嗽中度过。</h2><h2 id="准备打打黑龙，打完装备齐了就退坑了"><a href="#准备打打黑龙，打完装备齐了就退坑了" class="headerlink" title="准备打打黑龙，打完装备齐了就退坑了"></a>准备打打黑龙，打完装备齐了就退坑了</h2><p>真的是靠猫帮忙打素材做装备。</p>
+<h2 id="雨夜走路"><a href="#雨夜走路" class="headerlink" title="雨夜走路"></a>雨夜走路</h2><p>下班以后，下雨从徐家汇散步走到南京东路，到家晚上11点半。</p>
+<hr>
+<p>EOF.</p>
+]]></content>
+      <categories>
+        <category>Weekly Diary</category>
+      </categories>
+      <tags>
+        <tag>Gaming</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-Week20</title>
+    <url>/2021/05/23/2021-Week20/</url>
+    <content><![CDATA[<h2 id="终于能够一个人刷刷黑龙了"><a href="#终于能够一个人刷刷黑龙了" class="headerlink" title="终于能够一个人刷刷黑龙了"></a>终于能够一个人刷刷黑龙了</h2><h2 id="下周都在办公室"><a href="#下周都在办公室" class="headerlink" title="下周都在办公室"></a>下周都在办公室</h2><h2 id="袁隆平逝世"><a href="#袁隆平逝世" class="headerlink" title="袁隆平逝世"></a>袁隆平逝世</h2><p>解决国家并协助别国的粮食问题，先生千古。</p>
+<h2 id="美区App-Store的免费榜第一居然是英雄学院的手游"><a href="#美区App-Store的免费榜第一居然是英雄学院的手游" class="headerlink" title="美区App Store的免费榜第一居然是英雄学院的手游"></a>美区App Store的免费榜第一居然是英雄学院的手游</h2><h2 id="iTunes美区"><a href="#iTunes美区" class="headerlink" title="iTunes美区"></a>iTunes美区</h2><p>Leon the Professional<br>The Godfather Trilogy<br>Alien 4-Movie Collection<br>Annihilation / Arrival Double Feature</p>
+<h2 id="Apple-TV-4K还有半个月到达上海"><a href="#Apple-TV-4K还有半个月到达上海" class="headerlink" title="Apple TV 4K还有半个月到达上海"></a>Apple TV 4K还有半个月到达上海</h2><hr>
+<p>EOF.</p>
+]]></content>
+      <categories>
+        <category>Weekly Diary</category>
+      </categories>
+      <tags>
+        <tag>iTunes</tag>
+        <tag>Gaming</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-Week21</title>
+    <url>/2021/05/30/2021-Week21/</url>
+    <content><![CDATA[<h2 id="这个Milestone是："><a href="#这个Milestone是：" class="headerlink" title="这个Milestone是："></a>这个Milestone是：</h2><p>炉石传说狂野在月底达到传说段位。</p>
+<p>火妖法15胜1负从狂野钻石3冲到传说。</p>
+<p>58541.</p>
+<h2 id="Friends-The-Reunion"><a href="#Friends-The-Reunion" class="headerlink" title="Friends: The Reunion"></a>Friends: The Reunion</h2><p>HBO Max首播观看。</p>
+<p>没怎么看过老友记，但是知道基本剧情的。</p>
+<p>这个布景还原切换还是非常震撼的。</p>
+<h2 id="Linksys-MX10600"><a href="#Linksys-MX10600" class="headerlink" title="Linksys MX10600"></a>Linksys MX10600</h2><p>又又又把工资浪没了。</p>
+<p>这组路由器换上以后WiFi 5和6在全屋是可以跑满的。</p>
+<p><del>就是贵了一点。</del></p>
+<h2 id="我的Apple-TV-4K明天就到"><a href="#我的Apple-TV-4K明天就到" class="headerlink" title="我的Apple TV 4K明天就到"></a>我的Apple TV 4K明天就到</h2><p>差点在今天就到了，京东快递从杭州到上海半当中花的时间有点长导致今天没有收到。</p>
+<hr>
+<p>EOF.</p>
+]]></content>
+      <categories>
+        <category>Weekly Diary</category>
+      </categories>
+      <tags>
+        <tag>Culture</tag>
+        <tag>Gaming</tag>
+        <tag>Milestone</tag>
+        <tag>Buying</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-Week22</title>
+    <url>/2021/06/06/2021-Week22/</url>
+    <content><![CDATA[<h2 id="Apple-TV-4K到货"><a href="#Apple-TV-4K到货" class="headerlink" title="Apple TV 4K到货"></a>Apple TV 4K到货</h2><p>对于在苹果购买了不少电影电视资源的用户，Apple TV 4K是一个非常好的终端。</p>
+<h2 id="完成0猫杀黑龙成就"><a href="#完成0猫杀黑龙成就" class="headerlink" title="完成0猫杀黑龙成就"></a>完成0猫杀黑龙成就</h2><h2 id="Wildcard证书启用"><a href="#Wildcard证书启用" class="headerlink" title="Wildcard证书启用"></a>Wildcard证书启用</h2><p>这样我只需要90天更新一次证书即可。</p>
+<h2 id="在考虑自己做一个新的软件"><a href="#在考虑自己做一个新的软件" class="headerlink" title="在考虑自己做一个新的软件"></a>在考虑自己做一个新的软件</h2><p>就是只放字幕的小软件，因为iTunes播放无法直接外挂字幕，且实在懒得去转换资源。</p>
+<hr>
+<p>EOF.</p>
+]]></content>
+      <categories>
+        <category>Weekly Diary</category>
+      </categories>
+      <tags>
+        <tag>iTunes</tag>
+        <tag>Gaming</tag>
+        <tag>Dev</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-Week23</title>
+    <url>/2021/06/14/2021-Week23/</url>
+    <content><![CDATA[<h2 id="端午节加班。"><a href="#端午节加班。" class="headerlink" title="端午节加班。"></a>端午节加班。</h2><h2 id="The-Friends上周70美元，这周60美元。"><a href="#The-Friends上周70美元，这周60美元。" class="headerlink" title="The Friends上周70美元，这周60美元。"></a>The Friends上周70美元，这周60美元。</h2><p>跟风Reunion买全集的人血亏。</p>
+<h2 id="居然枯燥到一点东西都写不出来了。"><a href="#居然枯燥到一点东西都写不出来了。" class="headerlink" title="居然枯燥到一点东西都写不出来了。"></a>居然枯燥到一点东西都写不出来了。</h2><p>生活本该如此…？</p>
+<hr>
+<p>EOF.</p>
+]]></content>
+      <categories>
+        <category>Weekly Diary</category>
+      </categories>
+      <tags>
+        <tag>Happy Work</tag>
+        <tag>iTunes</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-Week24</title>
+    <url>/2021/06/20/2021-Week24/</url>
+    <content><![CDATA[<h2 id="Apple-TV-4K的确方便"><a href="#Apple-TV-4K的确方便" class="headerlink" title="Apple TV 4K的确方便"></a>Apple TV 4K的确方便</h2><p>但是它会反向逼你使用更好的电视屏幕和音响系统。</p>
+<p>4K屏幕下可以在部分电影下拥有动态的iTunes Extra我在之前没有提及，以为是bug，结果是feature。</p>
+<h2 id="Korg厂App-Store的App半价"><a href="#Korg厂App-Store的App半价" class="headerlink" title="Korg厂App Store的App半价"></a>Korg厂App Store的App半价</h2><p>几个音色内购直接清空了我的iTunes钱包。</p>
+<h2 id="准备写读书笔记？"><a href="#准备写读书笔记？" class="headerlink" title="准备写读书笔记？"></a>准备写读书笔记？</h2><p>和减肥一样，这样的目标看着笑笑就好…</p>
+<hr>
+<p>EOF.</p>
+]]></content>
+      <categories>
+        <category>Weekly Diary</category>
+      </categories>
+      <tags>
+        <tag>Culture</tag>
+        <tag>iTunes</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-Week28</title>
+    <url>/2021/07/18/2021-Week28/</url>
+    <content><![CDATA[<h2 id="Week25-Week27去哪里了？"><a href="#Week25-Week27去哪里了？" class="headerlink" title="Week25-Week27去哪里了？"></a>Week25-Week27去哪里了？</h2><p>极限竞速：地平线4太好玩了。</p>
+<p><del>以至于之后可能还会鸽周记</del></p>
+<h2 id="公司组织Family-Outing"><a href="#公司组织Family-Outing" class="headerlink" title="公司组织Family Outing"></a>公司组织Family Outing</h2><p>无锡拈花湾。</p>
+<h2 id="考了个Power-Platform的认证"><a href="#考了个Power-Platform的认证" class="headerlink" title="考了个Power Platform的认证"></a>考了个Power Platform的认证</h2><p>基本一星的认证都是背题了。</p>
+<h2 id="海外加速重新申请"><a href="#海外加速重新申请" class="headerlink" title="海外加速重新申请"></a>海外加速重新申请</h2><h2 id="居然把SONY-VGN-UX27CN卖出去了"><a href="#居然把SONY-VGN-UX27CN卖出去了" class="headerlink" title="居然把SONY VGN-UX27CN卖出去了"></a>居然把SONY VGN-UX27CN卖出去了</h2><p>挂在闲鱼上居然有人买了。</p>
+<h2 id="准备找个地方把第二针疫苗打了"><a href="#准备找个地方把第二针疫苗打了" class="headerlink" title="准备找个地方把第二针疫苗打了"></a>准备找个地方把第二针疫苗打了</h2><h2 id="无线网络换了个位置布置让我房间的网速提升了不少"><a href="#无线网络换了个位置布置让我房间的网速提升了不少" class="headerlink" title="无线网络换了个位置布置让我房间的网速提升了不少"></a>无线网络换了个位置布置让我房间的网速提升了不少</h2><hr>
+<p>EOF.</p>
+]]></content>
+      <categories>
+        <category>Weekly Diary</category>
+      </categories>
+      <tags>
+        <tag>Gaming</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-Week29</title>
+    <url>/2021/07/25/2021-Week29/</url>
+    <content><![CDATA[<h2 id="iTunes降价"><a href="#iTunes降价" class="headerlink" title="iTunes降价"></a>iTunes降价</h2><p>Rick and Morty, Season 5首播结束后降价至15美元；</p>
+<p>Memento降价至5美元；</p>
+<p>Nobody Knows降价至5美元。</p>
+<h2 id="4K-144Hz显示屏我退货了"><a href="#4K-144Hz显示屏我退货了" class="headerlink" title="4K 144Hz显示屏我退货了"></a>4K 144Hz显示屏我退货了</h2><p>综合考虑了一下，还是不买了。</p>
+<p>成功阻止了一次消费冲动。</p>
+<h2 id="疫苗第二针打好了"><a href="#疫苗第二针打好了" class="headerlink" title="疫苗第二针打好了"></a>疫苗第二针打好了</h2><h2 id="周日和下周一狂风大作"><a href="#周日和下周一狂风大作" class="headerlink" title="周日和下周一狂风大作"></a>周日和下周一狂风大作</h2><p>周一在家上班。</p>
+<p>本来地铁也乘不了。</p>
+<hr>
+<p>EOF.</p>
+]]></content>
+      <categories>
+        <category>Weekly Diary</category>
+      </categories>
+      <tags>
+        <tag>iTunes</tag>
+        <tag>Buying</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-Week31</title>
+    <url>/2021/08/08/2021-Week31/</url>
+    <content><![CDATA[<h2 id="购买了两块希捷Exos-16T硬盘"><a href="#购买了两块希捷Exos-16T硬盘" class="headerlink" title="购买了两块希捷Exos 16T硬盘"></a>购买了两块希捷Exos 16T硬盘</h2><p>硬盘价格基本是下来了。16T 2000元相对来说比较合理了。</p>
+<p>相当于1T 125元的全新盘。</p>
+<h2 id="这周的任务就是把代码正经的写好"><a href="#这周的任务就是把代码正经的写好" class="headerlink" title="这周的任务就是把代码正经的写好"></a>这周的任务就是把代码正经的写好</h2><p>养兵千日用兵一时。</p>
+<h2 id="想法"><a href="#想法" class="headerlink" title="想法"></a>想法</h2><p>周记不知道还能写出些什么，生活平淡而无趣。</p>
+<p>最近考虑脱离B站，看看自己买的美剧和大学留下的书。</p>
+<p>这样就不用报流水账了。</p>
+<hr>
+<p>EOF.</p>
+]]></content>
+      <categories>
+        <category>Weekly Diary</category>
+      </categories>
+      <tags>
+        <tag>Hardware</tag>
+        <tag>Challenge</tag>
+        <tag>Buying</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021-Week32</title>
+    <url>/2021/08/17/2021-Week32/</url>
+    <content><![CDATA[<h2 id="正经地写代码"><a href="#正经地写代码" class="headerlink" title="正经地写代码"></a>正经地写代码</h2><p>其实也不全是写代码，而是需求分析占大多数，通过需求分析，对特定行业的术语和规范加以了解。</p>
+<h2 id="Vultr还是把主页重新挂上了"><a href="#Vultr还是把主页重新挂上了" class="headerlink" title="Vultr还是把主页重新挂上了"></a>Vultr还是把主页重新挂上了</h2><p>以后不做proxy到自家服务器上了，因为暂时没有什么需求。</p>
+<h2 id="About页面更新"><a href="#About页面更新" class="headerlink" title="About页面更新"></a>About页面更新</h2><p>因为网站已经不用444端口，将去除。</p>
+<hr>
+<p>Week33写Week32的事情，生活需要些动力，从上周开始重新学习，也的确开始行动了。</p>
+<p>EOF.</p>
+]]></content>
+      <categories>
+        <category>Weekly Diary</category>
+      </categories>
+      <tags>
+        <tag>Coding</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021年01月01日</title>
+    <url>/2021/01/01/20210101/</url>
+    <content><![CDATA[<h2 id="睡了一天。"><a href="#睡了一天。" class="headerlink" title="睡了一天。"></a>睡了一天。</h2><p>果然是早班累，一能睡就能睡很久。睡起来没个期限。</p>
+<hr>
+<p>EOF.</p>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>Sleeping</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021年01月02日</title>
+    <url>/2021/01/02/20210102/</url>
+    <content><![CDATA[<h2 id="Nightwalk"><a href="#Nightwalk" class="headerlink" title="Nightwalk"></a>Nightwalk</h2><p>买了双新鞋子，走路又走到了南京东路。</p>
+<p>在写下这句话的时候，在Apple Store at 南京东路。</p>
+<h2 id="远程点外卖"><a href="#远程点外卖" class="headerlink" title="远程点外卖"></a>远程点外卖</h2><p>在四川北路买鸡排往自己家送，家里荤的就靠这个了哈哈哈哈。</p>
+<h2 id="平板拍照总感觉颗粒感十足"><a href="#平板拍照总感觉颗粒感十足" class="headerlink" title="平板拍照总感觉颗粒感十足"></a>平板拍照总感觉颗粒感十足</h2><p>难道是iPhone的屏幕小的原因么？在iPad上看相机界面像是油画一样🤨。</p>
+<hr>
+<p>EOF.</p>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>Software</tag>
+        <tag>Buying</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021年01月03日</title>
+    <url>/2021/01/03/20210103/</url>
+    <content><![CDATA[<h2 id="下午忙到半夜"><a href="#下午忙到半夜" class="headerlink" title="下午忙到半夜"></a>下午忙到半夜</h2><p>Windows Vista的跨盘系统映像在只有一台USB的机器上简直就是灾难，我已经开始考虑用Ghost来写磁盘镜像了。</p>
+<p>还有一个方法是用虚拟光驱骗过Windows生成系统修复镜像，之前恢复分区vhd做U盘不太行，还需要琢磨一下。</p>
+<h2 id="工作台布局稍作改变"><a href="#工作台布局稍作改变" class="headerlink" title="工作台布局稍作改变"></a>工作台布局稍作改变</h2><p>原本想将准系统往楼上搬，然后一根网线连到核心服务器上，也开个远程桌面连接统一管理，结果USB接口是刚需，又搬下来，放在右上角，水冷放在最右侧，中间放iPad Pro和XPS 13。远程桌面用无线+第一层端口映射完成，平时不开这个端口，需要高强度计算的时候可以打开做任务。</p>
+<h2 id="SharePoint考虑自己也做server端玩玩"><a href="#SharePoint考虑自己也做server端玩玩" class="headerlink" title="SharePoint考虑自己也做server端玩玩"></a>SharePoint考虑自己也做server端玩玩</h2><p>我明年的工作目标之一就是SharePoint编程，正好可以试试手。</p>
+<hr>
+<p>EOF.</p>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>Software</tag>
+        <tag>Hardware</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021年01月19日</title>
+    <url>/2021/01/19/20210119/</url>
+    <content><![CDATA[<h2 id="iTunes美区电影降价"><a href="#iTunes美区电影降价" class="headerlink" title="iTunes美区电影降价"></a>iTunes美区电影降价</h2><p>能今天写的降价都肯定是非常超值的了。</p>
+<ul>
+<li><p>Pirates of the Caribbean五部均<strong>第一次</strong>降至5美元最低价。</p>
+</li>
+<li><p>National Treasure两部均<strong>第一次</strong>降至5美元最低价。（评分低但是是我英语启蒙的几部电影之一）</p>
+</li>
+<li><p>TENET第一次降价至13美元。（估计是卖不出去了，和花木兰的降价情况类似）</p>
+</li>
+</ul>
+<p>最终购买：</p>
+<p>Pirates of the Caribbean: The Curse of the Black Pearl<br>Pirates of the Caribbean: Dead Man’s Chest<br>Pirates of the Caribbean: At World’s End</p>
+<hr>
+<p>EOF.</p>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>iTunes</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021年3月6日-3月7日</title>
+    <url>/2021/03/06/20210306-07/</url>
+    <content><![CDATA[<h2 id="今年第一个假期开始"><a href="#今年第一个假期开始" class="headerlink" title="今年第一个假期开始"></a>今年第一个假期开始</h2><p>48小时耐久直播？行啊。</p>
+<div style="text-align:center">
+<a href="https://www.douyu.com/vmarkii">https://www.douyu.com/vmarkii</a>
+</div>
+
+<p><script type="text/javascript">function countTime() {var date = new Date(); var now = date.getTime();var str="2021/03/08 00:00:00";var endDate = new Date(str);var end = endDate.getTime();var leftTime = end-now;var h,m,s;if (leftTime>=0) {h = Math.floor(leftTime/1000/60/60);m = Math.floor(leftTime/1000/60%60);s = Math.floor(leftTime/1000%60);document.getElementById("_h").innerHTML = h+" Hour";document.getElementById("_m").innerHTML = m+" Minute";if (m < 10) document.getElementById("_m").innerHTML = "0" + document.getElementById("_m").innerHTML;document.getElementById("_s").innerHTML = s+" Second";if (s < 10) document.getElementById("_s").innerHTML = "0" + document.getElementById("_s").innerHTML;if (h != 1) document.getElementById("_h").innerHTML += "s"; if (m != 1) document.getElementById("_m").innerHTML += "s"; if (s != 1) document.getElementById("_s").innerHTML += "s"; setTimeout(countTime,1000);}}</script></p>
+<body onload="countTime()" >
+    <div style="text-align:center">
+        <span id="_h">0 Hours</span>
+        <span id="_m">00 Minutes</span>
+        <span id="_s">00 Seconds</span>
+    </div>
+</body>
+
+<p>第九周周记也会在直播中完成。</p>
+<h2 id="定个计划列表？"><a href="#定个计划列表？" class="headerlink" title="定个计划列表？"></a>定个计划列表？</h2><p>[ ] 使用Hyper-V搭建两个操作系统，Windows 10和CentOS；<br>[ ] Flask替代IIS完成对网站页面的响应；<br>[ ] Flask使用https证书提高网站安全性；<br>[ ] 使用nginx制作一个自己的直播服务器并且完成推拉流；<br>[ ] 如何一张证书同时使用于Flask和nginx？是否需要Wildcard DV？</p>
+<h2 id="当然，如果你听见我在放音乐并且屏幕上只有一个倒计时，那我就在睡觉，不用怀疑。"><a href="#当然，如果你听见我在放音乐并且屏幕上只有一个倒计时，那我就在睡觉，不用怀疑。" class="headerlink" title="当然，如果你听见我在放音乐并且屏幕上只有一个倒计时，那我就在睡觉，不用怀疑。"></a>当然，如果你听见我在放音乐并且屏幕上只有一个倒计时，那我就在睡觉，不用怀疑。</h2><h2 id="上周的周记居然忘记写Daft-Punk解散这事了"><a href="#上周的周记居然忘记写Daft-Punk解散这事了" class="headerlink" title="上周的周记居然忘记写Daft Punk解散这事了"></a>上周的周记居然忘记写Daft Punk解散这事了</h2><h1 id="Daft-Punk解散了。"><a href="#Daft-Punk解散了。" class="headerlink" title="Daft Punk解散了。"></a><strong><em>Daft Punk解散了。</em></strong></h1><h1 id="？？？？？？？？"><a href="#？？？？？？？？" class="headerlink" title="？？？？？？？？"></a><strong><em>？？？？？？？？</em></strong></h1><h1 id="真就解散了也不把Alive-2007视频放出来呗？"><a href="#真就解散了也不把Alive-2007视频放出来呗？" class="headerlink" title="真就解散了也不把Alive 2007视频放出来呗？"></a><strong><em>真就解散了也不把Alive 2007视频放出来呗？</em></strong></h1><hr>
+<p>EOF.</p>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>Challenge</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2022年02月06日</title>
+    <url>/2022/02/06/20220206/</url>
+    <content><![CDATA[<p>壬寅年 虎年。</p>
+<h2 id="4K-144Hz-10bit-HDR"><a href="#4K-144Hz-10bit-HDR" class="headerlink" title="4K 144Hz 10bit HDR"></a>4K 144Hz 10bit HDR</h2><h2 id="春晚"><a href="#春晚" class="headerlink" title="春晚"></a>春晚</h2><p>Bruh.</p>
+<h2 id="大年初一的2022世界杯亚洲区预选赛"><a href="#大年初一的2022世界杯亚洲区预选赛" class="headerlink" title="大年初一的2022世界杯亚洲区预选赛"></a>大年初一的2022世界杯亚洲区预选赛</h2><p>国足1：3不敌越南。</p>
+<p>Bruh.</p>
+<p><del>给越南球迷拜年了！</del></p>
+<h2 id="G-SHOCK-GW-B5600-1BPR"><a href="#G-SHOCK-GW-B5600-1BPR" class="headerlink" title="G-SHOCK GW-B5600-1BPR"></a>G-SHOCK GW-B5600-1BPR</h2><p>Bluetooth, Multi Band 6 and Tough Solar.</p>
+<h2 id="LEGO-42123和LEGO-42124"><a href="#LEGO-42123和LEGO-42124" class="headerlink" title="LEGO 42123和LEGO 42124"></a>LEGO 42123和LEGO 42124</h2><p>42124送小孩了，42123可以自己玩。</p>
+<p>搭了3个小时多，可以手机遥控有点东西的。</p>
+<h2 id="新年假期即将结束"><a href="#新年假期即将结束" class="headerlink" title="新年假期即将结束"></a>新年假期即将结束</h2><p>有很多工作在一天后到达战场。</p>
+<h2 id="以后学习笔记将会放置在自己的代码源内"><a href="#以后学习笔记将会放置在自己的代码源内" class="headerlink" title="以后学习笔记将会放置在自己的代码源内"></a>以后学习笔记将会放置在自己的代码源内</h2><p><a href="https://git.vmarkii.com/VMarkII/vmarkii-learning-portal">https://git.vmarkii.com/VMarkII/vmarkii-learning-portal</a></p>
+<hr>
+<p>EOF.</p>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>Buying</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021年11月16日</title>
+    <url>/2021/11/16/20211116/</url>
+    <content><![CDATA[<p>终于有一天，这个人想起了自己还有一个博客三个月没更新了。</p>
+<h2 id="硬件升级"><a href="#硬件升级" class="headerlink" title="硬件升级"></a>硬件升级</h2><p>再见了我的蓝天准系统。</p>
+<p>换成了R9 5900X+ASUS ProArt X570+RTX 3080 LHR。</p>
+<h2 id="正经地写好了代码"><a href="#正经地写好了代码" class="headerlink" title="正经地写好了代码"></a>正经地<strong>写好了</strong>代码</h2><p>公司内的代码任务算是顺利完成了。</p>
+<p>Python 3的第一个项目，和pdfplumber打了交道，有很多坑，但是最后都解决了。</p>
+<h2 id="开始放长假"><a href="#开始放长假" class="headerlink" title="开始放长假"></a>开始放长假</h2><p>从11月13日到11月28日。</p>
+<p><strong>快点出去走路+运动啊，不然真的要胖死了！！！</strong></p>
+<h2 id="买了一个iPod-Touch-5"><a href="#买了一个iPod-Touch-5" class="headerlink" title="买了一个iPod Touch 5"></a>买了一个iPod Touch 5</h2><p>iOS 6.1.3，它的音乐播放界面我可以用到天荒地老。</p>
+<p>有些时候，陈旧的才是最好的。</p>
+<h2 id="地平线5那是真的好玩！！！"><a href="#地平线5那是真的好玩！！！" class="headerlink" title="地平线5那是真的好玩！！！"></a><em>地平线5那是真的好玩！！！</em></h2><hr>
+<p>这几天准备安心的把想看的电影和剧看完。</p>
+<p>EOF.</p>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>Hardware</tag>
+        <tag>Coding</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2022年01月20日</title>
+    <url>/2022/01/20/20220120/</url>
+    <content><![CDATA[<p>两个月过去了。</p>
+<p>觉得给父亲用<strong>i7 8700 + 64GB DDR4</strong>来炒股有亿点奢侈，故把之前间歇开不了机的i5 4590 + 16GB DDR3给修好（原因是CPU扣具过紧导致内存一个通道接触不良无法开机），把硬盘换成850 Pro 512G装系统。总体效果不错。</p>
+<p>i7 8700 + 64GB DDR4重新利用于ITX，将海康威视C2000 Pro 1T nvme固态装上Windows Server 2019 RTM，将原装的NAS 3-SATA的背板装回来把一块Exos 16T接上。</p>
+<p>现在你看到的 <a href="https://vmarkii.com">https://vmarkii.com</a> 和 <a href="https://vmarkii.com/live.html">https://vmarkii.com/live.html</a> 都在这台ITX上跑的，www.vmarkii.com和*.vmarkii.com的HTTPS证书通过Vultr的一个实例自动获取，然后nginx反向代理到自己家里的ITX上。</p>
+<p>而且之前250W 1U电源间歇关机的问题我好像也在这次装机时解决了。原因可能是装1U电源的螺丝过长。我使用短螺丝固定，电源部件就不会碰到螺丝了。现在开了1周没有断电。</p>
+<h2 id="2022年第一天去广西喝喜酒"><a href="#2022年第一天去广西喝喜酒" class="headerlink" title="2022年第一天去广西喝喜酒"></a>2022年第一天去广西喝喜酒</h2><p>一个一个月不出小区，三个月不出城区，一百年不出上海市的人，去广西来宾市喝喜酒。</p>
+<p>下飞机由于当时上海有中风险地区要48小时核酸，简直是顶风作案。</p>
+<p>很庆幸自己没有中招。</p>
+<p>小店的螺蛳粉还不错。</p>
+<h2 id="HBO-Max开始订阅"><a href="#HBO-Max开始订阅" class="headerlink" title="HBO Max开始订阅"></a>HBO Max开始订阅</h2><p>Apple TV 4K买来不买Disney+或者HBO Max就是浪费。</p>
+<p>如果说好的电影在iTunes Store上蹲低价买入，那么其他不想买的电影在HBO Max上看完就行了。</p>
+<h2 id="Netgear-R8000P刷OpenWrt"><a href="#Netgear-R8000P刷OpenWrt" class="headerlink" title="Netgear R8000P刷OpenWrt"></a>Netgear R8000P刷OpenWrt</h2><p>第一次拆路由器刷成功，手贱在OpenWrt的环境刷Merlin固件导致CFE和Bootloader刷坏，去闲鱼找人用编程器刷好固件送回来，自己编译固件让OpenWrt可以跑trojan翻墙。</p>
+<p>这个算Milestone。我可以在tag上加一个。</p>
+<p>虽然这个路由器的无线功能没了，但是只要连一根网线从LAN口到Internet，然后四个WAN口直接翻墙。无敌。现在第二根网线连一个TP-Link Wifi 5无线路由器，Apple TV 4K连上Wi-Fi直接看HBO Max和YouTube稳得一逼。</p>
+<h2 id="以前的直播服务器重新开张"><a href="#以前的直播服务器重新开张" class="headerlink" title="以前的直播服务器重新开张"></a>以前的直播服务器重新开张</h2><p><a href="https://vmarkii.com/live.html">https://vmarkii.com/live.html</a></p>
+<p>以后按心情推流Apple TV的内容或者游戏都可以。</p>
+<p>现在有个问题是直播会不定时断流，这个还要看看。</p>
+<h2 id="脱离Bilibili手机端"><a href="#脱离Bilibili手机端" class="headerlink" title="脱离Bilibili手机端"></a>脱离Bilibili手机端</h2><p>和抖音快手一样，这个东西不能多看。在网页上看看想要的就行。</p>
+<h2 id="微软收购动视暴雪"><a href="#微软收购动视暴雪" class="headerlink" title="微软收购动视暴雪"></a>微软收购动视暴雪</h2><h2 id="黑客帝国4"><a href="#黑客帝国4" class="headerlink" title="黑客帝国4"></a>黑客帝国4</h2><p>作为动作片合格了，电影前半个小时嘲讽Warner Bros.是这部电影最精彩的部分了。<del><strong><em>我嘲讽我自己</em></strong></del></p>
+<hr>
+<p>EOF.</p>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>Hardware</tag>
+        <tag>Milestone</tag>
+        <tag>Buying</tag>
+        <tag>Coding</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2022年02月27日</title>
+    <url>/2022/02/27/20220227/</url>
+    <content><![CDATA[<h2 id="D-A-F-T的文件在archive-org上找到了"><a href="#D-A-F-T的文件在archive-org上找到了" class="headerlink" title="D.A.F.T的文件在archive.org上找到了"></a>D.A.F.T的文件在archive.org上找到了</h2><p><a href="https://archive.org/details/ds-store_202102/D.A.F.T.">https://archive.org/details/ds-store_202102/D.A.F.T.</a></p>
+<h2 id="入手了一套Daft-Punk的专辑合集"><a href="#入手了一套Daft-Punk的专辑合集" class="headerlink" title="入手了一套Daft Punk的专辑合集"></a>入手了一套Daft Punk的专辑合集</h2><p><a href="https://www.discogs.com/master/1397532-Daft-Punk-Musique-Vol-1-1993-2005-Daft-Club-Daft-Punk-Leji-Matsumotos-Interstella-5555-The-5tory-Of-">https://www.discogs.com/master/1397532-Daft-Punk-Musique-Vol-1-1993-2005-Daft-Club-Daft-Punk-Leji-Matsumotos-Interstella-5555-The-5tory-Of-</a></p>
+<h2 id="终于把新年用的钱全部贴上了"><a href="#终于把新年用的钱全部贴上了" class="headerlink" title="终于把新年用的钱全部贴上了"></a>终于把新年用的钱全部贴上了</h2><p>是时候开始节约用钱了。</p>
+<p>毕竟节约用钱也可以让自己不用选择纠结。一律不在需要选择的时候花钱，必须要买的就有足够的钱直接买，想着要不要买的直接不买不就完事了。</p>
+<h2 id="准备在ETH转成PoS之前再挖一些"><a href="#准备在ETH转成PoS之前再挖一些" class="headerlink" title="准备在ETH转成PoS之前再挖一些"></a>准备在ETH转成PoS之前再挖一些</h2><p>作为一个虚拟资金种类，准备在低位再屯一些。</p>
+<h2 id="注意自己要开始有总资产的概念了"><a href="#注意自己要开始有总资产的概念了" class="headerlink" title="注意自己要开始有总资产的概念了"></a>注意自己要开始有总资产的概念了</h2><p>如果说大学毕业开始工作后赚钱可以为了完成小时候的梦想而赚钱，那么现在就要开始省钱了。<del>（年纪大了连日记的画风都变了）</del></p>
+<p>定个小目标，从现在开始年底攒个6位数吧。（虽然第一位是1呜呜呜，毕竟只是一个小职员）</p>
+<h2 id="老头环-Elden-Ring-暂时不入手"><a href="#老头环-Elden-Ring-暂时不入手" class="headerlink" title="老头环(Elden Ring)暂时不入手"></a>老头环(Elden Ring)暂时不入手</h2><p>优化不太行，而且现在手里的显卡在屯ETH。</p>
+<p>看着网上的游戏博主被宫崎英高<del>的游戏</del>玩得死去活来，而不想让自己被宫崎英高<del>的游戏</del>玩弄，我太菜了。<del>不是</del></p>
+<h2 id="Vampire-Survivors还挺好玩的"><a href="#Vampire-Survivors还挺好玩的" class="headerlink" title="Vampire Survivors还挺好玩的"></a>Vampire Survivors还挺好玩的</h2><p>20小时全成就，边挖ETH边可以玩的游戏。</p>
+<p>死神不准备打死，因为太菜。<del>不是</del></p>
+<h2 id="Daft-Punk居然还能出新专辑"><a href="#Daft-Punk居然还能出新专辑" class="headerlink" title="Daft Punk居然还能出新专辑"></a>Daft Punk居然还能出新专辑</h2><p><a href="https://en.wikipedia.org/wiki/Daft_Punk">https://en.wikipedia.org/wiki/Daft_Punk</a></p>
+<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">On 22 February 2022, one year after their disbandment, Daft Punk announced the 25th anniversary edition of Homework alongside a reissue of Alive 1997. They also streamed a video recording of their performance at the Mayan Theater in Los Angeles from their 1997 Daftendirektour. The one-time-only broadcast featured previously-unreleased footage of the duo without costumes.</span><br></pre></td></tr></table></figure>
+<p>除了在2022年2月22日在Twitch上放出了Alive 1997的官方录像，对，这次是真的官方。还发布了一张Remix专辑。</p>
+<p><del><strong>脸都不要了</strong></del></p>
+<p>Homework (Remixes)</p>
+<p>讲道理现在看下来所有的录音室专辑都有官方的Remix专辑了。</p>
+<p>Homework -&gt; Homework (Remixes)<br>Discovery -&gt; Daft Club<br>Random Access Memories -&gt; ??????</p>
+<p>估计他们还会炒冷饭。</p>
+<p>你们是要学卡普空么？</p>
+<p>我盲猜下一次他们扑腾一下，能把RAM的Remix专辑和Alive 2007的官方录像搞出来。</p>
+<p><del>居然还有一点小期待……</del></p>
+<hr>
+<p>EOF.</p>
+<p>战争永远不能带来和平的结局，但和平的结局确确实实是战争的副产品。</p>
+<p>说说关于战争的地狱笑话没问题，但是绝对不要有渴望战争的念头。</p>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>Gaming</tag>
+        <tag>Buying</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2022年04月12日</title>
+    <url>/2022/04/12/20220412/</url>
+    <content><![CDATA[<p>一个半月过去了。这一个半月里有一个月无法出门。</p>
+<p>我在上海，见证历史。</p>
+<p>疫情前</p>
+<h2 id="购买了Latitude-5320和980-Pro-2T"><a href="#购买了Latitude-5320和980-Pro-2T" class="headerlink" title="购买了Latitude 5320和980 Pro 2T"></a>购买了Latitude 5320和980 Pro 2T</h2><p>i7-1185G7，49年入国军？其实还行，cpu-z跑分稳定下来实际相当于i7 2600K的（更不用说这个还不错的集显）。两个满速的雷电4是我买这台机器的唯一理由。</p>
+<p>三星980 Pro 2T装在我的主机上，这台主机已经是我能用到的最好配置了。</p>
+<hr>
+<p>就在这些东西到手一天以后，上海的这一轮疫情让我们见证了历史。</p>
+<p>据说是从华亭宾馆开始导致奥密克戎的蔓延。</p>
+<p>无症状感染者的数量一天比一天多。</p>
+<p>在上海开始封城（虽然媒体和政府说没有封城，但是实际没有区别）前，我（坐标松江区泗泾镇）成功出小区了两次，买牛奶和零食。</p>
+<p>从3月12日开始，除了核酸检测，没有出过家门一步。</p>
+<p>实际已经关了一个月。</p>
+<p>我们的预计解封日是4月24日，因为在4月10日检出了一例。</p>
+<p>当平日可以不费力买到的东西买不到的时候，这样恐慌的情绪是会蔓延的。我们还只是想买零食或者牛奶买不到，对于病人的药，买不到是真的会出现生命危险的。</p>
+<p>公司发了很多物资，实属不易。</p>
+<p>基层的志愿者为此付出了太多。</p>
+<hr>
+<p>不聊疫情了。很庆幸自己没有感染。</p>
+<h2 id="工资等级升级了"><a href="#工资等级升级了" class="headerlink" title="工资等级升级了"></a>工资等级升级了</h2><p>涨了10%。</p>
+<p>实际还是这点。</p>
+<h2 id="准备做一个ffmpeg命令生成器"><a href="#准备做一个ffmpeg命令生成器" class="headerlink" title="准备做一个ffmpeg命令生成器"></a>准备做一个ffmpeg命令生成器</h2><h2 id="准备做做视频？"><a href="#准备做做视频？" class="headerlink" title="准备做做视频？"></a>准备做做视频？</h2><hr>
+<p>EOF.</p>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>Buying</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2022年10月04日</title>
+    <url>/2022/10/04/20221004/</url>
+    <content><![CDATA[<p>6个月过去了。</p>
+<p>上海在6月1日逐步解封，公共出行从<strong>需要72小时核酸阴性证明（检测时间开始）</strong>到<strong>需要72小时核酸阴性证明（报告出具时间开始）或者24小时内核酸检测证明</strong>。</p>
+<h2 id="居然还是有人会看我的日记的"><a href="#居然还是有人会看我的日记的" class="headerlink" title="居然还是有人会看我的日记的"></a>居然还是有人会看我的日记的</h2><p>所以今天重新把nodejs和git重新装上更新一次日记。</p>
+<h2 id="说说自己已经买到了一些什么吧"><a href="#说说自己已经买到了一些什么吧" class="headerlink" title="说说自己已经买到了一些什么吧"></a>说说自己已经买到了一些什么吧</h2><p>Linksys MX8500 Atlas Max 6E - 我的第一个Wi-Fi 6E路由器，主要使用它的80MHz，5.8G频段的2.4Gbps<br>Gigabyte Z490 Vision D + i9 10900KF - 终极黑苹果主板<br>iPhone 5 64G - 6.1.4，iOS6终极体验<br>ADATA SX8200 2T SSD - PCIe 3.0 nvme最实惠的一个固态硬盘，用于黑苹果装备<br>Gigabyte AORUS RX5700XT 8G Gaming OC - 用于黑苹果装备<br>Gigabyte GC-TITAN RIDGE 2.0 - 雷雳3扩展卡，用于黑苹果装备<br>宏碁掠夺者Apollo RGB 2*16GB连号套条 - 3600MHz CL14-15-15-35 三星B-die，游戏专用<br>PIONEER BD-RW XD05蓝光刻录光驱 - 为了下一个物品<br>ミクの日感謝祭 Project DIVA presents 初音未来演唱会蓝光光盘 - 收藏<br>Final Cut Pro + Motion + Compressor - 苹果视频编辑三件套</p>
+<h2 id="说说自己已经卖掉了一些什么吧"><a href="#说说自己已经卖掉了一些什么吧" class="headerlink" title="说说自己已经卖掉了一些什么吧"></a>说说自己已经卖掉了一些什么吧</h2><p>DELL Latitude 5320 - 看上一篇日记<br>i7 8700 + 豆希B365M主板 - 家里旧的设备出掉防止烂在手里<br>两个NAS机箱，蜜罐超存和蜗牛星际 - 同上<br>蓝天 P650SE - 我的第一台高性能电脑 4980HQ + 970M + 32GB DDR3内存，直到今天也很能打</p>
+<h2 id="每日优鲜前置仓，其实就是每日优鲜倒闭了"><a href="#每日优鲜前置仓，其实就是每日优鲜倒闭了" class="headerlink" title="每日优鲜前置仓，其实就是每日优鲜倒闭了"></a>每日优鲜前置仓，其实就是每日优鲜倒闭了</h2><p>讲道理是由于公司发的企业账号了解到这个App的。他们家的眼肉牛排很好吃，但是每日优鲜App已经废了。</p>
+<h2 id="终极黑苹果配置"><a href="#终极黑苹果配置" class="headerlink" title="终极黑苹果配置"></a>终极黑苹果配置</h2><p><strong>组装黑苹果不是因为省钱，而是因为证明，<em>Yes, it is feasible.(这个是可行的)</em></strong></p>
+<p>Gigabyte Z490 Vision D 双雷雳3接口，而且可以刷主板DROM配合ssdt原生支持macOS的雷雳功能;<br>5700XT 原生支持macOS;<br>博通的Wifi 6和蓝牙 原生支持macOS;</p>
+<p>OpenCore已经成功引导macOS 12并完美使用。</p>
+<p>这个国庆7天假准备用Proxmox VE来实现Windows + macOS<strong>同时运行</strong>，买来的雷雳3扩展卡和主板上总共提供4个雷雳接口，2个Windows，2个macOS。</p>
+<h2 id="在路上的东西"><a href="#在路上的东西" class="headerlink" title="在路上的东西"></a>在路上的东西</h2><p>七彩虹 GTX 1660 SUPER，买它是因为Proxmox VE直通给Windows需要显卡，而且由于槽位的原因，只能单槽全高，单槽的最强显卡看下来只有1660 SUPER。<br>鑫谷昆仑KL-1000G 1000w ATX 3.0电源，买它是因为原来的海盗船rm650x炸了，而且40系显卡需要新的电源排线和插口。</p>
+<h2 id="只要有空就出去走路来拯救我的肥胖问题"><a href="#只要有空就出去走路来拯救我的肥胖问题" class="headerlink" title="只要有空就出去走路来拯救我的肥胖问题"></a>只要有空就出去走路来拯救我的肥胖问题</h2><p>从10号线天潼路下车，走到9号线徐家汇站乘地铁回家。15000-16000步11公里。</p>
+<p><del>瘦没瘦下来，腿倒是壮了。</del></p>
+<h2 id="帮大学同学装机器"><a href="#帮大学同学装机器" class="headerlink" title="帮大学同学装机器"></a>帮大学同学装机器</h2><p>我把我的ADATA 64G DDR4内存和C2000 Pro 1T出给他并且帮他装了一台新的机器，同时获得了我原来出给他的P650SE<del>（虽然现在也被我闲鱼出掉了。）</del>。</p>
+<p>蓝天 P650SE是我的第一台准系统，给我太多的快乐，以后有时间讲讲这个老伙计。</p>
+<h2 id="上海疫情隔离的三个月"><a href="#上海疫情隔离的三个月" class="headerlink" title="上海疫情隔离的三个月"></a>上海疫情隔离的三个月</h2><p>上海在这三个月发生了翻天覆地的变化。</p>
+<p>有太多的实体店和个人企业由于这三个月消失了。</p>
+<p>现在颁布的条例，准备重新允许摆摊位了。</p>
+<h2 id="重新改变"><a href="#重新改变" class="headerlink" title="重新改变"></a>重新改变</h2><p>博客网站域名改回( <a href="https://blog.vmarkii.com">https://blog.vmarkii.com</a> )。</p>
+<p>以后多一个域名( <a href="https://tech.vmarkii.com">https://tech.vmarkii.com</a> )，专门用于发布我的科技发现，大家多多关注哦。</p>
+<p>( <a href="https://www.vmarkii.com">https://www.vmarkii.com</a> ) 将会是我的主页，跳转上面的两个网站。</p>
+<hr>
+<p>EOF.</p>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>hexo-build</tag>
+        <tag>Hardware</tag>
+        <tag>Challenge</tag>
+        <tag>Buying</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Back to Simplicity</title>
+    <url>/2020/11/15/Back-to-Simplicity/</url>
+    <content><![CDATA[<h2 id="再一次，欢迎来到我的www站点。"><a href="#再一次，欢迎来到我的www站点。" class="headerlink" title="再一次，欢迎来到我的www站点。"></a>再一次，欢迎来到我的www站点。</h2><p>距离上一次写Blog已经过去了两个月，整整两个月。</p>
+<p>之前的Fluid主题被我去除，原因么…看上去实在不好看。</p>
+<p>既然如此，我重新配置了所有东西，drop了所有之前的git，换上个看上去非常干净的主题</p>
+<p><a href="https://github.com/chunqiuyiyu/hexo-theme-polk">hexo-theme-polk</a>，这个看上去特别简单，简单到什么都没有的主题，深得我心。</p>
+<hr>
+<p>当然，没有了Fluid主题内置的Mathjax公式渲染库，就得<a href="https://blog.csdn.net/littlehaes/article/details/84370393">手动配了</a>。</p>
+<p>MathJax</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">$$\int u \frac&#123;dv&#125;&#123;dx&#125;\,dx&#x3D;uv-\int\frac&#123;du&#125;&#123;dx&#125;v\,dx \tag&#123;Demo&#125;$$</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+<p>$\LaTeX$</p>
+<script type="math/tex; mode=display">\int u \frac{dv}{dx}\,dx=uv-\int\frac{du}{dx}v\,dx \tag{Demo}</script><hr>
+<p>至于之前的Gitalk评论，国内的访问连接成功率不高，所以取消，正在寻找别的替代源。</p>
+<hr>
+<p>之后会发一些技术笔记和牢骚，反正也没人看。（一旦火了我的域名444端口肯定被查封外加喝茶警告。）</p>
+]]></content>
+      <categories>
+        <category>TestPage</category>
+      </categories>
+      <tags>
+        <tag>hexo-build</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>First Article</title>
+    <url>/2020/09/15/First-Article/</url>
+    <content><![CDATA[<h2 id="欢迎来到我的www站点"><a href="#欢迎来到我的www站点" class="headerlink" title="欢迎来到我的www站点"></a>欢迎来到我的www站点</h2><p>这张页面是第一张人工输入的MarkDown页面。</p>
+<p>本站点使用 Github Pages&lt; <a href="https://vmarkii.github.io">https://vmarkii.github.io</a> &gt; + Hexo + Fluid主题制作，重定向至<a href="https://www.vmarkii.com">https://www.vmarkii.com</a></p>
+<p>对于中国境内的用户，由于443端口不开放的原因，请使用这个链接来访问我的站点：<a href="https://vmarkii.com:444">https://vmarkii.com:444</a></p>
+<h2 id="Coding-Test"><a href="#Coding-Test" class="headerlink" title="Coding Test"></a>Coding Test</h2><figure class="highlight csharp"><table><tr><td class="code"><pre><span class="line"><span class="comment">//CSharp code</span></span><br><span class="line"></span><br><span class="line">System.<span class="keyword">out</span>.println(<span class="string">&quot;Hello World!&quot;</span>);</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="comment">//C++ code</span></span><br><span class="line"></span><br><span class="line"><span class="built_in">std</span>::<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;Hello World!&quot;</span>;</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+<h2 id="MathJax-Test"><a href="#MathJax-Test" class="headerlink" title="MathJax Test"></a>MathJax Test</h2><script type="math/tex; mode=display">\lim_{n\rightarrow \infty}(1+2^n+3^n)^\frac{1}{x+\sin n}</script><hr>
+<h2 id="测试一下评论吧"><a href="#测试一下评论吧" class="headerlink" title="测试一下评论吧"></a>测试一下评论吧</h2><p>下面是Gitalk测试评论块。</p>
+]]></content>
+      <categories>
+        <category>TestPage</category>
+      </categories>
+      <tags>
+        <tag>hexo-build</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>How to deploy your flask web app to nginx via uWSGI in CentOS?</title>
+    <url>/2021/03/08/how-to-deploy-your-flask-webapp-to-nginx-via-uwsgi/</url>
+    <content><![CDATA[<p>这是本站第一篇以<strong>DevQuickGuide</strong>分类的文章。</p>
+<p>这一类型的文章将不会解释开发过程中的内部原理，只是提供一个从零开始的操作流程，已达到文章标题的目的。</p>
+<p>This is the first article categorized as <strong>“DevQuickGuide”</strong>.</p>
+<p>This kind of articles will not explain how thing works or theories beneath. Build something from the scratch is what this article will help you.</p>
+<p>Google translate service will work because I will describe them as basic as possible.</p>
+<hr>
+<h1 id="如何在CentOS内安装nginx并通过uWSGI搭载你的flask-web-app？"><a href="#如何在CentOS内安装nginx并通过uWSGI搭载你的flask-web-app？" class="headerlink" title="如何在CentOS内安装nginx并通过uWSGI搭载你的flask web app？"></a>如何在CentOS内安装nginx并通过uWSGI搭载你的flask web app？</h1><h2 id="操作前准备"><a href="#操作前准备" class="headerlink" title="操作前准备"></a>操作前准备</h2><ul>
+<li>拥有可以安装操作系统的容器，包括但不限于你的个人电脑，服务器，云实例和虚拟机等；</li>
+<li>操作系统: CentOS Stream 8。<br><a href="https://centos.org/centos-stream/">https://centos.org/centos-stream/</a><br>由于笔者使用Intel CPU的主机安装，所以CentOS-Stream-8-x86_64-20210302-dvd1.iso将会被下载用于安装。</li>
+</ul>
+<h2 id="开始"><a href="#开始" class="headerlink" title="开始"></a>开始</h2><h3 id="1-安装CentOS-Stream-8"><a href="#1-安装CentOS-Stream-8" class="headerlink" title="1.安装CentOS Stream 8"></a>1.安装CentOS Stream 8</h3><ul>
+<li>通过<a href="#操作前准备">操作前准备</a>内下载的操作系统安装盘为第一个启动选项启动容器。</li>
+<li>屏幕出现安装选项时直接按回车。</li>
+<li>根据屏幕提供系统安装界面完成系统安装。</li>
+</ul>
+<p><strong>非虚拟机或云实例安装请注意：</strong></p>
+<ul>
+<li>root不要启用，但是密码请设置并记住。（root密码在这篇教程不会被使用。）</li>
+<li>对于新手，请务必创建一个管理员账户。在创建账户的时候请勾选“该账户拥有管理员权限”。</li>
+<li>如果你不太熟悉直接在Console或者SSH操作，请务必使用GUI（安装默认选项），即使这将导致容器计算资源被浪费。</li>
+</ul>
+<h3 id="2-安装需要的依赖包"><a href="#2-安装需要的依赖包" class="headerlink" title="2.安装需要的依赖包"></a>2.安装需要的依赖包</h3><ul>
+<li>使用你的管理员账户登录系统。</li>
+<li>点击屏幕左上角的CentOS图标，在上方的搜索框输入”Terminal”，点击“终端”并运行。</li>
+<li>在“终端”输入以下命令：<br><code>sudo yum -y upgrade</code><br>请阅读完“sudo使用约法三章”后输入你的管理员账户密码。（root密码在这篇教程不会被使用。）<br><code>sudo yum -y install gcc gcc-c++ automake autoconf libtool make libffi-devel pcre-devel zlib-devel openssl openssl-devel</code><br>上面的命令从”gcc”开始至”openssl-devel”都是依赖包的名称。</li>
+</ul>
+<h3 id="3-下载并安装Python-3-9-2"><a href="#3-下载并安装Python-3-9-2" class="headerlink" title="3.下载并安装Python 3.9.2"></a>3.下载并安装Python 3.9.2</h3><ul>
+<li><p>新开“终端”内输入如下命令下载tgz包：<br><code>wget https://www.python.org/ftp/python/3.9.2/Python-3.9.2.tgz</code></p>
+</li>
+<li><p>输入如下命令解压tgz包：<br><code>tar -zxvf Python-3.9.2.tgz</code></p>
+</li>
+<li><p>输入如下命令安装Python-3.9.2，在每一条命令输入并执行完成后输入下一条命令：<br><code>sudo mkdir /usr/local/python3.9.2</code><br><code>cd Python-3.9.2</code><br><code>./configure --prefix=/usr/local/python3.9.2 --enable-optimizations</code><br><code>make</code><br><code>sudo make install</code><br><code>sudo make clean</code><br><code>sudo ln -s /usr/local/python3.9.2/bin/python3 /usr/bin/python3.9.2</code><br><code>sudo python3.9.2 -m pip install --upgrade pip</code></p>
+</li>
+</ul>
+<p><strong>请注意：</strong></p>
+<ul>
+<li><strong>不要试图删除CentOS内置的python3，也不要在软连接时将原有python3替代，这将导致gnome-terminal在下次登录后无法运行且GUI和yum会崩溃。</strong></li>
+<li>make这一步将会花相当长的时间，如果你只是尝试，第三步内的第三条语句可以改成如下命令：<br><code>./configure --prefix=/usr/local/python3.9.2</code></li>
+</ul>
+<h3 id="4-下载并安装nginx-1-19-7"><a href="#4-下载并安装nginx-1-19-7" class="headerlink" title="4.下载并安装nginx 1.19.7"></a>4.下载并安装nginx 1.19.7</h3><ul>
+<li><p>新开“终端”内输入如下命令下载tgz包：<br><code>wget http://nginx.org/download/nginx-1.19.7.tar.gz</code></p>
+</li>
+<li><p>输入如下命令解压tgz包：<br><code>tar -zxvf nginx-1.19.7.tar.gz</code></p>
+</li>
+<li><p>输入如下命令安装nginx 1.19.7，在每一条命令输入并执行完成后输入下一条命令：<br><code>cd nginx-1.19.7</code><br><code>./configure</code><br><code>make</code><br><code>sudo make install</code><br><code>sudo make clean</code></p>
+</li>
+</ul>
+<h3 id="5-配置Python环境"><a href="#5-配置Python环境" class="headerlink" title="5.配置Python环境"></a>5.配置Python环境</h3><ul>
+<li><p>安装virtualenv。新开“终端”内输入如下命令：<br><code>sudo python3 -m pip install --upgrade pip</code><br><code>sudo python3 -m pip install virtualenv</code><br>这个操作步骤通过系统的python3安装的。尝试过使用之前安装的<a href="#3-下载并安装Python-3-9-2">Python 3.9.2</a>，但是没有成功。</p>
+</li>
+<li><p>创建一个文件夹来生成自己的环境。新开“终端”内输入如下命令：<br><code>mkdir flask_test</code><br><code>cd flask_test</code><br><code>virtualenv -p /usr/bin/python3.9.2 env3.9</code></p>
+</li>
+<li><p>进入环境并安装Python依赖包。在上一步的“终端”内输入如下命令：<br><code>source env3.9/bin/activate #激活生成的环境</code><br><code>python3.9.2 -m pip install flask</code><br><code>python3.9.2 -m pip install uwsgi</code><br><code>python3.9.2 -m pip install &lt;所有你的flask web app需要的依赖包&gt;</code><br>如果你还没有写过flask web app或者你的web app只需要Python基本库和flask就可以，那么请忽略上面这条命令。<br><code>deactivate #退出生成的环境</code></p>
+</li>
+<li><p>写一段示例Python脚本。<br>CentOS Stream 8内置vim和nano，如果你这两个都不会，请到网上查一下，对于vim和nano的使用方法，这里不赘述。<br>脚本内容如下：</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> flask <span class="keyword">import</span> Flask</span><br><span class="line"></span><br><span class="line">app = Flask(__name__)</span><br><span class="line"></span><br><span class="line"><span class="meta">@app.route(<span class="params"><span class="string">&#x27;/&#x27;</span>, methods=[<span class="string">&#x27;GET&#x27;</span>,<span class="string">&#x27;POST&#x27;</span>]</span>)</span></span><br><span class="line"><span class="function"><span class="keyword">def</span> <span class="title">test</span>():</span></span><br><span class="line">    <span class="keyword">return</span> <span class="string">&#x27;Hello World!&#x27;</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">if</span> __name__ == <span class="string">&#x27;__main__&#x27;</span>:</span><br><span class="line">    app.run()</span><br></pre></td></tr></table></figure>
+<p>保存在上文的flask_test目录内。</p>
+</li>
+<li><p>写一个uWSGI的配置文件。<br>配置文件内容如下：</p>
+<figure class="highlight nginx"><table><tr><td class="code"><pre><span class="line">[uwsgi]</span><br><span class="line"><span class="attribute">socket</span> = <span class="number">127.0.0.1:8749</span></span><br><span class="line">home = /home/&lt;当前登录用户名&gt;/flask_test/env3.<span class="number">9</span></span><br><span class="line">wsgi-file = /home/&lt;当前登录用户名&gt;/flask_test/&lt;你的脚本文件.py&gt;</span><br><span class="line">callable = app</span><br><span class="line">processes = <span class="number">1</span></span><br><span class="line">threads = <span class="number">1</span></span><br><span class="line">buffer-size = <span class="number">32768</span></span><br><span class="line">master = <span class="literal">true</span></span><br></pre></td></tr></table></figure>
+<p>保存在上文的flask_test目录内。</p>
+</li>
+</ul>
+<p><strong>请注意：</strong></p>
+<ul>
+<li>socket内的端口请不要设置成80和443，因为nginx将会使用这些端口。</li>
+<li>processes以下的内容均可以自己定义数字以达到性能调优。</li>
+</ul>
+<h3 id="6-配置nginx"><a href="#6-配置nginx" class="headerlink" title="6.配置nginx"></a>6.配置nginx</h3><ul>
+<li>nginx的配置文件位置在/usr/local/nginx/conf/nginx.conf，使用sudo 编辑器打开这个配置文件。</li>
+<li><p>修改nginx.conf内涉及到server 80端口的配置，修改内容如下：</p>
+<figure class="highlight nginx"><table><tr><td class="code"><pre><span class="line"><span class="section">server</span> &#123;</span><br><span class="line">    <span class="attribute">listen</span> <span class="number">80</span>;</span><br><span class="line">    <span class="attribute">server_name</span> localhost;</span><br><span class="line">    <span class="attribute">location</span> / &#123;</span><br><span class="line">        <span class="attribute">include</span> /usr/local/nginx/conf/uwsgi_params;</span><br><span class="line">        <span class="attribute">uwsgi_pass</span> <span class="number">127.0.0.1:8749</span>;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p><strong>请注意：</strong></p>
+</li>
+<li><p>uwsgi_pass内的值应该和上一步uWSGI配置文件内的socket值相同。</p>
+</li>
+</ul>
+<h3 id="7-启动uWSGI和nginx"><a href="#7-启动uWSGI和nginx" class="headerlink" title="7.启动uWSGI和nginx"></a>7.启动uWSGI和nginx</h3><ul>
+<li>打开两个“终端”窗口。第一个用于启动uWSGI。</li>
+<li>在第一个终端窗口输入如下命令：<br><code>source env3.9/bin/activate</code><br><code>uwsgi &lt;第六步创建的配置文件名&gt;</code></li>
+<li>不要关闭第一个终端窗口，在第二个终端窗口输入如下命令：<br><code>sudo /usr/local/nginx/sbin/nginx</code></li>
+</ul>
+<h3 id="8-完成！"><a href="#8-完成！" class="headerlink" title="8.完成！"></a>8.完成！</h3><p>你可以在CentOS Stream 8内直接用Firefox来查看自己部署的Web App，只要在地址栏输入localhost即可。<br>如果你需要能够在内网内其他设备尝试，请在CentOS Stream 8内将防火墙设置成允许http和https服务并重新启动防火墙即可。</p>
+<hr>
+<p>EOF.</p>
+]]></content>
+      <categories>
+        <category>DevQuickGuide</category>
+      </categories>
+      <tags>
+        <tag>Dev</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2022年12月04日</title>
+    <url>/2022/12/04/20221204/</url>
+    <content><![CDATA[<p>2个月过去了。</p>
+<p>上海在12月5日0时起不再在乘坐公共交通时，进入公园景区时查验核酸阴性证明。</p>
+<h2 id="说说自己买到了一些什么吧"><a href="#说说自己买到了一些什么吧" class="headerlink" title="说说自己买到了一些什么吧"></a>说说自己买到了一些什么吧</h2><p>11寸 iPad Pro 2021 1T - <strong>iPadOS 14.5</strong><br>Logitech Combo Touch<br>Apple Pencil 2<br>一台成品DIY的8盘NAS</p>
+<h2 id="说说自己卖掉了一些什么吧"><a href="#说说自己卖掉了一些什么吧" class="headerlink" title="说说自己卖掉了一些什么吧"></a>说说自己卖掉了一些什么吧</h2><p>ASUS ProArt X570 Creator WiFi + 5900X + 32G 宏碁 B-DIE DDR4 3600 C14 + 三星 980 Pro 2T 一整套<br>Clevo P650SE</p>
+<h2 id="Top-Gun-Maverick"><a href="#Top-Gun-Maverick" class="headerlink" title="Top Gun: Maverick"></a>Top Gun: Maverick</h2><p>No woke, good.</p>
+<h2 id="Linkin-Park现场专辑降价了，全部买下。"><a href="#Linkin-Park现场专辑降价了，全部买下。" class="headerlink" title="Linkin Park现场专辑降价了，全部买下。"></a>Linkin Park现场专辑降价了，全部买下。</h2><h2 id="副业居然赚到钱了"><a href="#副业居然赚到钱了" class="headerlink" title="副业居然赚到钱了"></a>副业居然赚到钱了</h2><p>知识分享付费，虽然只有100元。</p>
+<h2 id="讲讲iPad-Pro"><a href="#讲讲iPad-Pro" class="headerlink" title="讲讲iPad Pro"></a>讲讲iPad Pro</h2><p>M1的iPad Pro能够越狱以后，可以激活Hypervisor来跑虚拟机。</p>
+<p>Windows 10 ARM版上的速度比ARM版Surface快你敢信？</p>
+<p>这是<strong>苹果设备能越狱以来最实用的功能</strong>了吧。好像只有运营商解锁可以和这个的价值平齐了。</p>
+<h2 id="iMPC-Pro-2"><a href="#iMPC-Pro-2" class="headerlink" title="iMPC Pro 2"></a>iMPC Pro 2</h2><p>iPad Pro到手以后它在我写这篇博客的这周降价了。</p>
+<h2 id="讲讲NAS"><a href="#讲讲NAS" class="headerlink" title="讲讲NAS"></a>讲讲NAS</h2><p>i3 10100T + 32G DDR4内存 + Gigabyte B460M AORUS ELITE + 拓普隆8盘位机箱 + 1转6 SATA PCIe *1 转接卡</p>
+<p>组装这件事情我太懒，就买了这样的成品。</p>
+<p>用角磨机加锉刀在主板槽上方的网孔处干出一个全高槽，连了根PCIe转接线接雷电扩展卡。</p>
+<p>雷电3 + 万兆NAS。</p>
+<p>老妈要看琅琊榜2，正好用上。</p>
+<h2 id="天冷了起来"><a href="#天冷了起来" class="headerlink" title="天冷了起来"></a>天冷了起来</h2><h2 id="江泽民主席逝世"><a href="#江泽民主席逝世" class="headerlink" title="江泽民主席逝世"></a>江泽民主席逝世</h2><p>一个时代结束了。</p>
+<h2 id="cnbeta-com没了"><a href="#cnbeta-com没了" class="headerlink" title="cnbeta.com没了"></a>cnbeta.com没了</h2><p>现在cnbeta.com.tw在国内会跳转到cnbeta在今日头条的公众号，在海外会跳转到cnbeta主站。</p>
+<h2 id="公司圣诞晚餐"><a href="#公司圣诞晚餐" class="headerlink" title="公司圣诞晚餐"></a>公司圣诞晚餐</h2><h2 id="给自己定一个小目标"><a href="#给自己定一个小目标" class="headerlink" title="给自己定一个小目标"></a>给自己定一个小目标</h2><p>重新开始每周至少写两篇日记，即使不知道写些什么。</p>
+<p><del>原来我写的是一天一篇。</del></p>
+<p>生活虽然非常无聊，但是还是要保持热情的。</p>
+<hr>
+<p>EOF.</p>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>iTunes</tag>
+        <tag>Hardware</tag>
+        <tag>Buying</tag>
+      </tags>
+  </entry>
+</search>

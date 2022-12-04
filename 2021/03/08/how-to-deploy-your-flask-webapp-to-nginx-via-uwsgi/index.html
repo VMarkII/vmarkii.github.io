@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html>
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+  
+  <title>How to deploy your flask web app to nginx via uWSGI in CentOS? - VMarkII&#39;s Journal</title>
+  <meta name="viewport" content="width=device-width">
+  
+  <meta name="keywords" content=Dev>
+  
+  
+    <link rel="shortcut icon" type="image/x-icon" href="/img/icon.png?v=1.02">
+  
+  
+    <link rel="alternate" href="/atom.xml " title="VMarkII&#39;s Journal" type="application/atom+xml">
+  
+  
+<link rel="stylesheet" href="/css/style.css">
+
+<meta name="generator" content="Hexo 5.3.0"></head>
+  <body>
+    <div class="container">
+      <header class="header">
+  <div class="blog-title">
+    <a href="/" class="logo">VMarkII&#39;s Journal</a>
+    <div class="subtitle">A stupid user&#39;s stupid blog site.</div>
+  </div>
+  <nav class="navbar">
+    <ul class="menu">
+      
+        <li class="menu-item">
+          <a href="/archives" class="menu-item-link">All</a>
+        </li>
+      
+        <li class="menu-item">
+          <a href="/tags" class="menu-item-link">Tags</a>
+        </li>
+      
+        <li class="menu-item">
+          <a href="/categories" class="menu-item-link">Categories</a>
+        </li>
+      
+        <li class="menu-item">
+          <a href="/about" class="menu-item-link">About</a>
+        </li>
+      
+      <li class="menu-item">
+        <a class="menu-item-link popup-trigger" title="Search" href="#">
+          Search
+        </a>
+      </li>
+    </ul>
+  </nav>
+</header>
+<div style="padding: 0 20px;">
+
+  <a style="float: right" href="/2021/03/14/2021-Week10/">
+    <span>Next</span>
+  </a>
+
+
+  <a style="float: left" href="/2021/03/07/2021-Week09/">
+    <span>Previous</span>
+  </a>
+
+<br />
+</div>
+<article class="post">
+  <div class="post-title">
+    <h1 class="article-title">How to deploy your flask web app to nginx via uWSGI in CentOS?</h1>
+  </div>
+  <div class="post-footer">
+    
+      <ul class="post-category-list"><li class="post-category-list-item"><a class="post-category-list-link" href="/categories/DevQuickGuide/">DevQuickGuide</a></li></ul>
+    
+  </div>
+  <div class="post-content">
+    <p>这是本站第一篇以<strong>DevQuickGuide</strong>分类的文章。</p>
+<p>这一类型的文章将不会解释开发过程中的内部原理，只是提供一个从零开始的操作流程，已达到文章标题的目的。</p>
+<p>This is the first article categorized as <strong>“DevQuickGuide”</strong>.</p>
+<p>This kind of articles will not explain how thing works or theories beneath. Build something from the scratch is what this article will help you.</p>
+<p>Google translate service will work because I will describe them as basic as possible.</p>
+<hr>
+<h1 id="如何在CentOS内安装nginx并通过uWSGI搭载你的flask-web-app？"><a href="#如何在CentOS内安装nginx并通过uWSGI搭载你的flask-web-app？" class="headerlink" title="如何在CentOS内安装nginx并通过uWSGI搭载你的flask web app？"></a>如何在CentOS内安装nginx并通过uWSGI搭载你的flask web app？</h1><h2 id="操作前准备"><a href="#操作前准备" class="headerlink" title="操作前准备"></a>操作前准备</h2><ul>
+<li>拥有可以安装操作系统的容器，包括但不限于你的个人电脑，服务器，云实例和虚拟机等；</li>
+<li>操作系统: CentOS Stream 8。<br><a target="_blank" rel="noopener" href="https://centos.org/centos-stream/">https://centos.org/centos-stream/</a><br>由于笔者使用Intel CPU的主机安装，所以CentOS-Stream-8-x86_64-20210302-dvd1.iso将会被下载用于安装。</li>
+</ul>
+<h2 id="开始"><a href="#开始" class="headerlink" title="开始"></a>开始</h2><h3 id="1-安装CentOS-Stream-8"><a href="#1-安装CentOS-Stream-8" class="headerlink" title="1.安装CentOS Stream 8"></a>1.安装CentOS Stream 8</h3><ul>
+<li>通过<a href="#操作前准备">操作前准备</a>内下载的操作系统安装盘为第一个启动选项启动容器。</li>
+<li>屏幕出现安装选项时直接按回车。</li>
+<li>根据屏幕提供系统安装界面完成系统安装。</li>
+</ul>
+<p><strong>非虚拟机或云实例安装请注意：</strong></p>
+<ul>
+<li>root不要启用，但是密码请设置并记住。（root密码在这篇教程不会被使用。）</li>
+<li>对于新手，请务必创建一个管理员账户。在创建账户的时候请勾选“该账户拥有管理员权限”。</li>
+<li>如果你不太熟悉直接在Console或者SSH操作，请务必使用GUI（安装默认选项），即使这将导致容器计算资源被浪费。</li>
+</ul>
+<h3 id="2-安装需要的依赖包"><a href="#2-安装需要的依赖包" class="headerlink" title="2.安装需要的依赖包"></a>2.安装需要的依赖包</h3><ul>
+<li>使用你的管理员账户登录系统。</li>
+<li>点击屏幕左上角的CentOS图标，在上方的搜索框输入”Terminal”，点击“终端”并运行。</li>
+<li>在“终端”输入以下命令：<br><code>sudo yum -y upgrade</code><br>请阅读完“sudo使用约法三章”后输入你的管理员账户密码。（root密码在这篇教程不会被使用。）<br><code>sudo yum -y install gcc gcc-c++ automake autoconf libtool make libffi-devel pcre-devel zlib-devel openssl openssl-devel</code><br>上面的命令从”gcc”开始至”openssl-devel”都是依赖包的名称。</li>
+</ul>
+<h3 id="3-下载并安装Python-3-9-2"><a href="#3-下载并安装Python-3-9-2" class="headerlink" title="3.下载并安装Python 3.9.2"></a>3.下载并安装Python 3.9.2</h3><ul>
+<li><p>新开“终端”内输入如下命令下载tgz包：<br><code>wget https://www.python.org/ftp/python/3.9.2/Python-3.9.2.tgz</code></p>
+</li>
+<li><p>输入如下命令解压tgz包：<br><code>tar -zxvf Python-3.9.2.tgz</code></p>
+</li>
+<li><p>输入如下命令安装Python-3.9.2，在每一条命令输入并执行完成后输入下一条命令：<br><code>sudo mkdir /usr/local/python3.9.2</code><br><code>cd Python-3.9.2</code><br><code>./configure --prefix=/usr/local/python3.9.2 --enable-optimizations</code><br><code>make</code><br><code>sudo make install</code><br><code>sudo make clean</code><br><code>sudo ln -s /usr/local/python3.9.2/bin/python3 /usr/bin/python3.9.2</code><br><code>sudo python3.9.2 -m pip install --upgrade pip</code></p>
+</li>
+</ul>
+<p><strong>请注意：</strong></p>
+<ul>
+<li><strong>不要试图删除CentOS内置的python3，也不要在软连接时将原有python3替代，这将导致gnome-terminal在下次登录后无法运行且GUI和yum会崩溃。</strong></li>
+<li>make这一步将会花相当长的时间，如果你只是尝试，第三步内的第三条语句可以改成如下命令：<br><code>./configure --prefix=/usr/local/python3.9.2</code></li>
+</ul>
+<h3 id="4-下载并安装nginx-1-19-7"><a href="#4-下载并安装nginx-1-19-7" class="headerlink" title="4.下载并安装nginx 1.19.7"></a>4.下载并安装nginx 1.19.7</h3><ul>
+<li><p>新开“终端”内输入如下命令下载tgz包：<br><code>wget http://nginx.org/download/nginx-1.19.7.tar.gz</code></p>
+</li>
+<li><p>输入如下命令解压tgz包：<br><code>tar -zxvf nginx-1.19.7.tar.gz</code></p>
+</li>
+<li><p>输入如下命令安装nginx 1.19.7，在每一条命令输入并执行完成后输入下一条命令：<br><code>cd nginx-1.19.7</code><br><code>./configure</code><br><code>make</code><br><code>sudo make install</code><br><code>sudo make clean</code></p>
+</li>
+</ul>
+<h3 id="5-配置Python环境"><a href="#5-配置Python环境" class="headerlink" title="5.配置Python环境"></a>5.配置Python环境</h3><ul>
+<li><p>安装virtualenv。新开“终端”内输入如下命令：<br><code>sudo python3 -m pip install --upgrade pip</code><br><code>sudo python3 -m pip install virtualenv</code><br>这个操作步骤通过系统的python3安装的。尝试过使用之前安装的<a href="#3-下载并安装Python-3-9-2">Python 3.9.2</a>，但是没有成功。</p>
+</li>
+<li><p>创建一个文件夹来生成自己的环境。新开“终端”内输入如下命令：<br><code>mkdir flask_test</code><br><code>cd flask_test</code><br><code>virtualenv -p /usr/bin/python3.9.2 env3.9</code></p>
+</li>
+<li><p>进入环境并安装Python依赖包。在上一步的“终端”内输入如下命令：<br><code>source env3.9/bin/activate #激活生成的环境</code><br><code>python3.9.2 -m pip install flask</code><br><code>python3.9.2 -m pip install uwsgi</code><br><code>python3.9.2 -m pip install &lt;所有你的flask web app需要的依赖包&gt;</code><br>如果你还没有写过flask web app或者你的web app只需要Python基本库和flask就可以，那么请忽略上面这条命令。<br><code>deactivate #退出生成的环境</code></p>
+</li>
+<li><p>写一段示例Python脚本。<br>CentOS Stream 8内置vim和nano，如果你这两个都不会，请到网上查一下，对于vim和nano的使用方法，这里不赘述。<br>脚本内容如下：</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">from</span> flask <span class="keyword">import</span> Flask</span><br><span class="line"></span><br><span class="line">app = Flask(__name__)</span><br><span class="line"></span><br><span class="line"><span class="meta">@app.route(<span class="params"><span class="string">&#x27;/&#x27;</span>, methods=[<span class="string">&#x27;GET&#x27;</span>,<span class="string">&#x27;POST&#x27;</span>]</span>)</span></span><br><span class="line"><span class="function"><span class="keyword">def</span> <span class="title">test</span>():</span></span><br><span class="line">    <span class="keyword">return</span> <span class="string">&#x27;Hello World!&#x27;</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">if</span> __name__ == <span class="string">&#x27;__main__&#x27;</span>:</span><br><span class="line">    app.run()</span><br></pre></td></tr></table></figure>
+<p>保存在上文的flask_test目录内。</p>
+</li>
+<li><p>写一个uWSGI的配置文件。<br>配置文件内容如下：</p>
+<figure class="highlight nginx"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">[uwsgi]</span><br><span class="line"><span class="attribute">socket</span> = <span class="number">127.0.0.1:8749</span></span><br><span class="line">home = /home/&lt;当前登录用户名&gt;/flask_test/env3.<span class="number">9</span></span><br><span class="line">wsgi-file = /home/&lt;当前登录用户名&gt;/flask_test/&lt;你的脚本文件.py&gt;</span><br><span class="line">callable = app</span><br><span class="line">processes = <span class="number">1</span></span><br><span class="line">threads = <span class="number">1</span></span><br><span class="line">buffer-size = <span class="number">32768</span></span><br><span class="line">master = <span class="literal">true</span></span><br></pre></td></tr></table></figure>
+<p>保存在上文的flask_test目录内。</p>
+</li>
+</ul>
+<p><strong>请注意：</strong></p>
+<ul>
+<li>socket内的端口请不要设置成80和443，因为nginx将会使用这些端口。</li>
+<li>processes以下的内容均可以自己定义数字以达到性能调优。</li>
+</ul>
+<h3 id="6-配置nginx"><a href="#6-配置nginx" class="headerlink" title="6.配置nginx"></a>6.配置nginx</h3><ul>
+<li>nginx的配置文件位置在/usr/local/nginx/conf/nginx.conf，使用sudo 编辑器打开这个配置文件。</li>
+<li><p>修改nginx.conf内涉及到server 80端口的配置，修改内容如下：</p>
+<figure class="highlight nginx"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="section">server</span> &#123;</span><br><span class="line">    <span class="attribute">listen</span> <span class="number">80</span>;</span><br><span class="line">    <span class="attribute">server_name</span> localhost;</span><br><span class="line">    <span class="attribute">location</span> / &#123;</span><br><span class="line">        <span class="attribute">include</span> /usr/local/nginx/conf/uwsgi_params;</span><br><span class="line">        <span class="attribute">uwsgi_pass</span> <span class="number">127.0.0.1:8749</span>;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p><strong>请注意：</strong></p>
+</li>
+<li><p>uwsgi_pass内的值应该和上一步uWSGI配置文件内的socket值相同。</p>
+</li>
+</ul>
+<h3 id="7-启动uWSGI和nginx"><a href="#7-启动uWSGI和nginx" class="headerlink" title="7.启动uWSGI和nginx"></a>7.启动uWSGI和nginx</h3><ul>
+<li>打开两个“终端”窗口。第一个用于启动uWSGI。</li>
+<li>在第一个终端窗口输入如下命令：<br><code>source env3.9/bin/activate</code><br><code>uwsgi &lt;第六步创建的配置文件名&gt;</code></li>
+<li>不要关闭第一个终端窗口，在第二个终端窗口输入如下命令：<br><code>sudo /usr/local/nginx/sbin/nginx</code></li>
+</ul>
+<h3 id="8-完成！"><a href="#8-完成！" class="headerlink" title="8.完成！"></a>8.完成！</h3><p>你可以在CentOS Stream 8内直接用Firefox来查看自己部署的Web App，只要在地址栏输入localhost即可。<br>如果你需要能够在内网内其他设备尝试，请在CentOS Stream 8内将防火墙设置成允许http和https服务并重新启动防火墙即可。</p>
+<hr>
+<p>EOF.</p>
+
+  </div>
+  <div class="post-meta">
+    <span class="post-time">2021-03-08 21:55:33</span>
+  </div>
+  <br />
+  <div class="post-footer">
+    
+      <ul class="post-tag-list" itemprop="keywords"><li class="post-tag-list-item"><a class="post-tag-list-link" href="/tags/Dev/" rel="tag">Dev</a></li></ul>
+    
+    <a href="#top" class="top">Back to Top</a>
+  </div>
+</article>
+<footer>
+  <span class="author">
+    VerticalACE Mark II
+  </span>
+</footer>
+
+    </div>
+    <div class="search-pop-overlay">
+      <div class="popup search-popup">
+        <div class="search-header">
+          <span class="search-icon">
+              Search
+              </span>
+              <div class="search-input-container">
+              <input autocomplete="off" autocapitalize="off" spellcheck="false"
+                      type="search" class="search-input" id="search-input">
+              </div>
+              <span class="popup-btn-close">
+              Close
+              </span>
+        </div>
+        <div id="search-result">
+          <div id="no-result">
+            No results
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+  
+<script src="/js/local-search.js"></script>
+
+  
+</html>
