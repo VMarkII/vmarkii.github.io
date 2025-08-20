@@ -135,20 +135,6 @@
       </tags>
   </entry>
   <entry>
-    <title>2020年11月21日</title>
-    <url>/2020/11/21/20201121/</url>
-    <content><![CDATA[<h2 id="有什么想说的？"><a href="#有什么想说的？" class="headerlink" title="有什么想说的？"></a>有什么想说的？</h2><p>既然昨天的日记都是今天写的，那就讲讲我在Team Building拿到的奖品吧。</p>
-<p>小米移动电源3 10000mAh 快充版 + 一盒和这个充电宝同等价格的浓缩咖啡。</p>
-<p>……</p>
-<p>讲道理我是从来没有买过足量10000mAh的充电宝，相信这个是第一个。看看能不能让我的iPhone SE 2充满5次。</p>
-<p>晚上我打算继续做做我的Python小项目。</p>
-<p>晚安。</p>
-]]></content>
-      <categories>
-        <category>Diary</category>
-      </categories>
-  </entry>
-  <entry>
     <title>2020年11月22日</title>
     <url>/2020/11/22/20201122/</url>
     <content><![CDATA[<h2 id="有什么想说的？"><a href="#有什么想说的？" class="headerlink" title="有什么想说的？"></a>有什么想说的？</h2><p>以后写日记我就不写“有什么想说的？”，搞得像是坦白从宽一样的。</p>
@@ -203,6 +189,20 @@
       <tags>
         <tag>Software</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>2020年11月21日</title>
+    <url>/2020/11/21/20201121/</url>
+    <content><![CDATA[<h2 id="有什么想说的？"><a href="#有什么想说的？" class="headerlink" title="有什么想说的？"></a>有什么想说的？</h2><p>既然昨天的日记都是今天写的，那就讲讲我在Team Building拿到的奖品吧。</p>
+<p>小米移动电源3 10000mAh 快充版 + 一盒和这个充电宝同等价格的浓缩咖啡。</p>
+<p>……</p>
+<p>讲道理我是从来没有买过足量10000mAh的充电宝，相信这个是第一个。看看能不能让我的iPhone SE 2充满5次。</p>
+<p>晚上我打算继续做做我的Python小项目。</p>
+<p>晚安。</p>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
   </entry>
   <entry>
     <title>2020年11月24日</title>
@@ -331,19 +331,6 @@
       </tags>
   </entry>
   <entry>
-    <title>2020年11月28日</title>
-    <url>/2020/11/28/20201128/</url>
-    <content><![CDATA[<h2 id="睡觉真香！"><a href="#睡觉真香！" class="headerlink" title="睡觉真香！"></a>睡觉真香！</h2><p>一路睡到今天晚上，感冒的后遗症：咳嗽要很久才能好。</p>
-<h2 id="硬盘分区重组"><a href="#硬盘分区重组" class="headerlink" title="硬盘分区重组"></a>硬盘分区重组</h2><p>昨天说要把RAID 0改成RAID 5，结果发现在Windows Server 2016上这么做过于愚蠢（读写的速度相当的差），所以现在决定把四个4T的SAS硬盘分成12T RAID 0和一个独立的4T，剩下的两个2T的SAS硬盘同步数据。考虑在2022年建立基于SATA的第二代NAS。</p>
-<hr>
-<p><del>（黑色星期五真的什么实体物品都没有买，和双十一一样坑</del></p>
-<p>晚安。</p>
-]]></content>
-      <categories>
-        <category>Diary</category>
-      </categories>
-  </entry>
-  <entry>
     <title>2020年11月29日</title>
     <url>/2020/11/29/20201129/</url>
     <content><![CDATA[<h2 id="最近正在云游戏的路上越走越远"><a href="#最近正在云游戏的路上越走越远" class="headerlink" title="最近正在云游戏的路上越走越远"></a>最近正在云游戏的路上越走越远</h2><p>具体到正在云的游戏么，PS2的SIREN《死魂曲》。看到这个游戏最早是在网上看到了这个游戏的电视广告，日本的恐怖游戏广告居然能在电视上播放出来也是个奇迹。（然后就因为举报被封杀了哈哈哈哈😂）</p>
@@ -364,6 +351,19 @@
         <tag>hexo-build</tag>
         <tag>Gaming</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>2020年11月28日</title>
+    <url>/2020/11/28/20201128/</url>
+    <content><![CDATA[<h2 id="睡觉真香！"><a href="#睡觉真香！" class="headerlink" title="睡觉真香！"></a>睡觉真香！</h2><p>一路睡到今天晚上，感冒的后遗症：咳嗽要很久才能好。</p>
+<h2 id="硬盘分区重组"><a href="#硬盘分区重组" class="headerlink" title="硬盘分区重组"></a>硬盘分区重组</h2><p>昨天说要把RAID 0改成RAID 5，结果发现在Windows Server 2016上这么做过于愚蠢（读写的速度相当的差），所以现在决定把四个4T的SAS硬盘分成12T RAID 0和一个独立的4T，剩下的两个2T的SAS硬盘同步数据。考虑在2022年建立基于SATA的第二代NAS。</p>
+<hr>
+<p><del>（黑色星期五真的什么实体物品都没有买，和双十一一样坑</del></p>
+<p>晚安。</p>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
   </entry>
   <entry>
     <title>2020年11月30日</title>
@@ -1591,24 +1591,6 @@
       </tags>
   </entry>
   <entry>
-    <title>2021-Week28</title>
-    <url>/2021/07/18/2021-Week28/</url>
-    <content><![CDATA[<h2 id="Week25-Week27去哪里了？"><a href="#Week25-Week27去哪里了？" class="headerlink" title="Week25-Week27去哪里了？"></a>Week25-Week27去哪里了？</h2><p>极限竞速：地平线4太好玩了。</p>
-<p><del>以至于之后可能还会鸽周记</del></p>
-<h2 id="公司组织Family-Outing"><a href="#公司组织Family-Outing" class="headerlink" title="公司组织Family Outing"></a>公司组织Family Outing</h2><p>无锡拈花湾。</p>
-<h2 id="考了个Power-Platform的认证"><a href="#考了个Power-Platform的认证" class="headerlink" title="考了个Power Platform的认证"></a>考了个Power Platform的认证</h2><p>基本一星的认证都是背题了。</p>
-<h2 id="海外加速重新申请"><a href="#海外加速重新申请" class="headerlink" title="海外加速重新申请"></a>海外加速重新申请</h2><h2 id="居然把SONY-VGN-UX27CN卖出去了"><a href="#居然把SONY-VGN-UX27CN卖出去了" class="headerlink" title="居然把SONY VGN-UX27CN卖出去了"></a>居然把SONY VGN-UX27CN卖出去了</h2><p>挂在闲鱼上居然有人买了。</p>
-<h2 id="准备找个地方把第二针疫苗打了"><a href="#准备找个地方把第二针疫苗打了" class="headerlink" title="准备找个地方把第二针疫苗打了"></a>准备找个地方把第二针疫苗打了</h2><h2 id="无线网络换了个位置布置让我房间的网速提升了不少"><a href="#无线网络换了个位置布置让我房间的网速提升了不少" class="headerlink" title="无线网络换了个位置布置让我房间的网速提升了不少"></a>无线网络换了个位置布置让我房间的网速提升了不少</h2><hr>
-<p>EOF.</p>
-]]></content>
-      <categories>
-        <category>Weekly Diary</category>
-      </categories>
-      <tags>
-        <tag>Gaming</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>2021-Week24</title>
     <url>/2021/06/20/2021-Week24/</url>
     <content><![CDATA[<h2 id="Apple-TV-4K的确方便"><a href="#Apple-TV-4K的确方便" class="headerlink" title="Apple TV 4K的确方便"></a>Apple TV 4K的确方便</h2><p>但是它会反向逼你使用更好的电视屏幕和音响系统。</p>
@@ -1627,24 +1609,21 @@
       </tags>
   </entry>
   <entry>
-    <title>2021-Week29</title>
-    <url>/2021/07/25/2021-Week29/</url>
-    <content><![CDATA[<h2 id="iTunes降价"><a href="#iTunes降价" class="headerlink" title="iTunes降价"></a>iTunes降价</h2><p>Rick and Morty, Season 5首播结束后降价至15美元；</p>
-<p>Memento降价至5美元；</p>
-<p>Nobody Knows降价至5美元。</p>
-<h2 id="4K-144Hz显示屏我退货了"><a href="#4K-144Hz显示屏我退货了" class="headerlink" title="4K 144Hz显示屏我退货了"></a>4K 144Hz显示屏我退货了</h2><p>综合考虑了一下，还是不买了。</p>
-<p>成功阻止了一次消费冲动。</p>
-<h2 id="疫苗第二针打好了"><a href="#疫苗第二针打好了" class="headerlink" title="疫苗第二针打好了"></a>疫苗第二针打好了</h2><h2 id="周日和下周一狂风大作"><a href="#周日和下周一狂风大作" class="headerlink" title="周日和下周一狂风大作"></a>周日和下周一狂风大作</h2><p>周一在家上班。</p>
-<p>本来地铁也乘不了。</p>
-<hr>
+    <title>2021-Week28</title>
+    <url>/2021/07/18/2021-Week28/</url>
+    <content><![CDATA[<h2 id="Week25-Week27去哪里了？"><a href="#Week25-Week27去哪里了？" class="headerlink" title="Week25-Week27去哪里了？"></a>Week25-Week27去哪里了？</h2><p>极限竞速：地平线4太好玩了。</p>
+<p><del>以至于之后可能还会鸽周记</del></p>
+<h2 id="公司组织Family-Outing"><a href="#公司组织Family-Outing" class="headerlink" title="公司组织Family Outing"></a>公司组织Family Outing</h2><p>无锡拈花湾。</p>
+<h2 id="考了个Power-Platform的认证"><a href="#考了个Power-Platform的认证" class="headerlink" title="考了个Power Platform的认证"></a>考了个Power Platform的认证</h2><p>基本一星的认证都是背题了。</p>
+<h2 id="海外加速重新申请"><a href="#海外加速重新申请" class="headerlink" title="海外加速重新申请"></a>海外加速重新申请</h2><h2 id="居然把SONY-VGN-UX27CN卖出去了"><a href="#居然把SONY-VGN-UX27CN卖出去了" class="headerlink" title="居然把SONY VGN-UX27CN卖出去了"></a>居然把SONY VGN-UX27CN卖出去了</h2><p>挂在闲鱼上居然有人买了。</p>
+<h2 id="准备找个地方把第二针疫苗打了"><a href="#准备找个地方把第二针疫苗打了" class="headerlink" title="准备找个地方把第二针疫苗打了"></a>准备找个地方把第二针疫苗打了</h2><h2 id="无线网络换了个位置布置让我房间的网速提升了不少"><a href="#无线网络换了个位置布置让我房间的网速提升了不少" class="headerlink" title="无线网络换了个位置布置让我房间的网速提升了不少"></a>无线网络换了个位置布置让我房间的网速提升了不少</h2><hr>
 <p>EOF.</p>
 ]]></content>
       <categories>
         <category>Weekly Diary</category>
       </categories>
       <tags>
-        <tag>iTunes</tag>
-        <tag>Buying</tag>
+        <tag>Gaming</tag>
       </tags>
   </entry>
   <entry>
@@ -1669,6 +1648,27 @@
       </tags>
   </entry>
   <entry>
+    <title>2021-Week29</title>
+    <url>/2021/07/25/2021-Week29/</url>
+    <content><![CDATA[<h2 id="iTunes降价"><a href="#iTunes降价" class="headerlink" title="iTunes降价"></a>iTunes降价</h2><p>Rick and Morty, Season 5首播结束后降价至15美元；</p>
+<p>Memento降价至5美元；</p>
+<p>Nobody Knows降价至5美元。</p>
+<h2 id="4K-144Hz显示屏我退货了"><a href="#4K-144Hz显示屏我退货了" class="headerlink" title="4K 144Hz显示屏我退货了"></a>4K 144Hz显示屏我退货了</h2><p>综合考虑了一下，还是不买了。</p>
+<p>成功阻止了一次消费冲动。</p>
+<h2 id="疫苗第二针打好了"><a href="#疫苗第二针打好了" class="headerlink" title="疫苗第二针打好了"></a>疫苗第二针打好了</h2><h2 id="周日和下周一狂风大作"><a href="#周日和下周一狂风大作" class="headerlink" title="周日和下周一狂风大作"></a>周日和下周一狂风大作</h2><p>周一在家上班。</p>
+<p>本来地铁也乘不了。</p>
+<hr>
+<p>EOF.</p>
+]]></content>
+      <categories>
+        <category>Weekly Diary</category>
+      </categories>
+      <tags>
+        <tag>iTunes</tag>
+        <tag>Buying</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>2021-Week32</title>
     <url>/2021/08/17/2021-Week32/</url>
     <content><![CDATA[<h2 id="正经地写代码"><a href="#正经地写代码" class="headerlink" title="正经地写代码"></a>正经地写代码</h2><p>其实也不全是写代码，而是需求分析占大多数，通过需求分析，对特定行业的术语和规范加以了解。</p>
@@ -1683,20 +1683,6 @@
       </categories>
       <tags>
         <tag>Coding</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2021年01月01日</title>
-    <url>/2021/01/01/20210101/</url>
-    <content><![CDATA[<h2 id="睡了一天。"><a href="#睡了一天。" class="headerlink" title="睡了一天。"></a>睡了一天。</h2><p>果然是早班累，一能睡就能睡很久。睡起来没个期限。</p>
-<hr>
-<p>EOF.</p>
-]]></content>
-      <categories>
-        <category>Diary</category>
-      </categories>
-      <tags>
-        <tag>Sleeping</tag>
       </tags>
   </entry>
   <entry>
@@ -1715,6 +1701,20 @@
       <tags>
         <tag>Software</tag>
         <tag>Buying</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021年01月01日</title>
+    <url>/2021/01/01/20210101/</url>
+    <content><![CDATA[<h2 id="睡了一天。"><a href="#睡了一天。" class="headerlink" title="睡了一天。"></a>睡了一天。</h2><p>果然是早班累，一能睡就能睡很久。睡起来没个期限。</p>
+<hr>
+<p>EOF.</p>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>Sleeping</tag>
       </tags>
   </entry>
   <entry>
@@ -2034,6 +2034,36 @@
       </tags>
   </entry>
   <entry>
+    <title>2023年02月26日</title>
+    <url>/2023/02/26/20230226/</url>
+    <content><![CDATA[<h1 id="李培楠获得2023-IEM卡托维兹站《星际争霸2》项目总决赛冠军"><a href="#李培楠获得2023-IEM卡托维兹站《星际争霸2》项目总决赛冠军" class="headerlink" title="李培楠获得2023 IEM卡托维兹站《星际争霸2》项目总决赛冠军"></a>李培楠获得2023 IEM卡托维兹站《星际争霸2》项目总决赛冠军</h1><p>2023年2月13日，像梦一样。</p>
+<p>没有人能够想到中国也能有人获得这个级别的世界冠军。</p>
+<p>零的突破。</p>
+<p>“我都能够获得世界冠军，没有什么是不可能的。”</p>
+<p>这样的故事，爽文都不敢写的剧情。</p>
+<p>Who is Time? This is Oliveria!</p>
+<p>“没有服务器的国家出了个世界冠军，太TMD傻逼了。”</p>
+<h2 id="第一次想要喝酒"><a href="#第一次想要喝酒" class="headerlink" title="第一次想要喝酒"></a>第一次想要喝酒</h2><p>由于这个冠军，我第一次自己想去喝一点。</p>
+<p>喝的啤酒，因为我不会喝酒。</p>
+<h2 id="scboy淘宝店出了冠军联名T恤"><a href="#scboy淘宝店出了冠军联名T恤" class="headerlink" title="scboy淘宝店出了冠军联名T恤"></a>scboy淘宝店出了冠军联名T恤</h2><p>“我的钱包说它想要放放血！”</p>
+<p><del>4万+的销量，谁说25仔没有购买力的？</del></p>
+<h2 id="终于把我破机箱里的东西换到新机箱了"><a href="#终于把我破机箱里的东西换到新机箱了" class="headerlink" title="终于把我破机箱里的东西换到新机箱了"></a>终于把我破机箱里的东西换到新机箱了</h2><h2 id="自己买烤肠自己烤着吃真的香！"><a href="#自己买烤肠自己烤着吃真的香！" class="headerlink" title="自己买烤肠自己烤着吃真的香！"></a>自己买烤肠自己烤着吃真的香！</h2><p>三顿都是烤肠不在话下。<del>就是自己要变成烤肠了…</del></p>
+<h2 id="Daft-Punk又出新专辑（在炒冷饭）了"><a href="#Daft-Punk又出新专辑（在炒冷饭）了" class="headerlink" title="Daft Punk又出新专辑（在炒冷饭）了"></a>Daft Punk又出新专辑（在炒冷饭）了</h2><p>Random Access Memories 10 Years Anniversary Edition</p>
+<p>不会退出乐坛可以不退，可以去咬打火机。</p>
+<h2 id="拿出了我的旧机器里的硬盘"><a href="#拿出了我的旧机器里的硬盘" class="headerlink" title="拿出了我的旧机器里的硬盘"></a>拿出了我的旧机器里的硬盘</h2><p>恢复了许多数据出来。高中回忆和一些旧的小工具。</p>
+<h2 id="又去逛了轻纺城虬江路专区"><a href="#又去逛了轻纺城虬江路专区" class="headerlink" title="又去逛了轻纺城虬江路专区"></a>又去逛了轻纺城虬江路专区</h2><p>买了个MX Vertical鼠标和Nokia 6300。</p>
+<hr>
+<p>EOF.</p>
+]]></content>
+      <categories>
+        <category>Diary</category>
+      </categories>
+      <tags>
+        <tag>Milestone</tag>
+        <tag>Buying</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>2023年04月16日</title>
     <url>/2023/04/16/20230416/</url>
     <content><![CDATA[<h2 id="说说自己卖掉了什么东西"><a href="#说说自己卖掉了什么东西" class="headerlink" title="说说自己卖掉了什么东西"></a>说说自己卖掉了什么东西</h2><p><del>打开闲鱼</del></p>
@@ -2222,6 +2252,24 @@
       </tags>
   </entry>
   <entry>
+    <title>First Article</title>
+    <url>/2020/09/15/First-Article/</url>
+    <content><![CDATA[<h2 id="欢迎来到我的www站点"><a href="#欢迎来到我的www站点" class="headerlink" title="欢迎来到我的www站点"></a>欢迎来到我的www站点</h2><p>这张页面是第一张人工输入的MarkDown页面。</p>
+<p>本站点使用 Github Pages&lt; <a href="https://vmarkii.github.io">https://vmarkii.github.io</a> &gt; + Hexo + Fluid主题制作，重定向至<a href="https://www.vmarkii.com">https://www.vmarkii.com</a></p>
+<p>对于中国境内的用户，由于443端口不开放的原因，请使用这个链接来访问我的站点：<a href="https://vmarkii.com:444">https://vmarkii.com:444</a></p>
+<h2 id="Coding-Test"><a href="#Coding-Test" class="headerlink" title="Coding Test"></a>Coding Test</h2><figure class="highlight csharp"><table><tr><td class="code"><pre><span class="line"><span class="comment">//CSharp code</span></span><br><span class="line"></span><br><span class="line">System.<span class="keyword">out</span>.println(<span class="string">&quot;Hello World!&quot;</span>);</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="comment">//C++ code</span></span><br><span class="line"></span><br><span class="line"><span class="built_in">std</span>::<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;Hello World!&quot;</span>;</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+<h2 id="MathJax-Test"><a href="#MathJax-Test" class="headerlink" title="MathJax Test"></a>MathJax Test</h2><script type="math/tex; mode=display">\lim_{n\rightarrow \infty}(1+2^n+3^n)^\frac{1}{x+\sin n}</script><hr>
+<h2 id="测试一下评论吧"><a href="#测试一下评论吧" class="headerlink" title="测试一下评论吧"></a>测试一下评论吧</h2><p>下面是Gitalk测试评论块。</p>
+]]></content>
+      <categories>
+        <category>TestPage</category>
+      </categories>
+      <tags>
+        <tag>hexo-build</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Back to Simplicity</title>
     <url>/2020/11/15/Back-to-Simplicity/</url>
     <content><![CDATA[<h2 id="再一次，欢迎来到我的www站点。"><a href="#再一次，欢迎来到我的www站点。" class="headerlink" title="再一次，欢迎来到我的www站点。"></a>再一次，欢迎来到我的www站点。</h2><p>距离上一次写Blog已经过去了两个月，整整两个月。</p>
@@ -2237,24 +2285,6 @@
 <p>至于之前的Gitalk评论，国内的访问连接成功率不高，所以取消，正在寻找别的替代源。</p>
 <hr>
 <p>之后会发一些技术笔记和牢骚，反正也没人看。（一旦火了我的域名444端口肯定被查封外加喝茶警告。）</p>
-]]></content>
-      <categories>
-        <category>TestPage</category>
-      </categories>
-      <tags>
-        <tag>hexo-build</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>First Article</title>
-    <url>/2020/09/15/First-Article/</url>
-    <content><![CDATA[<h2 id="欢迎来到我的www站点"><a href="#欢迎来到我的www站点" class="headerlink" title="欢迎来到我的www站点"></a>欢迎来到我的www站点</h2><p>这张页面是第一张人工输入的MarkDown页面。</p>
-<p>本站点使用 Github Pages&lt; <a href="https://vmarkii.github.io">https://vmarkii.github.io</a> &gt; + Hexo + Fluid主题制作，重定向至<a href="https://www.vmarkii.com">https://www.vmarkii.com</a></p>
-<p>对于中国境内的用户，由于443端口不开放的原因，请使用这个链接来访问我的站点：<a href="https://vmarkii.com:444">https://vmarkii.com:444</a></p>
-<h2 id="Coding-Test"><a href="#Coding-Test" class="headerlink" title="Coding Test"></a>Coding Test</h2><figure class="highlight csharp"><table><tr><td class="code"><pre><span class="line"><span class="comment">//CSharp code</span></span><br><span class="line"></span><br><span class="line">System.<span class="keyword">out</span>.println(<span class="string">&quot;Hello World!&quot;</span>);</span><br><span class="line"></span><br></pre></td></tr></table></figure>
-<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="comment">//C++ code</span></span><br><span class="line"></span><br><span class="line"><span class="built_in">std</span>::<span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;Hello World!&quot;</span>;</span><br><span class="line"></span><br></pre></td></tr></table></figure>
-<h2 id="MathJax-Test"><a href="#MathJax-Test" class="headerlink" title="MathJax Test"></a>MathJax Test</h2><script type="math/tex; mode=display">\lim_{n\rightarrow \infty}(1+2^n+3^n)^\frac{1}{x+\sin n}</script><hr>
-<h2 id="测试一下评论吧"><a href="#测试一下评论吧" class="headerlink" title="测试一下评论吧"></a>测试一下评论吧</h2><p>下面是Gitalk测试评论块。</p>
 ]]></content>
       <categories>
         <category>TestPage</category>
@@ -2301,52 +2331,6 @@
       <tags>
         <tag>Project 10</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>Project 10</title>
-    <url>/2024/12/31/Project10/</url>
-    <content><![CDATA[<p>Project 10是一个由我组织，在高中同学们老师们帮助下完成的活动，一个高中毕业十年的教师节活动。</p>
-<p>它也将是一个终点。（这么说非常的残酷悲观，但是它是真实的）</p>
-<p>在中华人民共和国境内的用户，请使用这个链接下载视频。<a href="https://pan.xunlei.com/s/VOFLzJWM7xta4p_xnrq4-lW2A1?pwd=7pyr#">迅雷网盘</a></p>
-<p>在2025年1月30日之前，你可以使用这个链接直接播放视频。<a href="https://www.bilibili.com/video/BV1A163YVET5/">哔哩哔哩动画</a></p>
-<p>在中华人民共和国境外的用户，请使用这个链接下载视频。<a href="https://1drv.ms/f/c/cb474e40285e16c4/EpFc8WnOVr1JisDjVkHYtK4BSvJDN3JuTJieieMwmIr-9A?e=DAKeQY">Microsoft OneDrive</a></p>
-<p>每一天都可以是教师节，一句寒暄对于老师来说既是快乐，也是鼓励。<br>再次对能够来到复旦实验中学中原校区的同学致以感谢。</p>
-<hr>
-<p>历史群公告：</p>
-<p><strong>2024年7月29日 18:34</strong></p>
-<p>各位复旦实验中学高中部2014届的学生大家好！群主是2014届物理班的沈臻宇，有人知道我为胡子（xjmz就不提了）。<br>十年就这样过去了，我琢磨着日子再过久一点老师退休离开学校（已经有老师退休了哦），再去添加长时间不联系的同学为好友十有八九脑子里想“你____谁啊？”，我故鼓起勇气通过各方联系召集同学们在2024年的教师节通过预录视频或者亲自到场，和老师们说说话，让老师们看看你们。<br>各位到群的同学可以把群昵称改成你的实名或者班级+实名，也恳请各位把在三次元圈子里有未加入该群且想和老师说说话的同学加到该群。<br>公告就先这样。</p>
-<hr>
-<p><strong>2024年9月1日 10:07</strong></p>
-<p>各位复旦实验中学高中部2014届的同学大家好！<br>接下来的内容将会具体说说2024年9月10日同学们需要知道的消息和现在需要做的，以及我准备的一个一个半小时左右的Project 10的具体流程。<br>一. 2024年9月10日可以来到复旦实验中学的，包括可以从就职岗位请假或者就是有空的，或者已经与我见面过且拍摄完视频，但是2024年9月10日还有可能来的同学：</p>
-<p>1) 地点：复旦实验中学高中部（中原校区）。请千万千万！！！！！！不要去安波路151号！！！！！！我们熟悉的高中部搬走了！！！它搬到了中原路698弄，8号线终点站市光路地铁站1号口出来步行440米。然后因为中原校区比安波路原校区小很多，为了不打扰到在学校内教课的老师和上课的同学，我已向郑小鲁老师报备了一个多功能厅。</p>
-<p>2) 时间：鉴于我们能见到的老师们还在上课，同学们可以中午开始过来，Project 10将会于下午4点开始，大约于下午5点半结束。</p>
-<p>3) 小小请求：请各位的穿着不要过于吸引眼球，毕竟校区过小在教学楼内穿梭还是躲不了各位在读高中生的眼光。</p>
-<p>4) 开始：中午开始过来的同学们可以到教师办公室找认识的老师们叙叙旧，聊聊自己，合个影。其实这个是最主要的事情。在去年我去看老师的时候，他们也是说，能看看十年后的同学们就是对老师最好的礼物了。下午4点开始我们可能需要等到学校放学后2014届还在复旦实验中学的执教老师聚齐先拍一张集体照，然后就是Project 10了。</p>
-<p>5) Project 10：其实就是播放那些不能来到复旦实验中学的同学们留下的教师节祝福视频，老师们可以在教师节看到那些没有来的同学们，然后播放那些已经退休或者不在复旦实验中学执教的老师们的视频。这个环节不太一样的是，这次与我见面拍摄的视频是使用Apple Vision Pro拍摄的空间视频，按照我的一位同学说，赛博永生，贴切！老师可以戴上Vision Pro回放视频，这样老师就可以像看到同学站在或者坐在ta面前。</p>
-<p>  4） 和 5）完成后，各位如果有同学间聚会或者一起吃个晚饭之类的想法（洋气点叫After-Party），各位请自组织抱团。我不会参与之后的活动安排。</p>
-<p>6) 能来的同学们看到这里开始要做的事情：请微信私信告诉我你能来。这个为最终确认。统计人数。没我好友加我好友，到现在都没加我的我可能真的不认识你。</p>
-<p>二. 2024年9月10日不可以来到复旦实验中学的，包括确认2024年9月10日有工作或者个人安排在身，或者协商完会发视频或者语音的同学：恳请各位在2024年9月10日下午3点前将你的视频和祝福语音发给我。没我好友加我好友，到现在都没加我的我可能真的不认识你，又或者我加了你你没有回复。</p>
-<p>三. 我没有联系过你的话，请及时加我的微信私下告知你是否可以到场。</p>
-<p>四. 这个部分我会讲一个关于集体照的想法，我会开启一个群接龙来征求各位同学的建议：在拍集体照的环节，我们是否需要人手一个A4或者A5纸，上面打印名字，举在胸前来拍一张集体照？名字可以非实名或者只写一个姓氏，又或者不写名字可以写自己的工作/网名/状态（/MBTI???这下变味了)？ </p>
-<p>五. 招募志愿者（我也要白嫖了）：一个摄像，这位摄像如果有自己的设备（单反或者iPhone 15 Pro或者iPhone 15 Pro Max）那我在这里谢谢你了（鞠躬🙇）。还有一个摄像，这位摄像帮我用一个磁带DV跟拍即可，设备我提供。两位可能需要中午就能到。</p>
-<p>公告就先这样，这个群公告写成小作文了是真的难顶。</p>
-<hr>
-<p><strong>2024年9月9日 12:34</strong></p>
-<p>计划有变。历史群公告已删除。</p>
-<p>可以来复旦实验中学高中部的同学请注意。</p>
-<p>接到郑小鲁老师通知，9月10日14:30以后所有教师将去安波路校区，他们有教师节活动。<br>请于9月10日13:00到场拍摄集体照后开始活动。</p>
-<p>⚠️请各位的穿着不要过于吸引眼球，毕竟校区过小在教学楼内穿梭还是躲不了各位在读高中生的眼光。然后‼️严禁在校园内吸烟。</p>
-<hr>
-<p><strong>2024年9月10日 15:52</strong></p>
-<p>Project 10 在2024年9月10日完成了主活动的摄影。<br>如果群里有同学希望找我拍空间视频出个镜，你依然可以找我。<br>我会择日再去学校补齐教师的空间视频。<br>2024年11月30日Project 10主视频完成剪辑和后期，会发布传统2D视频和Vision Pro空间视频两种制式。<br>2024年12月31日该群将解散。<br>每一天都可以是教师节，一句寒暄对于老师来说既是快乐，也是鼓励。<br>再次对能够来到复旦实验中学中原校区的同学致以感谢。<br>这也是最后的群公告了。祝各位身体健康，生活愉快，工作顺利。</p>
-<p>江湖再见。</p>
-<hr>
-<p><strong>2024年9月17日 10:30</strong></p>
-<p>Project 10 在2024年9月10日完成了主活动的摄影。<br>如果群里有同学希望找我拍空间视频出个镜，你依然可以找我。<br>我会择日再去学校补齐教师的空间视频。<br>2024年11月30日Project 10主视频完成剪辑和后期，会发布传统2D视频和Vision Pro空间视频两种制式。</p>
-<p>同学们仍然可以将未加入群的同学邀请至此，各位新加入该群的同学若可以，将你在该群的群昵称设置为你的名字。</p>
-<p>鉴于各位同学的建议，2024年12月31日该群将不会解散，改名为“复旦实验2014届高中群”。</p>
-<p>每一天都可以是教师节，一句寒暄对于老师来说既是快乐，也是鼓励。<br>再次对能够来到复旦实验中学中原校区的同学致以感谢。<br>祝各位身体健康，生活愉快，工作顺利。</p>
-]]></content>
   </entry>
   <entry>
     <title>How to deploy your flask web app to nginx via uWSGI in CentOS?</title>
@@ -2442,36 +2426,6 @@
       </categories>
       <tags>
         <tag>Dev</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2023年02月26日</title>
-    <url>/2023/02/26/20230226/</url>
-    <content><![CDATA[<h1 id="李培楠获得2023-IEM卡托维兹站《星际争霸2》项目总决赛冠军"><a href="#李培楠获得2023-IEM卡托维兹站《星际争霸2》项目总决赛冠军" class="headerlink" title="李培楠获得2023 IEM卡托维兹站《星际争霸2》项目总决赛冠军"></a>李培楠获得2023 IEM卡托维兹站《星际争霸2》项目总决赛冠军</h1><p>2023年2月13日，像梦一样。</p>
-<p>没有人能够想到中国也能有人获得这个级别的世界冠军。</p>
-<p>零的突破。</p>
-<p>“我都能够获得世界冠军，没有什么是不可能的。”</p>
-<p>这样的故事，爽文都不敢写的剧情。</p>
-<p>Who is Time? This is Oliveria!</p>
-<p>“没有服务器的国家出了个世界冠军，太TMD傻逼了。”</p>
-<h2 id="第一次想要喝酒"><a href="#第一次想要喝酒" class="headerlink" title="第一次想要喝酒"></a>第一次想要喝酒</h2><p>由于这个冠军，我第一次自己想去喝一点。</p>
-<p>喝的啤酒，因为我不会喝酒。</p>
-<h2 id="scboy淘宝店出了冠军联名T恤"><a href="#scboy淘宝店出了冠军联名T恤" class="headerlink" title="scboy淘宝店出了冠军联名T恤"></a>scboy淘宝店出了冠军联名T恤</h2><p>“我的钱包说它想要放放血！”</p>
-<p><del>4万+的销量，谁说25仔没有购买力的？</del></p>
-<h2 id="终于把我破机箱里的东西换到新机箱了"><a href="#终于把我破机箱里的东西换到新机箱了" class="headerlink" title="终于把我破机箱里的东西换到新机箱了"></a>终于把我破机箱里的东西换到新机箱了</h2><h2 id="自己买烤肠自己烤着吃真的香！"><a href="#自己买烤肠自己烤着吃真的香！" class="headerlink" title="自己买烤肠自己烤着吃真的香！"></a>自己买烤肠自己烤着吃真的香！</h2><p>三顿都是烤肠不在话下。<del>就是自己要变成烤肠了…</del></p>
-<h2 id="Daft-Punk又出新专辑（在炒冷饭）了"><a href="#Daft-Punk又出新专辑（在炒冷饭）了" class="headerlink" title="Daft Punk又出新专辑（在炒冷饭）了"></a>Daft Punk又出新专辑（在炒冷饭）了</h2><p>Random Access Memories 10 Years Anniversary Edition</p>
-<p>不会退出乐坛可以不退，可以去咬打火机。</p>
-<h2 id="拿出了我的旧机器里的硬盘"><a href="#拿出了我的旧机器里的硬盘" class="headerlink" title="拿出了我的旧机器里的硬盘"></a>拿出了我的旧机器里的硬盘</h2><p>恢复了许多数据出来。高中回忆和一些旧的小工具。</p>
-<h2 id="又去逛了轻纺城虬江路专区"><a href="#又去逛了轻纺城虬江路专区" class="headerlink" title="又去逛了轻纺城虬江路专区"></a>又去逛了轻纺城虬江路专区</h2><p>买了个MX Vertical鼠标和Nokia 6300。</p>
-<hr>
-<p>EOF.</p>
-]]></content>
-      <categories>
-        <category>Diary</category>
-      </categories>
-      <tags>
-        <tag>Milestone</tag>
-        <tag>Buying</tag>
       </tags>
   </entry>
 </search>
